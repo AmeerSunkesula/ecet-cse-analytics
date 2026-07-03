@@ -167,9 +167,14 @@ export default function Predictor() {
         <h2 className="text-2xl font-bold text-[var(--text-primary)]">
           🎯 Rank Predictor
         </h2>
-        <p className="text-sm text-[var(--text-muted)] mt-1">
-          Enter your ECET rank and preferences to see matching colleges.
-        </p>
+        <div className="flex flex-wrap items-center gap-2 mt-2">
+          <span className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-400">
+            📅 Based on 2025 cutoffs
+          </span>
+          <span className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/30 text-indigo-400">
+            ℹ️ Enter your <strong className="mx-0.5">integrated rank</strong> for accurate predictions
+          </span>
+        </div>
       </div>
 
       {/* ── Filter Form ──────────────────────────────────── */}

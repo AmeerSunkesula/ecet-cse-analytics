@@ -8,7 +8,7 @@ import { GraduationCap, BarChart3, Database, Menu } from 'lucide-react';
  * Left  : menu toggle (mobile only) + app icon + title + subtitle
  * Right : two live stat badges (Colleges · Seats) driven by Redux selectors
  */
-const Header = ({ onMenuToggle }) => {
+const Header = ({ onMenuToggle, showMenuToggle = true }) => {
   const filteredColleges = useSelector(selectFilteredColleges);
   const dashboardStats = useSelector(selectDashboardStats);
 
@@ -20,14 +20,16 @@ const Header = ({ onMenuToggle }) => {
       <div className="flex items-center justify-between px-4 sm:px-6 py-3">
         {/* ── Left: Branding & Mobile Menu Toggle ── */}
         <div className="flex items-center gap-3">
-          {/* Mobile Menu Button */}
-          <button
-            onClick={onMenuToggle}
-            className="lg:hidden p-2 rounded-lg bg-[var(--bg-surface)] hover:bg-[var(--bg-surface-hover)] text-[var(--text-primary)] border border-[var(--border)] transition cursor-pointer"
-            aria-label="Toggle menu"
-          >
-            <Menu className="w-5 h-5" />
-          </button>
+          {/* Mobile Menu Button — only shown on College Database tab */}
+          {showMenuToggle && (
+            <button
+              onClick={onMenuToggle}
+              className="lg:hidden p-2 rounded-lg bg-[var(--bg-surface)] hover:bg-[var(--bg-surface-hover)] text-[var(--text-primary)] border border-[var(--border)] transition cursor-pointer"
+              aria-label="Toggle menu"
+            >
+              <Menu className="w-5 h-5" />
+            </button>
+          )}
 
           {/* Accent icon circle */}
           <div className="hidden sm:flex items-center justify-center w-10 h-10 rounded-full bg-[var(--accent)] shrink-0">

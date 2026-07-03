@@ -19,16 +19,21 @@ function App() {
 
   return (
     <div className="flex min-h-screen" style={{ background: 'var(--bg-primary)' }}>
-      {/* Sidebar — hidden on predictor tab on mobile (no filters needed) */}
-      <Sidebar isOpen={isSidebarOpen} onClose={() => setIsSidebarOpen(false)} />
+      {/* Sidebar — only shown on the College Database tab */}
+      {activeTab === 'grid' && (
+        <Sidebar isOpen={isSidebarOpen} onClose={() => setIsSidebarOpen(false)} />
+      )}
 
       {/* Main Content Area */}
       <main className="flex-1 min-h-screen transition-all duration-300 w-full">
         {/* Sticky Header */}
-        <Header onMenuToggle={() => setIsSidebarOpen(prev => !prev)} />
+        <Header
+          onMenuToggle={() => setIsSidebarOpen(prev => !prev)}
+          showMenuToggle={activeTab === 'grid'}
+        />
 
         {/* ── Tab Bar ──────────────────────────────────── */}
-        <div className="sticky top-[57px] z-30 lg:pl-72 border-b border-[var(--border)]"
+        <div className={`sticky top-[57px] z-30 border-b border-[var(--border)] ${activeTab === 'grid' ? 'lg:pl-72' : ''}`}
           style={{ background: 'rgba(15, 23, 42, 0.92)', backdropFilter: 'blur(16px)' }}>
           <div className="flex items-center gap-1 px-4 sm:px-6 pt-3 pb-0">
             {TABS.map(({ id, label, icon: Icon }) => {
@@ -54,7 +59,7 @@ function App() {
         </div>
 
         {/* ── Tab Content ──────────────────────────────── */}
-        <div className="p-4 sm:p-6 lg:pl-76">
+        <div className={`p-4 sm:p-6 ${activeTab === 'grid' ? 'lg:pl-76' : ''}`}>
 
           {/* ── COLLEGE DATABASE TAB ─────────────────── */}
           {activeTab === 'grid' && (
