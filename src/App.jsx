@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useSelector } from 'react-redux';
-import { LayoutGrid, Target } from 'lucide-react';
+import { LayoutGrid, BookOpen } from 'lucide-react';
 import Sidebar from './components/Sidebar';
 import Header from './components/Header';
 import DashboardVisuals from './components/DashboardVisuals';
@@ -8,8 +8,8 @@ import CollegeGrid from './components/CollegeGrid';
 import Predictor from './components/Predictor';
 
 const TABS = [
-  { id: 'grid',      label: 'College Database', icon: LayoutGrid },
-  { id: 'predictor', label: 'Rank Predictor',   icon: Target },
+  { id: 'grid',      label: 'College Database',       icon: LayoutGrid },
+  { id: 'predictor', label: 'CSE Course Predictor', icon: BookOpen },
 ];
 
 function App() {

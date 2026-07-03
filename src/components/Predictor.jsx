@@ -161,7 +161,7 @@ export default function Predictor() {
       {/* ── Page title ────────────────────────────────────── */}
       <div className="mb-6">
         <h2 className="text-2xl font-bold text-[var(--text-primary)]">
-          🎯 Rank Predictor
+          🎓 College CSE Course Predictor
         </h2>
         <div className="flex flex-wrap items-center gap-2 mt-2">
           <span className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-400">
@@ -169,6 +169,9 @@ export default function Predictor() {
           </span>
           <span className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/30 text-indigo-400">
             ℹ️ Enter your <strong className="mx-0.5">integrated rank</strong> for accurate predictions
+          </span>
+          <span className="inline-flex items-center gap-1.5 text-xs font-medium px-3 py-1 rounded-full bg-rose-500/10 border border-rose-500/30 text-rose-400">
+            ⚠️ Results are <strong className="mx-0.5">indicative only</strong> — seat allotment is not guaranteed
           </span>
         </div>
       </div>
