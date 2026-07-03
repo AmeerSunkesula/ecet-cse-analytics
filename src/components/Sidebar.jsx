@@ -18,12 +18,12 @@ import {
   Search,
   Filter,
   RotateCcw,
-  ChevronDown,
   SlidersHorizontal,
   MapPin,
   Building2,
   Tag,
   ArrowUpDown,
+  X,
 } from 'lucide-react';
 
 /* ── Shared Tailwind class strings ───────────────────────────── */
@@ -36,7 +36,7 @@ const labelClasses =
 const sectionClasses = 'border-t border-[var(--border)] pt-4';
 
 /* ── Component ───────────────────────────────────────────────── */
-export default function Sidebar() {
+export default function Sidebar({ isOpen, onClose }) {
   const dispatch = useDispatch();
 
   // Pull filter state from Redux
@@ -53,21 +53,41 @@ export default function Sidebar() {
   const { regions, districts, places } = useSelector(selectCascadeOptions);
 
   return (
-    <aside className="fixed left-0 top-0 w-72 h-screen overflow-y-auto glass-strong rounded-none p-5 flex flex-col gap-5 z-50">
-      {/* ── 1. Title + Reset ────────────────────────────────────── */}
-      <div className="flex items-center justify-between">
-        <h2 className="flex items-center gap-2 text-lg font-bold text-[var(--text-primary)]">
-          <SlidersHorizontal size={20} className="text-[var(--accent)]" />
-          Filters
-        </h2>
-        <button
-          onClick={() => dispatch(resetFilters())}
-          title="Reset all filters"
-          className="p-1.5 rounded-md text-[var(--text-muted)] hover:text-[var(--danger)] transition"
-        >
-          <RotateCcw size={16} />
-        </button>
-      </div>
+    <>
+      {/* Mobile Backdrop */}
+      {isOpen && (
+        <div 
+          className="fixed inset-0 z-40 bg-black/60 backdrop-blur-sm lg:hidden transition-opacity"
+          onClick={onClose}
+        />
+      )}
+
+      <aside className={`fixed left-0 top-0 w-72 h-screen overflow-y-auto glass-strong rounded-none p-5 flex flex-col gap-5 z-50 transition-transform duration-300 lg:translate-x-0 ${
+        isOpen ? 'translate-x-0' : '-translate-x-full'
+      }`}>
+        {/* ── 1. Title + Reset + Close ── */}
+        <div className="flex items-center justify-between">
+          <h2 className="flex items-center gap-2 text-lg font-bold text-[var(--text-primary)]">
+            <SlidersHorizontal size={20} className="text-[var(--accent)]" />
+            Filters
+          </h2>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => dispatch(resetFilters())}
+              title="Reset all filters"
+              className="p-1.5 rounded-md text-[var(--text-muted)] hover:text-[var(--danger)] transition cursor-pointer"
+            >
+              <RotateCcw size={16} />
+            </button>
+            <button
+              onClick={onClose}
+              className="lg:hidden p-1.5 rounded-md text-[var(--text-muted)] hover:text-[var(--text-primary)] transition cursor-pointer"
+              aria-label="Close filters"
+            >
+              <X size={18} />
+            </button>
+          </div>
+        </div>
 
       {/* ── 2. Search Input ─────────────────────────────────────── */}
       <div>
@@ -242,5 +262,6 @@ export default function Sidebar() {
         </select>
       </div>
     </aside>
+  </>
   );
 }

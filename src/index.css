@@ -25,6 +25,12 @@
   --sidebar-width: 18rem;
 }
 
+@media (min-width: 1024px) {
+  .lg\:pl-76 {
+    padding-left: 19rem !important;
+  }
+}
+
 /* ── Base ──────────────────────────────────────────────────── */
 *,
 *::before,
