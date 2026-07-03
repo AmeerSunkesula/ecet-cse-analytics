@@ -28,12 +28,11 @@ const CASTE_LABELS = {
   BC_D: 'BC-D',
   BC_E: 'BC-E',
   EWS:  'EWS',
-  SC:   'SC (All)',
+  SC_I: 'SC - I',
+  SC_II: 'SC - II',
+  SC_III: 'SC - III',
   ST:   'ST',
 };
-
-// For SC we try all sub-types
-const SC_SUBTYPES = ['SC_I', 'SC_II', 'SC_III'];
 
 // Probability tier config
 const TIERS = {
@@ -59,7 +58,7 @@ const TIERS = {
  *    (most forgiving) cutoff is the one that benefits the student most.
  */
 function getApplicableCutoff(caste, gender, region, courseData) {
-  const casteTokens = caste === 'SC' ? SC_SUBTYPES : [caste];
+  const casteTokens = [caste];
   // Always check selected region + UR (non-local seats open to all)
   const regions = region === 'UR' ? ['UR'] : [region, 'UR'];
 
