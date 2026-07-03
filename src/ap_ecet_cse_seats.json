@@ -1,0 +1,6772 @@
+{
+  "grandTotals": {
+    "ALL_BRANCHES": {
+      "TOTAL": 30114,
+      "PVT": 29335,
+      "SF": 576,
+      "UNIV": 115,
+      "SS": 88
+    },
+    "CSE": {
+      "TOTAL": 15027,
+      "PVT": 14548,
+      "SF": 296,
+      "UNIV": 101,
+      "SS": 82
+    },
+    "CSD": {
+      "TOTAL": 3209,
+      "PVT": 3131,
+      "SF": 78
+    },
+    "CSM": {
+      "TOTAL": 3477,
+      "PVT": 3348,
+      "SF": 123,
+      "SS": 6
+    },
+    "CSC": {
+      "TOTAL": 837,
+      "PVT": 837
+    },
+    "AIM": {
+      "TOTAL": 1192,
+      "PVT": 1151,
+      "SF": 41
+    },
+    "INF": {
+      "TOTAL": 1745,
+      "PVT": 1718,
+      "SF": 13,
+      "UNIV": 14
+    },
+    "IT": {
+      "TOTAL": 0
+    },
+    "CAI": {
+      "TOTAL": 1969,
+      "PVT": 1969
+    },
+    "AID": {
+      "TOTAL": 1769,
+      "PVT": 1769
+    },
+    "AI": {
+      "TOTAL": 376,
+      "PVT": 351,
+      "SF": 25
+    },
+    "CIC": {
+      "TOTAL": 268,
+      "PVT": 268
+    },
+    "CSO": {
+      "TOTAL": 139,
+      "PVT": 139
+    },
+    "CSW": {
+      "TOTAL": 0
+    },
+    "CSB": {
+      "TOTAL": 106,
+      "PVT": 106
+    },
+    "CSN": {
+      "TOTAL": 0
+    }
+  },
+  "collegeDetails": [
+    {
+      "code": "ABRK",
+      "name": "ABR COLLEGE OF ENGG AND TECHNOLOGY (ABRK)",
+      "place": "KANIGIRI",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 42100,
+          "seats": 28
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 42100,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 42100,
+          "seats": 53
+        }
+      ]
+    },
+    {
+      "code": "ACEE",
+      "name": "ADARSH COLLEGE OF ENGINEERING (ACEE)",
+      "place": "GOLLAPROLU",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 51
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 38
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 47
+        }
+      ]
+    },
+    {
+      "code": "ACEM",
+      "name": "ADITYA COLLEGE OF ENGINEERING (ACEM)",
+      "place": "MADANAPALLE",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 14
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 28
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 15
+        }
+      ]
+    },
+    {
+      "code": "ACEV",
+      "name": "ALWAR COLLEGE OF ENGINEERING (ACEV)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 40000,
+          "seats": 36
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 129
+        }
+      ]
+    },
+    {
+      "code": "ADIT",
+      "name": "ADITYA INSTITUTE OF TECHNOLOGY AND MGMT (ADIT)",
+      "place": "TEKKALI",
+      "district": "SKL",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 79600,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 79600,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 79600,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 79600,
+          "seats": 21
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 79600,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "AECN",
+      "name": "ANDHRA ENGINEERING COLLEGE (AECN)",
+      "place": "ATMAKUR N",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "code": "AITK",
+      "name": "ANNAMACHARYA INST OF TECH AND SCI (AITK)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 36
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 73
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 59
+        }
+      ]
+    },
+    {
+      "code": "AITT",
+      "name": "ANNAMACHARYA INST OF TECHNOLOGYAND SCIENCES (AITT)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 27
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 55
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 20
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 40000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "ALIT",
+      "name": "ANDHRA LOYOLA INSTT OF ENGG AND TECHNOLOGY (ALIT)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 50700,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 50700,
+          "seats": 11
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 50700,
+          "seats": 11
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 50700,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "ALTS",
+      "name": "ANANTHA LAKSHMI INST OF TECHNOLOGY AND SCI (ALTS)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 61100,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 61100,
+          "seats": 62
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 61100,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 61100,
+          "seats": 30
+        }
+      ]
+    },
+    {
+      "code": "AMRN",
+      "name": "A.M.REDDY MEMORIAL COLL. OF ENGINEERING (AMRN)",
+      "place": "NARSARAOPET",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 97
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 34
+        }
+      ]
+    },
+    {
+      "code": "ANCUSF",
+      "name": "DR.YSR COLLEGE OF ENGINEERING & TECHNOLOGY-SELF FINANCE (ANCUSF)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 44000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 44000,
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "code": "ANIL",
+      "name": "ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY AND SCI (ANIL)",
+      "place": "BHEEMUNIPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 84100,
+          "seats": 38
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 84100,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 84100,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 84100,
+          "seats": 24
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 84100,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "ANMB",
+      "name": "ACHARYA COLLEGE OF ENGINEERING (ANMB)",
+      "place": "BADVEL",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 48
+        }
+      ]
+    },
+    {
+      "code": "ANRG",
+      "name": "AKKINENI NAGESWARA RAO COLLEGE OF ENGINEERING AND TECHNOLOGY (ANRG)",
+      "place": "GUDIVADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 49
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 28
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "ANSN",
+      "name": "ST. ANNS COLLEGE OF ENGG. AND TECHNOLOGY (ANSN)",
+      "place": "CHIRALA",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 56800,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 56800,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 56800,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 56800,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 56800,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "ANURSF",
+      "name": "ADI KAVI NANNAYA UNIVERSITY COLLEGE OF ENGG.-SELF FINANCE (ANURSF)",
+      "place": "RAJAHMUNDRY",
+      "district": "EG",
+      "region": "AU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 35000,
+          "seats": 8
+        }
+      ]
+    },
+    {
+      "code": "ARTB",
+      "name": "AVANTHIS RESEARCH AND TECHNOLOGICAL ACADEMY (ARTB)",
+      "place": "BHOGAPURAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 75
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 34
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 43
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 77
+        }
+      ]
+    },
+    {
+      "code": "ASET",
+      "name": "AUDISANKARA COLLEGE OF ENGG AND TECHNOLOGY (ASET)",
+      "place": "NELLORE",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 23
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 60
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 20
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "ASIP",
+      "name": "AMRITA SAI INST. OF SCIENCE AND TECHNOLOGY (ASIP)",
+      "place": "PARITALA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 66800,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 66800,
+          "seats": 123
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 66800,
+          "seats": 62
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 66800,
+          "seats": 14
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 66800,
+          "seats": 28
+        }
+      ]
+    },
+    {
+      "code": "ASKW",
+      "name": "ASHOKA WOMEN'S ENGINEERING COLLEGE (ASKW)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 50000,
+          "seats": 42
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 50000,
+          "seats": 31
+        }
+      ]
+    },
+    {
+      "code": "ASKWOC",
+      "name": "ASHOKA WOMEN'S ENGINEERING COLLEGE-OFF CAMPUS (ASKWOC)",
+      "place": "CHINNATEKURU VILLAGE",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "ASTC",
+      "name": "AVANTHIS ST THERESSA INSTITUTE OF ENGG AND TECHNOLOGY (ASTC)",
+      "place": "CHEEPURUPALLI",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 162
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 67
+        }
+      ]
+    },
+    {
+      "code": "ASVR",
+      "name": "SVR ENGINEERING COLLEGE (ASVR)",
+      "place": "NANDYAL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 56
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 33
+        }
+      ]
+    },
+    {
+      "code": "AUCE",
+      "name": "A U COLLEGE OF ENGG. VISAKHAPATNAM (AUCE)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 44500,
+          "seats": 10
+        }
+      ]
+    },
+    {
+      "code": "AUCESF",
+      "name": "A U COLLEGE OF ENGG-SELF FINANCE VISAKHAPATNAM (AUCESF)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 76900,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "AUEWSF",
+      "name": "A U COLLEGE OF ENGG FOR WOMEN-SELF FINANCE (AUEWSF)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 62000,
+          "seats": 7
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 62000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "AVEN",
+      "name": "AVANTHI INSTITUTE OF ENGG. AND TECHNOLOGY (AVEN)",
+      "place": "NARSIPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 110
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "AVEV",
+      "name": "AVANTHI INST. OF ENGINEERING AND TECHNOLOGY (AVEV)",
+      "place": "BHOGAPURAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 48
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 16
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 26
+        }
+      ]
+    },
+    {
+      "code": "BABA",
+      "name": "BABA INST OF TECH AND SCIENCES (BABA)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 11
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 33
+        }
+      ]
+    },
+    {
+      "code": "BCET",
+      "name": "BEHARA COLLEGE OF ENGINEERING AND TECHNOLOGY (BCET)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 102
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 46
+        }
+      ]
+    },
+    {
+      "code": "BECB",
+      "name": "BAPATLA ENGINEERING COLLEGE (BECB)",
+      "place": "BAPATLA",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 84900,
+          "seats": 31
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 84900,
+          "seats": 11
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 84900,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 84900,
+          "seats": 16
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 84900,
+          "seats": 22
+        }
+      ]
+    },
+    {
+      "code": "BEMA",
+      "name": "BHEEMA INST OF TECHNOLOGY AND SCI (BEMA)",
+      "place": "ADONI",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 67
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 3
+        }
+      ]
+    },
+    {
+      "code": "BITS",
+      "name": "BHASKAR  INSTITUTE  OF TECHNOLOGY & SCIENCE (BITS)",
+      "place": "RAYACHOTY",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 40000,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 33
+        }
+      ]
+    },
+    {
+      "code": "BRAUSF",
+      "name": "COLLEGE OF ENGINEERING BR AMBEDKAR UNIV SELF FINANCE (BRAUSF)",
+      "place": "SRIKAKULAM",
+      "district": "SKL",
+      "region": "AU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 48500,
+          "seats": 14
+        }
+      ]
+    },
+    {
+      "code": "BRNK",
+      "name": "BRINDAVAN INST OF TECHNOLOGY AND SCI (BRNK)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 73
+        }
+      ]
+    },
+    {
+      "code": "BVCE",
+      "name": "B V CHALAMAIAH ENGINEERING COLLEGE (BVCE)",
+      "place": "ODALAREVU",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 48800,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 48800,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 48800,
+          "seats": 8
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 48800,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "BVCR",
+      "name": "BVC COLLEGE OF ENGINEERING (BVCR)",
+      "place": "RAJAHMUNDRY",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 42
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 23
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 50
+        }
+      ]
+    },
+    {
+      "code": "BVRM",
+      "name": "BHIMAVARAM INST. OF ENGG. AND TECHNOLOGY (BVRM)",
+      "place": "BHIMAVARAM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 111
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 50
+        }
+      ]
+    },
+    {
+      "code": "BVSR",
+      "name": "BVSR ENGINEERING COLLEGE (BVSR)",
+      "place": "CHIMAKURTHY",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 14
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 28
+        }
+      ]
+    },
+    {
+      "code": "BVTS",
+      "name": "BONAM VENKATA CHALAMAIAH INST. OF TECH AND SCI. (BVTS)",
+      "place": "AMALAPURAM",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 52800,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 52800,
+          "seats": 18
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 52800,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "BWEC",
+      "name": "BAPATLA WOMENS ENGG COLLEGE (BWEC)",
+      "place": "BAPATLA",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 13
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 34
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 47
+        }
+      ]
+    },
+    {
+      "code": "CBIT",
+      "name": "CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY (CBIT)",
+      "place": "PALLAVOLU",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 54500,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 54500,
+          "seats": 84
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 54500,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "CCVY",
+      "name": "VRS AND YRN COLLEGE OF ENGG. AND TECHNOLOGY (CCVY)",
+      "place": "CHIRALA",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 50
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 27
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 40000,
+          "seats": 27
+        }
+      ]
+    },
+    {
+      "code": "CECC",
+      "name": "CHIRALA ENGINEERING COLLEGE (CECC)",
+      "place": "CHIRALA",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 126
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 53
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 52
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "CEVP",
+      "name": "CHAITANYA ENGINEERING COLLEGE (CEVP)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 96
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 150
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 32
+        }
+      ]
+    },
+    {
+      "code": "CHDL",
+      "name": "CHADALAWADA RAMANAMMA ENGG. COLLEGE (CHDL)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 55600,
+          "seats": 85
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 55600,
+          "seats": 85
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 55600,
+          "seats": 85
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 55600,
+          "seats": 73
+        }
+      ]
+    },
+    {
+      "code": "CHKN",
+      "name": "CHAITANYA INST. OF SCI. AND TECHNOLOGY (CHKN)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 93
+        }
+      ]
+    },
+    {
+      "code": "CIET",
+      "name": "CHALAPATHI INST OF ENGG AND TECHNOLOGY (CIET)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 66
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 66
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 40
+        }
+      ]
+    },
+    {
+      "code": "CITY",
+      "name": "CHALAPATHI INST OF TECHNOLOGY (CITY)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 21
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 145
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 179
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 67
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 86
+        }
+      ]
+    },
+    {
+      "code": "CRIT",
+      "name": "CHIRANJEEVI REDDY INST OF ENGG AND TECHNOLOGY FOR WOMEN (CRIT)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 41
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 41
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 70
+        }
+      ]
+    },
+    {
+      "code": "CRRE",
+      "name": "SIR C R R COLLEGE OF ENGINEERING (CRRE)",
+      "place": "ELURU",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 54200,
+          "seats": 39
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 54200,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 54200,
+          "seats": 6
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 54200,
+          "seats": 21
+        }
+      ]
+    },
+    {
+      "code": "CVRT",
+      "name": "SIR C.V RAMAN INST OF TECHNOLOGY SCIENCES (CVRT)",
+      "place": "TADIPATRI",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 41
+        }
+      ]
+    },
+    {
+      "code": "DHAN",
+      "name": "DHANEKULA INST OF ENGG TECHNOLOGY (DHAN)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 39
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "DIET",
+      "name": "DADI INSTT. OF ENGINEERING AND TECHNOLOGY (DIET)",
+      "place": "ANAKAPALLE",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 47400,
+          "seats": 11
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 47400,
+          "seats": 117
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 47400,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 47400,
+          "seats": 30
+        }
+      ]
+    },
+    {
+      "code": "DJRC",
+      "name": "SRI CHAITANYA -DJR COLL OF ENGG AND TECH (DJRC)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 108
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 51
+        }
+      ]
+    },
+    {
+      "code": "DLBC",
+      "name": "DR L BULLAYYA COLL EGE OF ENGINEERING (DLBC)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 46700,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "DNRE",
+      "name": "DNR COLLEGE OF ENGG AND TECH (DNRE)",
+      "place": "BHIMAVARAM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 60000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 60000,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 60000,
+          "seats": 8
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 60000,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "DRAVSF",
+      "name": "DRAVIDIAN UNIVERSITY COLLEGE OF ENGG & TECH -SELF FINANACE (DRAVSF)",
+      "place": "KUPPAM",
+      "district": "CTR",
+      "region": "SW",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 45000,
+          "seats": 58
+        }
+      ]
+    },
+    {
+      "code": "DSIT",
+      "name": "DAMISETTY BALA SURESH INST OF TECHNOLOGY (DSIT)",
+      "place": "KAVALI",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 26
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 58
+        }
+      ]
+    },
+    {
+      "code": "ELRU",
+      "name": "ELURU COLLEGE OF ENGG AND TECHNOLOGY (ELRU)",
+      "place": "ELURU",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 20
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 40
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 36
+        }
+      ]
+    },
+    {
+      "code": "ESWR",
+      "name": "ESWAR COLLEGE OF ENGINEERING (ESWR)",
+      "place": "NARSARAOPET",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "GATE",
+      "name": "GATES INSTITUTE OF TECHNOLOGY (GATE)",
+      "place": "GOOTY",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 20
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 115
+        }
+      ]
+    },
+    {
+      "code": "GDLV",
+      "name": "SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE (GDLV)",
+      "place": "GUDLAVALLERU",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 74600,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 74600,
+          "seats": 36
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 74600,
+          "seats": 12
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 74600,
+          "seats": 25
+        }
+      ]
+    },
+    {
+      "code": "GGIB",
+      "name": "GOKUL GROUP OF INSTITUTIONS (GGIB)",
+      "place": "BOBBILI",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 46
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 32
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 53
+        }
+      ]
+    },
+    {
+      "code": "GIET",
+      "name": "GIET ENGINEERING COLLEGE (GIET)",
+      "place": "RAJAHMUNDRY",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 51000,
+          "seats": 35
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 51000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 51000,
+          "seats": 11
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 51000,
+          "seats": 23
+        }
+      ]
+    },
+    {
+      "code": "GITS",
+      "name": "GONNA INST OF INFO TECHNOLOGY SCIENCES (GITS)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 46300,
+          "seats": 23
+        }
+      ]
+    },
+    {
+      "code": "GKCS",
+      "name": "GOKULA KRISHNA COLLEGE OF ENGINEERING (GKCS)",
+      "place": "SULLURPET",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 47
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 121
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 47
+        }
+      ]
+    },
+    {
+      "code": "GLBC",
+      "name": "GLOBAL COLL OF ENGG AND TECHNOLOGY (GLBC)",
+      "place": "CHENUR",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 53
+        }
+      ]
+    },
+    {
+      "code": "GLIM",
+      "name": "A1 GLOBAL INST OF ENGG TECHNOLOGY (GLIM)",
+      "place": "MARKAPUR",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSB",
+          "branchName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+          "fee": 40000,
+          "seats": 3
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 40000,
+          "seats": 3
+        }
+      ]
+    },
+    {
+      "code": "GMRI",
+      "name": "G M R INSTITUTE OF TECHNOLOGY (GMRI)",
+      "place": "RAJAM",
+      "district": "SKL",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 77800,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 77800,
+          "seats": 12
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 77800,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "GPRE",
+      "name": "G PULLA REDDY ENGINEERING. COLLEGE (GPRE)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 84000,
+          "seats": 37
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 84000,
+          "seats": 30
+        }
+      ]
+    },
+    {
+      "code": "GTMW",
+      "name": "GOUTHAMI INST OF TECHNOLOGY MGMT FOR WOMEN (GTMW)",
+      "place": "PRODDATUR",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 31
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 10
+        }
+      ]
+    },
+    {
+      "code": "GTNN",
+      "name": "GEETHANJALI INST OF SCIENCE AND TECHNOLOGY (GTNN)",
+      "place": "NELLORE",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 55200,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 55200,
+          "seats": 47
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 55200,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "GVIC",
+      "name": "GOLDEN VALLEY INTEGRATED CAMPUS (GVIC)",
+      "place": "MADANAPALLE",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 46700,
+          "seats": 72
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 46700,
+          "seats": 96
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 46700,
+          "seats": 52
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 46700,
+          "seats": 75
+        }
+      ]
+    },
+    {
+      "code": "GVPE",
+      "name": "GAYATHRI VIDYA PARISHAD COLL. OF ENGINEERING (GVPE)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 105000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 105000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 105000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 105000,
+          "seats": 12
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 105000,
+          "seats": 10
+        }
+      ]
+    },
+    {
+      "code": "GVPT",
+      "name": "G V P COLLEGE FOR DEGREE AND PG COURSES (GVPT)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 92400,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 92400,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "GVPW",
+      "name": "GAYATHRI VIDYA PARISHAD COLL OF ENGG FOR WOMEN (GVPW)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 105000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 105000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 105000,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "GVRS",
+      "name": "G V R AND S COLLEGE OF ENGG. AND TECHNOLOGY (GVRS)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 49
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 84
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 33
+        }
+      ]
+    },
+    {
+      "code": "HIND",
+      "name": "HINDU COLLEGE OF ENGINEERING AND TECHNOLOGY (HIND)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 35
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 99
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 25
+        }
+      ]
+    },
+    {
+      "code": "HITE",
+      "name": "HELAPURI INST OF TECH AND SCIENCE (HITE)",
+      "place": "ELURU",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 96
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 20
+        }
+      ]
+    },
+    {
+      "code": "IDEL",
+      "name": "IDEAL INSTITUTE OF TECHNOLOGY (IDEL)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 24
+        }
+      ]
+    },
+    {
+      "code": "IITM",
+      "name": "INDIRA INST OF TECHNOLOGY SCI (IITM)",
+      "place": "MARKAPUR",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 33
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 91
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 27
+        }
+      ]
+    },
+    {
+      "code": "ISTS",
+      "name": "INTERNATIONAL SCHOOL OF TECH AND SCI FOR WOMEN (ISTS)",
+      "place": "RAJAHMUNDRY",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 54000,
+          "seats": 28
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 54000,
+          "seats": 61
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 54000,
+          "seats": 123
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 54000,
+          "seats": 150
+        }
+      ]
+    },
+    {
+      "code": "ISTSOC",
+      "name": "INTERNATIONAL SCHOOL OF TECH AND SCI -OFF CAMPUS (ISTSOC)",
+      "place": "JANGAREDDYGUDEM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 40000,
+          "seats": 161
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 106
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 46
+        }
+      ]
+    },
+    {
+      "code": "JNTA",
+      "name": "JNTUA COLLEGE OF ENGG. ANANTAPURAMU (JNTA)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "JNTASF",
+      "name": "JNTUA COLLEGE OF ENGG. ANANTAPURAMU - SELF FINANACE (JNTASF)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 75000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "JNTASS",
+      "name": "JNTUA COLLEGE OF ENGG. ANANTAPURAMU -  SELF SUPPORTING (JNTASS)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "SS",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 150000,
+          "seats": 20
+        }
+      ]
+    },
+    {
+      "code": "JNTC",
+      "name": "JNTUA COLLEGE OF ENGINEERING. KALIKIRI (JNTC)",
+      "place": "KALIKIRI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 11
+        }
+      ]
+    },
+    {
+      "code": "JNTK",
+      "name": "JNTUK COLLEGE OF ENGG. KAKINADA (JNTK)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "JNTKSS",
+      "name": "JNTUK COLLEGE OF ENGG. KAKINADA-SELF SUPPORTING (JNTKSS)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "SS",
+      "details": [
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 75000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "JNTN",
+      "name": "JNTUK COLLEGE OF ENGINEERING NARSARAOPETA (JNTN)",
+      "place": "NARSARAOPET",
+      "district": "GTR",
+      "region": "AU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 22
+        }
+      ]
+    },
+    {
+      "code": "JNTP",
+      "name": "JNTUA COLLEGE OF ENGG PULIVENDULA (JNTP)",
+      "place": "PULIVENDULA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "JNTSKSF",
+      "name": "JNTUA- SRI KALAHASTEESWARA INSTITUTE OF TECHNOLOGY-SELF FINA (JNTSKSF)",
+      "place": "SRI KALAHASTHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 70000,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 70000,
+          "seats": 69
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 70000,
+          "seats": 58
+        }
+      ]
+    },
+    {
+      "code": "JNTV",
+      "name": "JNTUGV COLLEGE OF ENGINEERING VIZIANAGARAM (JNTV)",
+      "place": "VIZIANAGARAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45000,
+          "seats": 13
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 45000,
+          "seats": 14
+        }
+      ]
+    },
+    {
+      "code": "JONY",
+      "name": "ST. JOHNS COLLEGE OF ENGG. AND TECHNOLOGY (JONY)",
+      "place": "YEMMIGANOOR",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 21
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 83
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 38
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 45
+        }
+      ]
+    },
+    {
+      "code": "KCIT",
+      "name": "KRISHNA CHAITANYA INST OF TECHNOLOGY AND SCIENCES (KCIT)",
+      "place": "MARKAPUR",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 46
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 169
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "KHIT",
+      "name": "KALLAM HARANADH REDDY INST OF TECH (KHIT)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40500,
+          "seats": 105
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40500,
+          "seats": 42
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40500,
+          "seats": 135
+        }
+      ]
+    },
+    {
+      "code": "KIEK",
+      "name": "KAKINADA INSTITUTE OF ENGG. AND TECHNOLOGY (KIEK)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 130
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 89
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 90
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 147
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 99
+        }
+      ]
+    },
+    {
+      "code": "KIET",
+      "name": "KAKINADA INSTITUTE OF ENGG. AND TECHNOLOGY (KIET)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 52400,
+          "seats": 21
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 52400,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 52400,
+          "seats": 29
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 52400,
+          "seats": 61
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 52400,
+          "seats": 24
+        }
+      ]
+    },
+    {
+      "code": "KIEW",
+      "name": "KAKINADA INST OF ENGG AND TECHNOLOGY FOR WOMEN (KIEW)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 34
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 133
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 66
+        }
+      ]
+    },
+    {
+      "code": "KISR",
+      "name": "KAKINADA INSTITUTE OF TECHNOLOGY SCIENCES (KISR)",
+      "place": "RAMACHANDRAPURAM",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 48
+        }
+      ]
+    },
+    {
+      "code": "KITG",
+      "name": "KITS  AKSHAR INSTITUTE OF TECHNOLOGY (KITG)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 58
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 32
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 19
+        }
+      ]
+    },
+    {
+      "code": "KITS",
+      "name": "KKR AND KSR INST OF TECHNOLOGY AND SCI (KITS)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40900,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40900,
+          "seats": 20
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40900,
+          "seats": 36
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40900,
+          "seats": 15
+        }
+      ]
+    },
+    {
+      "code": "KLMW",
+      "name": "KANDULA LAKSHUMMA MEMORIAL COLLEGE OF ENGG FOR WOMEN (KLMW)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 31
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 39
+        }
+      ]
+    },
+    {
+      "code": "KMMT",
+      "name": "KMM INST OF TECHNOLOGY AND SCIENCE (KMMT)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 26
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 76
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 20
+        }
+      ]
+    },
+    {
+      "code": "KORM",
+      "name": "KANDULA OBUL REDDY MEMORIAL COLL. OF ENGG. (KORM)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 20
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 43
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 73
+        }
+      ]
+    },
+    {
+      "code": "KRUESF",
+      "name": "KRISHNA UNIVERSITY COLLEGE OF ENGG AND TECHNOLOGY-SELF FINAN (KRUESF)",
+      "place": "MACHILIPATNAM",
+      "district": "KRI",
+      "region": "AU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40500,
+          "seats": 28
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40500,
+          "seats": 73
+        }
+      ]
+    },
+    {
+      "code": "KSRM",
+      "name": "K S R M COLLEGE OF ENGINEERING (KSRM)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 69600,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 69600,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 69600,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 69600,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "KTSP",
+      "name": "KAKINADA INSTITUTE OF TECHNOLOGY AND SCIENCE (KTSP)",
+      "place": "DIVILI",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 105
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 99
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 42
+        }
+      ]
+    },
+    {
+      "code": "KUPM",
+      "name": "KUPPAM ENGINEERING COLLEGE (KUPM)",
+      "place": "KUPPAM",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 40000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 34
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 19
+        }
+      ]
+    },
+    {
+      "code": "KVSR",
+      "name": "DR.K.V.SUBBA REDDY INST. OF TECHNOLOGY (KVSR)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 45700,
+          "seats": 13
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45700,
+          "seats": 37
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 45700,
+          "seats": 8
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 45700,
+          "seats": 16
+        }
+      ]
+    },
+    {
+      "code": "LBCE",
+      "name": "LAKIREDDY BALIREDDY COLLEGE OF ENGINEERING (LBCE)",
+      "place": "MYLAVARAM",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 78600,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 78600,
+          "seats": 55
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 78600,
+          "seats": 12
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 78600,
+          "seats": 16
+        }
+      ]
+    },
+    {
+      "code": "LENO",
+      "name": "LENORA COLLEGE OF ENGINEERING (LENO)",
+      "place": "RAMPACHODAVARAM",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 22
+        }
+      ]
+    },
+    {
+      "code": "LIET",
+      "name": "LENDI INST OF ENGG AND TECHNOLOGY (LIET)",
+      "place": "VIZIANAGARAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 62300,
+          "seats": 37
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 62300,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "LIMT",
+      "name": "LINGAYAS INST OF MGMT AND TECHNOLOGY (LIMT)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 53300,
+          "seats": 86
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 53300,
+          "seats": 74
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 53300,
+          "seats": 108
+        }
+      ]
+    },
+    {
+      "code": "LOYL",
+      "name": "LOYOLA INSTITUTE OF TECHNOLOGY AND MGMT (LOYL)",
+      "place": "SATTENAPALLY",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 84
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 50
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "MAMW",
+      "name": "M A M WOMEN'S ENGINEERING COLLEGE (MAMW)",
+      "place": "NARSARAOPET",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 109
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 17
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 27
+        }
+      ]
+    },
+    {
+      "code": "MICT",
+      "name": "DVR AND DR.HS MIC COLLEGE OF TECHNOLOGY (MICT)",
+      "place": "KANCHIKACHERLA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 18
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 36
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "MIET",
+      "name": "MANDAVA INSTITUTE OF ENGG AND TECHNOLOGY (MIET)",
+      "place": "JAGGAIAHPETA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 39
+        }
+      ]
+    },
+    {
+      "code": "MJRT",
+      "name": "MJR COLLEGE OF ENGG AND TECHNOLOGY (MJRT)",
+      "place": "PILER",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 41
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 51
+        }
+      ]
+    },
+    {
+      "code": "MLEW",
+      "name": "MALINENI LAKSHMAIAH WOMENS ENGG. COLLEGE (MLEW)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 52100,
+          "seats": 13
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 52100,
+          "seats": 51
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 52100,
+          "seats": 17
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 52100,
+          "seats": 24
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 52100,
+          "seats": 76
+        }
+      ]
+    },
+    {
+      "code": "MPLG",
+      "name": "SRI MITTAPALLI COLLEGE OF ENGINEERING (MPLG)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 124
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 311
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 89
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 51
+        }
+      ]
+    },
+    {
+      "code": "MRCL",
+      "name": "MIRACLE EDNL SOC GROUP OF INSTNS (MRCL)",
+      "place": "BHOGAPURAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 39
+        }
+      ]
+    },
+    {
+      "code": "MSEW",
+      "name": "MALINENI SUSEELAMMA WOMENS ENGG COLLEGE (MSEW)",
+      "place": "SINGARAYAKONDA",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 36
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 77
+        }
+      ]
+    },
+    {
+      "code": "MTIE",
+      "name": "MOTHER THERESA INST OF ENGG AND TECH (MTIE)",
+      "place": "PALAMNER",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 57200,
+          "seats": 12
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 57200,
+          "seats": 20
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 57200,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 57200,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "MVRG",
+      "name": "M V G R COLLEGE OF ENGINEERNG (MVRG)",
+      "place": "VIZIANAGARAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 76900,
+          "seats": 30
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 76900,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 76900,
+          "seats": 12
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 76900,
+          "seats": 6
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 76900,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "MVRS",
+      "name": "M.V.R.COLL OF ENGINEERING AND TECHNOLOGY (MVRS)",
+      "place": "PARITALA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 83
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 19
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 113
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 86
+        }
+      ]
+    },
+    {
+      "code": "NARN",
+      "name": "NARAYANA ENGINEERING COLLEGE (NARN)",
+      "place": "NELLORE",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 56000,
+          "seats": 13
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 56000,
+          "seats": 41
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 56000,
+          "seats": 19
+        }
+      ]
+    },
+    {
+      "code": "NBKR",
+      "name": "NBKR INSTITUTE OF SCI. AND TECHNOLOGY (NBKR)",
+      "place": "VIDYANAGAR",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 46400,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 46400,
+          "seats": 83
+        }
+      ]
+    },
+    {
+      "code": "NEWS",
+      "name": "NEWTONS INST OF SCI AND TECH (NEWS)",
+      "place": "MACHERLA",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 157
+        }
+      ]
+    },
+    {
+      "code": "NEWT",
+      "name": "NEWTON INSTITUTE OF ENGINEERING (NEWT)",
+      "place": "MACHERLA",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 59
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "NIST",
+      "name": "NARAYANADRI INST OF SCI TECHNOLOGY (NIST)",
+      "place": "RAJAMPETA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "NMRE",
+      "name": "NIMRA COLLEGE OF ENGG AND TECHNOLOGY (NMRE)",
+      "place": "JUPUDI",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 32
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 23
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 3
+        }
+      ]
+    },
+    {
+      "code": "NRIA",
+      "name": "NRI INSTITUTE OF TECHNOLOGY (NRIA)",
+      "place": "AGIRIPALLY",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 61600,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 61600,
+          "seats": 92
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 61600,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 61600,
+          "seats": 30
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 61600,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "NRIT",
+      "name": "NRI INSTT OF TECHNOLOGY (NRIT)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 78
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 62
+        }
+      ]
+    },
+    {
+      "code": "NRNG",
+      "name": "NARAYANA ENGINEERING COLLEGE (NRNG)",
+      "place": "GUDUR",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 46
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 33
+        }
+      ]
+    },
+    {
+      "code": "NSPE",
+      "name": "NARSARAOPETA ENGINEERING COLLEGE (NSPE)",
+      "place": "NARSARAOPET",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 73800,
+          "seats": 35
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 73800,
+          "seats": 100
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 73800,
+          "seats": 8
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 73800,
+          "seats": 16
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 73800,
+          "seats": 26
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 73800,
+          "seats": 59
+        }
+      ]
+    },
+    {
+      "code": "NSRE",
+      "name": "N S RAJU INSTITUTE OF ENGG AND TECHNOLOGY (NSRE)",
+      "place": "DAKAMARRI VILLAGE",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 36
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "NSRT",
+      "name": "NADIMPALLI SATYANARAYANA RAJU INSTITUTE OF TECHNOLOGY (NSRT)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 24
+        }
+      ]
+    },
+    {
+      "code": "NVAV",
+      "name": "NOVA COLLEGE OF ENGINEERING AND TECHNOLOGY (NVAV)",
+      "place": "IBRAHIMPATNAM",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSB",
+          "branchName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+          "fee": 40000,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 108
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "PACE",
+      "name": "PACE INSTITUTE OF TECHNOLOGY AND SCIENCES (PACE)",
+      "place": "ONGOLE",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 43600,
+          "seats": 18
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 43600,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 43600,
+          "seats": 51
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 43600,
+          "seats": 20
+        }
+      ]
+    },
+    {
+      "code": "PCEK",
+      "name": "G.PULLAIAH COLL. OF ENGG. AND TECHNOLOGY (PCEK)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 60900,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 60900,
+          "seats": 57
+        }
+      ]
+    },
+    {
+      "code": "PIIT",
+      "name": "PRIYADARSHINI INST OF TECH AND MGMT (PIIT)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 97
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 25
+        }
+      ]
+    },
+    {
+      "code": "PINN",
+      "name": "PRIYADARSHINI INST OF TECHNOLOGY (PINN)",
+      "place": "NELLORE",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 40
+        }
+      ]
+    },
+    {
+      "code": "PITT",
+      "name": "PRIYADARSHINI INST. OF TECHNOLOGY AND SCIENCES (PITT)",
+      "place": "TENALI",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 75
+        }
+      ]
+    },
+    {
+      "code": "PITW",
+      "name": "PRIYADARSHINI INST. OF TECH AND SCIENCES FOR WOMEN (PITW)",
+      "place": "TENALI",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 45
+        }
+      ]
+    },
+    {
+      "code": "PKSK",
+      "name": "PRAKASAM ENGINEERING COLLEGE (PKSK)",
+      "place": "KANDKUR",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 42
+        }
+      ]
+    },
+    {
+      "code": "PPDV",
+      "name": "PALADUGU PARVATHI DEVI COLLEGE OF ENGG AND TECH (PPDV)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 58
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 51
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 48
+        }
+      ]
+    },
+    {
+      "code": "PPSV",
+      "name": "PRASAD V POTLURI SIDDHARTHA INSTT OF TECHNOLOGY (PPSV)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 105000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 105000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 105000,
+          "seats": 6
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 105000,
+          "seats": 15
+        }
+      ]
+    },
+    {
+      "code": "PRAG",
+      "name": "PRAGATI ENGINEERING COLLEGE (PRAG)",
+      "place": "PEDDAPURAM",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 77800,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 77800,
+          "seats": 37
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 77800,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 77800,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 77800,
+          "seats": 18
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 77800,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "PREC",
+      "name": "DR PAUL RAJS ENGINEERING COLLEGE (PREC)",
+      "place": "YETAPAKA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 21
+        }
+      ]
+    },
+    {
+      "code": "PRIK",
+      "name": "PRIYADARSHINI COLL OF ENGG. AND TECHNOLOGY (PRIK)",
+      "place": "NELLORE",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 52
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 107
+        }
+      ]
+    },
+    {
+      "code": "PSCV",
+      "name": "POTTI SRIRAMULU COLLEGE OF ENGG AND TECHNOLOGY (PSCV)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 54000,
+          "seats": 8
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 54000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 54000,
+          "seats": 29
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 54000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 54000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 54000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 54000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "PVKK",
+      "name": "P.V.K.K. INSTITUTE OF TECHNOLOGY (PVKK)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 22
+        }
+      ]
+    },
+    {
+      "code": "PVKKOC",
+      "name": "P.V.K.K. INSTITUTE OF TECHNOLOGY-OFF CAMPUS (PVKKOC)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "PYDE",
+      "name": "PYDAH COLL OF ENGINEERING (PYDE)",
+      "place": "KAKINADA",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 17
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 156
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 19
+        }
+      ]
+    },
+    {
+      "code": "QISE",
+      "name": "QIS COLLEGE OF ENGG. AND TECHNOLOGY (QISE)",
+      "place": "ONGOLE",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 87600,
+          "seats": 20
+        },
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 87600,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 87600,
+          "seats": 103
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 87600,
+          "seats": 77
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 87600,
+          "seats": 18
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 87600,
+          "seats": 60
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 87600,
+          "seats": 152
+        }
+      ]
+    },
+    {
+      "code": "RACE",
+      "name": "RAMACHANDRA COLLEGE OF ENGINEERING (RACE)",
+      "place": "ELURU",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 60200,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 60200,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 60200,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 60200,
+          "seats": 8
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 60200,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "RAGU",
+      "name": "RAGHU ENGINEERING COLLEGE (RAGU)",
+      "place": "BHEEMUNIPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 80800,
+          "seats": 143
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 80800,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 80800,
+          "seats": 43
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 80800,
+          "seats": 11
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 80800,
+          "seats": 38
+        }
+      ]
+    },
+    {
+      "code": "RAVW",
+      "name": "RAVINDRA COLLEGE OF ENGG FOR WOMEN (RAVW)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 39
+        }
+      ]
+    },
+    {
+      "code": "RGIT",
+      "name": "RAJIV GANDHI MEMORIAL COLLEGE OF ENGG. AND TECH. (RGIT)",
+      "place": "NANDYAL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 59400,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 59400,
+          "seats": 14
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 59400,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 59400,
+          "seats": 24
+        }
+      ]
+    },
+    {
+      "code": "RIET",
+      "name": "RAJAMAHENDRI INST OF ENGG AND TECHNOLOGY (RIET)",
+      "place": "RAJAHMUNDRY",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 41000,
+          "seats": 91
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 41000,
+          "seats": 42
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 41000,
+          "seats": 53
+        }
+      ]
+    },
+    {
+      "code": "RKCE",
+      "name": "R.K.COLLEGE OF ENGINEERING (RKCE)",
+      "place": "IBRAHIMPATNAM",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 70
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 51
+        }
+      ]
+    },
+    {
+      "code": "RPRA",
+      "name": "RISE KRISHNA SAI PRAKASAM GROUP OF INSTITUTIONS (RPRA)",
+      "place": "ONGOLE",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40300,
+          "seats": 34
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40300,
+          "seats": 13
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40300,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "RSRN",
+      "name": "RAMIREDDY SUBBA RAMIREDDY ENGG COLLEGE (RSRN)",
+      "place": "NELLORE",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 37
+        }
+      ]
+    },
+    {
+      "code": "RUCESF",
+      "name": "RAYALASEEMA UNIVERSITY COLLEGE OF ENGG-SELF FINANCE (RUCESF)",
+      "place": "KURNOOL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 65500,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 65500,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "RVIT",
+      "name": "R V INSTITUTE OF TECHNOLOGY (RVIT)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 176
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 129
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 70
+        }
+      ]
+    },
+    {
+      "code": "RVJC",
+      "name": "R V R AND J C COLLEGE OF ENGINEERING (RVJC)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSB",
+          "branchName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+          "fee": 105000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 105000,
+          "seats": 36
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 105000,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 105000,
+          "seats": 8
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 105000,
+          "seats": 18
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 105000,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "SASI",
+      "name": "SASI INSTITUTE OF TECHNOLOGY AND ENGINEERING (SASI)",
+      "place": "TADEPALLIGUDEM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 55600,
+          "seats": 10
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 55600,
+          "seats": 32
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 55600,
+          "seats": 10
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 55600,
+          "seats": 19
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 55600,
+          "seats": 6
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 55600,
+          "seats": 19
+        }
+      ]
+    },
+    {
+      "code": "SATS",
+      "name": "SRI ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCE (SATS)",
+      "place": "RAJAMPETA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 50
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 26
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 53
+        }
+      ]
+    },
+    {
+      "code": "SAVE",
+      "name": "SANKETHIKA VIDYA PARISHAD ENGINEERING COLLEGE (SAVE)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 15
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 48
+        }
+      ]
+    },
+    {
+      "code": "SDTN",
+      "name": "SIDDHARTH INSTITUTE OF ENGG. AND TECHNOLOGY (SDTN)",
+      "place": "PUTTUR",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 65400,
+          "seats": 14
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 65400,
+          "seats": 84
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 65400,
+          "seats": 37
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 65400,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "SEAT",
+      "name": "SIDDARTHA EDNL ACADEMY GRP OF INSTNS (SEAT)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 60600,
+          "seats": 68
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 60600,
+          "seats": 52
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 60600,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 60600,
+          "seats": 36
+        }
+      ]
+    },
+    {
+      "code": "SGIT",
+      "name": "DR SAMUEL GEORGE INSTITUTE OF ENGG. AND TECHNOLOGY (SGIT)",
+      "place": "MARKAPUR",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 8
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 8
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 42
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 28
+        }
+      ]
+    },
+    {
+      "code": "SGVP",
+      "name": "SATYA INST OF TECHNOLOGY AND MGMT (SGVP)",
+      "place": "VIZIANAGARAM",
+      "district": "VZM",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 8
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 35
+        }
+      ]
+    },
+    {
+      "code": "SHEC",
+      "name": "SRI HARSHINI COLLEGE OF ENGINEERING AND TECHNOLOGY FOR WOMEN (SHEC)",
+      "place": "ONGOLE",
+      "district": "PKS",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 39
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 38
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 23
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "SIEN",
+      "name": "SRI SARATHI INSTITUTE OF ENGG. AND TECHNOLOGY (SIEN)",
+      "place": "NUZVID",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 129
+        }
+      ]
+    },
+    {
+      "code": "SIMH",
+      "name": "SIMHADRI EDNL SOC GRP OF INSTNS (SIMH)",
+      "place": "SABBAVARAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 28
+        }
+      ]
+    },
+    {
+      "code": "SKUASF",
+      "name": "SRI KRISHNADEVARAYA UNIV.COLL.OF ENG.- SELF FINANCE (SKUASF)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 70000,
+          "seats": 17
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 70000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 70000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "SMGG",
+      "name": "ST.MARYS GROUP OF INSTITUTIONS GUNTUR FOR WOMEN (SMGG)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 167
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 112
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 24
+        }
+      ]
+    },
+    {
+      "code": "SNIT",
+      "name": "SRI NALANDA INSTITUTE OF ENGINEERING  AND TECHNOLOGY (SNIT)",
+      "place": "SATTENAPALLY",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 108
+        }
+      ]
+    },
+    {
+      "code": "SPMUSF",
+      "name": "SCHOOL OF ENGG. TECH. SPMVV - SELF FINANCE (SPMUSF)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SW",
+      "type": "SF",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 49500,
+          "seats": 15
+        }
+      ]
+    },
+    {
+      "code": "SREC",
+      "name": "SANTHIRAM ENGINEERING COLLEGE (SREC)",
+      "place": "NANDYAL",
+      "district": "KNL",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 46300,
+          "seats": 37
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 46300,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 46300,
+          "seats": 21
+        }
+      ]
+    },
+    {
+      "code": "SRET",
+      "name": "SREE RAMA ENGINEERING COLLEGE (SRET)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 51400,
+          "seats": 12
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 51400,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 51400,
+          "seats": 42
+        }
+      ]
+    },
+    {
+      "code": "SRIN",
+      "name": "SRINIVASA INST OF ENGG AND TECHNOLOGY (SRIN)",
+      "place": "CHEYYERU",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 55100,
+          "seats": 38
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 55100,
+          "seats": 47
+        }
+      ]
+    },
+    {
+      "code": "SRIP",
+      "name": "SAI RAJESWARI INSTITUTE OF TECHNOLOGY (SRIP)",
+      "place": "PRODDATUR",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 50300,
+          "seats": 213
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 50300,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "SRIT",
+      "name": "SRINIVASA RAMANUJAN INST OF TECHNOLOGY (SRIT)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 49100,
+          "seats": 43
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 49100,
+          "seats": 20
+        }
+      ]
+    },
+    {
+      "code": "SRKI",
+      "name": "S R K INST. OF TECHNOLOGY (SRKI)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 45600,
+          "seats": 25
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 45600,
+          "seats": 14
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 45600,
+          "seats": 18
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 45600,
+          "seats": 16
+        }
+      ]
+    },
+    {
+      "code": "SRKR",
+      "name": "S R K R ENGINEERING COLLEGE (SRKR)",
+      "place": "BHIMAVARAM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 105000,
+          "seats": 29
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 105000,
+          "seats": 29
+        },
+        {
+          "branchCode": "CSB",
+          "branchName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+          "fee": 105000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 105000,
+          "seats": 34
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 105000,
+          "seats": 7
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 105000,
+          "seats": 21
+        }
+      ]
+    },
+    {
+      "code": "SRSR",
+      "name": "SRI SAI INSTITUTE OF TECHNOLOGY. AND SCI. (SRSR)",
+      "place": "RAYCHOTI",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 3
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 21
+        }
+      ]
+    },
+    {
+      "code": "SRTS",
+      "name": "SRINIVASA INST OF TECHNOLOGY  AND SCIENCE (SRTS)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 10
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 41
+        }
+      ]
+    },
+    {
+      "code": "SSCC",
+      "name": "SRINIVASA INSTITUTE OF TECHNOLOGY AND MANG STUDIES (SSCC)",
+      "place": "CHITTOOR",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 50300,
+          "seats": 74
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 50300,
+          "seats": 142
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 50300,
+          "seats": 79
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 50300,
+          "seats": 40
+        }
+      ]
+    },
+    {
+      "code": "SSCE",
+      "name": "SRI SIVANI COLLEGE OF ENGINEERING (SSCE)",
+      "place": "SRIKAKULAM",
+      "district": "SKL",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40200,
+          "seats": 11
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40200,
+          "seats": 33
+        }
+      ]
+    },
+    {
+      "code": "SSSE",
+      "name": "SANSKRITHI SCHOOL OF ENGINEERING (SSSE)",
+      "place": "PUTAPARTHI",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "STMW",
+      "name": "ST.MARYS WOMENS ENGINEERING COLLEGE (STMW)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 14
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "SVCE",
+      "name": "SRI VENKATESWARA COLL OF ENGINEERING - MAIN CAMPUS (SVCE)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 74500,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 74500,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 74500,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 74500,
+          "seats": 30
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 74500,
+          "seats": 19
+        }
+      ]
+    },
+    {
+      "code": "SVCEOC",
+      "name": "SRI VENKATESWARA COLLEGE OF ENGINEERING-OFF CAMPUS (SVCEOC)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 47100,
+          "seats": 99
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 47100,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "SVCN",
+      "name": "SREE VENKATESWARA COLL OF ENGG (SVCN)",
+      "place": "NORTH RAJU PALEM",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 43000,
+          "seats": 138
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 43000,
+          "seats": 27
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 43000,
+          "seats": 1137
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 43000,
+          "seats": 144
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 43000,
+          "seats": 108
+        }
+      ]
+    },
+    {
+      "code": "SVCT",
+      "name": "SRI VENKATESWARA COLLEGE OF ENGG. AND TECHNOLOGY (SVCT)",
+      "place": "CHITTOOR",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AI",
+          "branchName": "ARTIFICIAL INTELLIGENCE",
+          "fee": 71200,
+          "seats": 13
+        },
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 71200,
+          "seats": 20
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 71200,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSB",
+          "branchName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+          "fee": 71200,
+          "seats": 51
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 71200,
+          "seats": 90
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 71200,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 71200,
+          "seats": 64
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 71200,
+          "seats": 45
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 71200,
+          "seats": 50
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 71200,
+          "seats": 80
+        }
+      ]
+    },
+    {
+      "code": "SVEP",
+      "name": "S.V COLLEGE OF ENGINEERING (SVEP)",
+      "place": "PUTTUR",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 41
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 123
+        }
+      ]
+    },
+    {
+      "code": "SVET",
+      "name": "SRI VASAVI INSTT OF ENGINEERING AND TECHNOLOGY (SVET)",
+      "place": "PEDANA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 52
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "SVHE",
+      "name": "YJR DMS COLLEGE OF ENGINEERING (SVHE)",
+      "place": "MACHILIPATNAM",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 9
+        }
+      ]
+    },
+    {
+      "code": "SVIK",
+      "name": "SRI VENKATESWARA INST. OF SCIENCE AND TECHNOLOGY (SVIK)",
+      "place": "KADAPA",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 46800,
+          "seats": 98
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 46800,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "SVIT",
+      "name": "SRI VENKATESWARA INST OF TECHNOLOGY (SVIT)",
+      "place": "ANANTAPURAMU",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 268
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 79
+        }
+      ]
+    },
+    {
+      "code": "SVPP",
+      "name": "SRI VENKATESA PERUMAL COLLEGE OF ENGG. AND TECH (SVPP)",
+      "place": "PUTTUR",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40900,
+          "seats": 99
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40900,
+          "seats": 102
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40900,
+          "seats": 28
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40900,
+          "seats": 59
+        }
+      ]
+    },
+    {
+      "code": "SVUC",
+      "name": "S V U COLLEGE OF ENGG. TIRUPATHI (SVUC)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 42120,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "SVUCSS",
+      "name": "S V U COLLEGE OF ENGG. -SELF SUPPORTING-TIRUPATHI (SVUCSS)",
+      "place": "TIRUPATHI",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "SS",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 162120,
+          "seats": 62
+        }
+      ]
+    },
+    {
+      "code": "SWRN",
+      "name": "SWARNANDHRA COLL. OF ENGG AND TECHNOLOGY (SWRN)",
+      "place": "NARSAPURAM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 58700,
+          "seats": 6
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 58700,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 58700,
+          "seats": 64
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 58700,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 58700,
+          "seats": 14
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 58700,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "TECH",
+      "name": "TADIPATRI ENGG COLLEGE (TECH)",
+      "place": "TADIPATRI",
+      "district": "ATP",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 52400,
+          "seats": 31
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 52400,
+          "seats": 13
+        }
+      ]
+    },
+    {
+      "code": "TMLN",
+      "name": "TIRUMALA ENGINEERING COLLEGE (TMLN)",
+      "place": "NARSARAOPET",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 65800,
+          "seats": 82
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 65800,
+          "seats": 32
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 65800,
+          "seats": 86
+        }
+      ]
+    },
+    {
+      "code": "UNIV",
+      "name": "UNIVERSAL COLLEGE OF ENGG AND TECHNOLOGY (UNIV)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 41
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 65
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 46
+        }
+      ]
+    },
+    {
+      "code": "URCE",
+      "name": "USHA RAMA COLL OF ENGG AND TECHNOLOGY (URCE)",
+      "place": "TELAPROLU",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 21
+        },
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 46
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 17
+        }
+      ]
+    },
+    {
+      "code": "VCTN",
+      "name": "VIKAS COLLEGE OF ENGINEERING AND TECHNOLOGY (VCTN)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 59000,
+          "seats": 199
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 59000,
+          "seats": 146
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 59000,
+          "seats": 24
+        }
+      ]
+    },
+    {
+      "code": "VEMU",
+      "name": "VEMU COLLEGE OF PHARMACY AND  HEALTH SCIENCES (VEMU)",
+      "place": "P.KOTHAKOTA",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 42
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "VETS",
+      "name": "SR VENKATESWARA COLL OF ENGINEERING (VETS)",
+      "place": "SRIKAKULAM",
+      "district": "SKL",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 47
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 139
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 48
+        }
+      ]
+    },
+    {
+      "code": "VGTN",
+      "name": "VIKAS GROUP OF INSTITUTIONS (VGTN)",
+      "place": "VIJAYAWADA RURAL",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 57500,
+          "seats": 35
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 57500,
+          "seats": 94
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 57500,
+          "seats": 48
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 57500,
+          "seats": 20
+        },
+        {
+          "branchCode": "CIC",
+          "branchName": "CSE (IOT & CYBER SECURITY WITH BLOCK CHAIN TECH)",
+          "fee": 57500,
+          "seats": 37
+        }
+      ]
+    },
+    {
+      "code": "VHNI",
+      "name": "SREE VAHINI INSTT OF SCIENCE AND TECHNOLOGY (VHNI)",
+      "place": "TIRUVURU",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 51400,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 51400,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 51400,
+          "seats": 6
+        }
+      ]
+    },
+    {
+      "code": "VIEW",
+      "name": "VIGNANS INSTT OF ENGINEERING FOR WOMEN (VIEW)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 53000,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 53000,
+          "seats": 37
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 53000,
+          "seats": 7
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 53000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 53000,
+          "seats": 13
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 53000,
+          "seats": 7
+        }
+      ]
+    },
+    {
+      "code": "VISM",
+      "name": "VISWAM ENGINEERING COLLEGE (VISM)",
+      "place": "MADANAPALLE",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 12
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 12
+        }
+      ]
+    },
+    {
+      "code": "VISW",
+      "name": "SHRI VISHNU ENGG. COLLEGE FOR WOMEN (VISW)",
+      "place": "BHIMAVARAM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 105000,
+          "seats": 19
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 105000,
+          "seats": 6
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 105000,
+          "seats": 12
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 105000,
+          "seats": 18
+        }
+      ]
+    },
+    {
+      "code": "VITB",
+      "name": "VISHNU GRP OF INSTNS - VISHNU INST OF TECHNOLOGY (VITB)",
+      "place": "BHIMAVARAM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSB",
+          "branchName": "COMPUTER SCIENCE AND BUSINESS SYSTEMS",
+          "fee": 103000,
+          "seats": 9
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 103000,
+          "seats": 28
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 103000,
+          "seats": 16
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 103000,
+          "seats": 28
+        }
+      ]
+    },
+    {
+      "code": "VITK",
+      "name": "P B R VISVODAYA INSTITUTE OF TECHNOLOGY AND SCI. (VITK)",
+      "place": "KAVALI",
+      "district": "NLR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 70
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 40000,
+          "seats": 39
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 173
+        },
+        {
+          "branchCode": "CSO",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+          "fee": 40000,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "VITW",
+      "name": "VIJAYA INST. OF TECHNOLOGY FOR WOMEN (VITW)",
+      "place": "VIJAYAWADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 40000,
+          "seats": 50
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 56
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 32
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 53
+        }
+      ]
+    },
+    {
+      "code": "VIVP",
+      "name": "VIGNANS INSTITUTE OF INFORMATION TECHNOLOGY (VIVP)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 68700,
+          "seats": 25
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 68700,
+          "seats": 26
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 68700,
+          "seats": 54
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 68700,
+          "seats": 21
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 68700,
+          "seats": 19
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 68700,
+          "seats": 22
+        }
+      ]
+    },
+    {
+      "code": "VJAM",
+      "name": "VIJAYAM INSTITUTE OF TECHNOLOGY (VJAM)",
+      "place": "CHITTOOR",
+      "district": "CTR",
+      "region": "SVU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 21
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 25
+        }
+      ]
+    },
+    {
+      "code": "VLIT",
+      "name": "VIGNANS LARA INST. OF TECHNOLOGY AND SCI (VLIT)",
+      "place": "VADLAMUDI",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 70000,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 70000,
+          "seats": 51
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 70000,
+          "seats": 13
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 70000,
+          "seats": 19
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 70000,
+          "seats": 15
+        }
+      ]
+    },
+    {
+      "code": "VNIW",
+      "name": "VIGNANS NIRULA INST OF TECH. AND SCI FOR WOMEN (VNIW)",
+      "place": "GUNTUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 30
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 21
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 19
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 35
+        }
+      ]
+    },
+    {
+      "code": "VNRC",
+      "name": "VELAGA NAGESWARA RAO COLL OF ENGINEERING (VNRC)",
+      "place": "PONNUR",
+      "district": "GTR",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 106
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 26
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 54
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 40000,
+          "seats": 27
+        }
+      ]
+    },
+    {
+      "code": "VSMR",
+      "name": "V.S.M COLLEGE OF ENGINEERING (VSMR)",
+      "place": "RAMACHANDRAPURAM",
+      "district": "EG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 65800,
+          "seats": 111
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 65800,
+          "seats": 71
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 65800,
+          "seats": 18
+        },
+        {
+          "branchCode": "INF",
+          "branchName": "INFORMATION TECHNOLOGY",
+          "fee": 65800,
+          "seats": 54
+        }
+      ]
+    },
+    {
+      "code": "VSPT",
+      "name": "VISAKHA INST OF ENGG AND TECHNOLOGY (VSPT)",
+      "place": "VISAKHAPATNAM",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 86
+        },
+        {
+          "branchCode": "CSC",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY)",
+          "fee": 40000,
+          "seats": 24
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 17
+        }
+      ]
+    },
+    {
+      "code": "VSVT",
+      "name": "SRI VASAVI ENGINEERING COLLEGE (VSVT)",
+      "place": "TADEPALLIGUDEM",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AIM",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+          "fee": 77200,
+          "seats": 22
+        },
+        {
+          "branchCode": "CAI",
+          "branchName": "COMP. SCI. AND ENGG. (ARTIFICIAL INTELLIGENCE )",
+          "fee": 77200,
+          "seats": 18
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 77200,
+          "seats": 30
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 77200,
+          "seats": 8
+        }
+      ]
+    },
+    {
+      "code": "VVGV",
+      "name": "VKR VNB AND AGK ENGINEERING COLLEGE (VVGV)",
+      "place": "GUDIVADA",
+      "district": "KRI",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "AID",
+          "branchName": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+          "fee": 40000,
+          "seats": 22
+        },
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 72
+        },
+        {
+          "branchCode": "CSM",
+          "branchName": "CSE(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+          "fee": 40000,
+          "seats": 11
+        }
+      ]
+    },
+    {
+      "code": "WISE",
+      "name": "WEST GODAVARI INSTT OF SCIENCE AND ENGINEERING (WISE)",
+      "place": "NALLAJERLA",
+      "district": "WG",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 16
+        },
+        {
+          "branchCode": "CSD",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE)",
+          "fee": 40000,
+          "seats": 23
+        }
+      ]
+    },
+    {
+      "code": "WSTM",
+      "name": "WELLFARE INST OF SCIENCE TECH AND MGMT (WSTM)",
+      "place": "PINAGADI",
+      "district": "VSP",
+      "region": "AU",
+      "type": "PVT",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 40000,
+          "seats": 8
+        }
+      ]
+    },
+    {
+      "code": "YGVU",
+      "name": "YGVU YSR ENGINEERING COLLEGE (YGVU)",
+      "place": "PRODDATUR",
+      "district": "KDP",
+      "region": "SVU",
+      "type": "UNIV",
+      "details": [
+        {
+          "branchCode": "CSE",
+          "branchName": "COMPUTER SCIENCE AND ENGINEERING",
+          "fee": 15500,
+          "seats": 18
+        }
+      ]
+    }
+  ]
+}
