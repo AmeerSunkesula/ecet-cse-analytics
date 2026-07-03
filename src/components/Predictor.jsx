@@ -46,47 +46,44 @@ const TIERS = {
    HELPERS
 ───────────────────────────────────────────────────────────── */
 
-/** Build all candidate keys to search for a given input */
-function buildCandidateKeys(caste, gender, region) {
-  const keys = [];
+/**
+ * Collect all cutoff keys that are applicable to this student.
+ * 
+ * Rules:
+ *  - Always check both the selected region (AU/SVU) AND UR (Non-Local/Unreserved)
+ *    because UR seats are open to all zones.
+ *  - Males  : check _GEN_ keys only
+ *  - Females: check both _GEN_ and _GIRLS_ keys (GIRLS seats can be accessed by females)
+ *  - SC expands to SC_I, SC_II, SC_III subtypes
+ *  - In ALL cases, take Math.max() across all found values — the highest
+ *    (most forgiving) cutoff is the one that benefits the student most.
+ */
+function getApplicableCutoff(caste, gender, region, courseData) {
+  const casteTokens = caste === 'SC' ? SC_SUBTYPES : [caste];
+  // Always check selected region + UR (non-local seats open to all)
+  const regions = region === 'UR' ? ['UR'] : [region, 'UR'];
 
-  // Normalise caste tokens
-  let casteTokens = caste === 'SC' ? SC_SUBTYPES : [caste];
+  let best = null;
 
   for (const ct of casteTokens) {
-    // GEN key (always checked)
-    keys.push({ key: `${ct}_GEN_${region}`, isGirls: false });
-    // UR fallback for all regions
-    keys.push({ key: `${ct}_GEN_UR`, isGirls: false });
+    for (const reg of regions) {
+      // GEN key — always applicable
+      const genKey = `${ct}_GEN_${reg}`;
+      if (courseData[genKey] != null) {
+        best = best === null ? courseData[genKey] : Math.max(best, courseData[genKey]);
+      }
 
-    if (gender === 'F') {
-      // GIRLS key + UR fallback
-      keys.push({ key: `${ct}_GIRLS_${region}`, isGirls: true });
-      keys.push({ key: `${ct}_GIRLS_UR`, isGirls: true });
-    }
-  }
-
-  return keys;
-}
-
-/** Given a set of keys and course data, find the best applicable cutoff */
-function getBestCutoff(candidateKeys, courseData, gender) {
-  let bestCutoff = null;
-
-  for (const { key } of candidateKeys) {
-    const val = courseData[key];
-    if (val != null) {
+      // GIRLS key — only applicable to females
       if (gender === 'F') {
-        // Female: take Math.max (most forgiving = higher rank number allowed)
-        bestCutoff = bestCutoff === null ? val : Math.max(bestCutoff, val);
-      } else {
-        // Male: take the first valid GEN match (they are ordered GEN first)
-        if (bestCutoff === null) bestCutoff = val;
+        const girlsKey = `${ct}_GIRLS_${reg}`;
+        if (courseData[girlsKey] != null) {
+          best = best === null ? courseData[girlsKey] : Math.max(best, courseData[girlsKey]);
+        }
       }
     }
   }
 
-  return bestCutoff;
+  return best;
 }
 
 /** Determine tier for a given userRank vs cutoff */
@@ -112,7 +109,6 @@ export default function Predictor() {
     const userRank = parseInt(rank, 10);
     if (!rank || isNaN(userRank) || userRank <= 0) return [];
 
-    const candidateKeys = buildCandidateKeys(caste, gender, region);
     const output = [];
 
     for (const [, college] of Object.entries(cutoffsData)) {
@@ -125,7 +121,7 @@ export default function Predictor() {
         const courseData = college.courses[courseCode];
         if (!courseData) continue;
 
-        const cutoff = getBestCutoff(candidateKeys, courseData, gender);
+        const cutoff = getApplicableCutoff(caste, gender, region, courseData);
         if (cutoff == null) continue;
 
         const tier = getTier(userRank, cutoff);
@@ -207,8 +203,9 @@ export default function Predictor() {
           <div>
             <label className={labelCls}>Region</label>
             <select value={region} onChange={e => setRegion(e.target.value)} className={selectCls}>
-              <option value="AU">AU Region</option>
-              <option value="SVU">SVU Region</option>
+              <option value="AU">AU Region (local + UR seats)</option>
+              <option value="SVU">SVU Region (local + UR seats)</option>
+              <option value="UR">UR Only (Non-Local seats)</option>
             </select>
           </div>
 
@@ -410,6 +407,7 @@ export default function Predictor() {
           <span>🟡 <strong>Match</strong> — rank ≤ 105% of cutoff</span>
           <span>🔴 <strong>Reach</strong> — rank ≤ 120% of cutoff</span>
           <span>· <strong>Gap</strong> = cutoff − your rank (positive = safer)</span>
+          <span>· <strong>UR seats</strong> are always included — they are open to all regions</span>
         </div>
       )}
     </div>

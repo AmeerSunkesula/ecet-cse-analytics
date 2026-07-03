@@ -30,6 +30,7 @@ function App() {
         <Header
           onMenuToggle={() => setIsSidebarOpen(prev => !prev)}
           showMenuToggle={activeTab === 'grid'}
+          hasSidebar={activeTab === 'grid'}
         />
 
         {/* ── Tab Bar ──────────────────────────────────── */}

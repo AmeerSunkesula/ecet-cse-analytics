@@ -8,7 +8,7 @@ import { GraduationCap, BarChart3, Database, Menu } from 'lucide-react';
  * Left  : menu toggle (mobile only) + app icon + title + subtitle
  * Right : two live stat badges (Colleges · Seats) driven by Redux selectors
  */
-const Header = ({ onMenuToggle, showMenuToggle = true }) => {
+const Header = ({ onMenuToggle, showMenuToggle = true, hasSidebar = true }) => {
   const filteredColleges = useSelector(selectFilteredColleges);
   const dashboardStats = useSelector(selectDashboardStats);
 
@@ -16,7 +16,7 @@ const Header = ({ onMenuToggle, showMenuToggle = true }) => {
   const totalSeats = dashboardStats.totalSeats;
 
   return (
-    <header className="sticky top-0 z-40 w-full glass-strong border-b border-[var(--border)] lg:pl-72">
+    <header className={`sticky top-0 z-40 w-full glass-strong border-b border-[var(--border)] transition-all duration-300 ${hasSidebar ? 'lg:pl-72' : ''}`}>
       <div className="flex items-center justify-between px-4 sm:px-6 py-3">
         {/* ── Left: Branding & Mobile Menu Toggle ── */}
         <div className="flex items-center gap-3">
