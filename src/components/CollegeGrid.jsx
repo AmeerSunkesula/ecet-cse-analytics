@@ -40,7 +40,7 @@ const CollegeGrid = () => {
       </div>
 
       {/* Responsive card grid */}
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-start">
         {colleges.map((college, index) => (
           <CollegeCard key={college.code} college={college} index={index} />
         ))}
