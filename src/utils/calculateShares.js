@@ -24,11 +24,15 @@ const VERTICAL = {
   ST:     0.06,    // 6%
 };
 
-/* ── B. Horizontal Gender Split (within each vertical) ───────── */
+/* ── B. Regional Split (Applied to each vertical) ────────────── */
+const LOCAL_SHARE = 0.85; // 85% Local (AU/SVU)
+const UR_SHARE    = 0.15; // 15% Unreserved
+
+/* ── C. Horizontal Gender Split (within Local and UR pools) ──── */
 const GIRLS_SHARE = 1 / 3;   // 33.33%
 const GEN_SHARE   = 2 / 3;   // 66.67%
 
-/* ── C. Special Horizontal Pool Percentages (across total) ───── */
+/* ── D. Special Horizontal Pool Percentages (across total) ───── */
 const SPECIALS = {
   PWD:  0.05,    // 5%  (G.O.Ms.No. 10)
   CAP:  0.02,    // 2%
@@ -51,15 +55,28 @@ function fmt(value) {
 export default function calculateShares(ecetIntake) {
   const intake = Number(ecetIntake) || 0;
 
-  // ── Vertical → Horizontal breakdown ─────────────────────────
+  // ── Vertical → Regional → Horizontal breakdown ──────────────
   const categories = Object.entries(VERTICAL).map(([key, pct]) => {
     const pool = intake * pct;
+    
+    // Regional split
+    const localPool = pool * LOCAL_SHARE;
+    const urPool    = pool * UR_SHARE;
+
     return {
       key,
       label: key.replace(/_/g, ' - '),   // SC_I → SC - I
       pool:  fmt(pool),
-      gen:   fmt(pool * GEN_SHARE),
-      girls: fmt(pool * GIRLS_SHARE),
+      local: {
+        pool:  fmt(localPool),
+        gen:   fmt(localPool * GEN_SHARE),
+        girls: fmt(localPool * GIRLS_SHARE),
+      },
+      ur: {
+        pool:  fmt(urPool),
+        gen:   fmt(urPool * GEN_SHARE),
+        girls: fmt(urPool * GIRLS_SHARE),
+      }
     };
   });
 

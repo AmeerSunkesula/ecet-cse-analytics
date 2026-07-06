@@ -146,38 +146,64 @@ export default function SeatMatrixModal({
 
         {/* ── Category Grid ──────────────────────────────── */}
         <div className="px-5 sm:px-6 py-4">
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
             {categories.map((cat) => {
               const colors = CAT_COLORS[cat.key] || DEFAULT_COLOR;
               return (
                 <div
                   key={cat.key}
-                  className={`rounded-xl border p-3 transition hover:scale-[1.02] ${colors.bg} ${colors.border}`}
+                  className={`rounded-xl border p-3.5 transition hover:scale-[1.02] ${colors.bg} ${colors.border}`}
                 >
                   {/* Category header */}
-                  <div className="flex items-center justify-between mb-3">
-                    <span className={`text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full ${colors.badge}`}>
+                  <div className="flex items-center justify-between mb-4 border-b border-[var(--border)]/40 pb-2">
+                    <span className={`text-[11px] font-bold uppercase tracking-wider px-2.5 py-0.5 rounded-full ${colors.badge}`}>
                       {cat.label}
                     </span>
-                    <span className={`text-xs font-semibold tabular-nums ${colors.text}`}>
-                      {cat.pool}
-                    </span>
+                    <div className="text-right">
+                      <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide block leading-none mb-1">Total Pool</span>
+                      <span className={`text-sm font-bold tabular-nums leading-none ${colors.text}`}>
+                        {cat.pool}
+                      </span>
+                    </div>
                   </div>
 
-                  {/* GEN / GIRLS rows */}
-                  <div className="space-y-1.5">
-                    <div className="flex items-center justify-between">
-                      <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Gen</span>
-                      <span className={`text-sm tabular-nums ${valClass(cat.gen)}`}>
-                        {cat.gen}
-                      </span>
+                  {/* Split Regional Grid */}
+                  <div className="grid grid-cols-2 gap-3 divide-x divide-[var(--border)]/40">
+                    
+                    {/* Local 85% */}
+                    <div className="pr-1">
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="text-[10px] font-semibold text-[var(--text-secondary)]">LOCAL <span className="opacity-60 font-normal">(85%)</span></span>
+                      </div>
+                      <div className="space-y-1.5">
+                        <div className="flex items-center justify-between">
+                          <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Gen</span>
+                          <span className={`text-xs tabular-nums ${valClass(cat.local.gen)}`}>{cat.local.gen}</span>
+                        </div>
+                        <div className="flex items-center justify-between">
+                          <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Girls</span>
+                          <span className={`text-xs tabular-nums ${valClass(cat.local.girls)}`}>{cat.local.girls}</span>
+                        </div>
+                      </div>
                     </div>
-                    <div className="flex items-center justify-between">
-                      <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Girls</span>
-                      <span className={`text-sm tabular-nums ${valClass(cat.girls)}`}>
-                        {cat.girls}
-                      </span>
+
+                    {/* UR 15% */}
+                    <div className="pl-3">
+                      <div className="flex items-center justify-between mb-2">
+                        <span className="text-[10px] font-semibold text-[var(--text-secondary)]">UR <span className="opacity-60 font-normal">(15%)</span></span>
+                      </div>
+                      <div className="space-y-1.5">
+                        <div className="flex items-center justify-between">
+                          <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Gen</span>
+                          <span className={`text-xs tabular-nums ${valClass(cat.ur.gen)}`}>{cat.ur.gen}</span>
+                        </div>
+                        <div className="flex items-center justify-between">
+                          <span className="text-[10px] text-[var(--text-muted)] uppercase tracking-wide">Girls</span>
+                          <span className={`text-xs tabular-nums ${valClass(cat.ur.girls)}`}>{cat.ur.girls}</span>
+                        </div>
+                      </div>
                     </div>
+
                   </div>
                 </div>
               );
