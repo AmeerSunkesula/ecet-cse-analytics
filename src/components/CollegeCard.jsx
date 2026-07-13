@@ -182,10 +182,13 @@ function CollegeCard({ college, index }) {
       <SeatMatrixModal
         isOpen={modalBranch !== null}
         onClose={() => setModalBranch(null)}
+        collegeCode={code}
         collegeName={name}
         branchCode={modalBranch?.branchCode || ''}
         branchName={modalBranch?.branchName || ''}
         ecetIntake={modalBranch?.seats || 0}
+        fee={modalBranch?.fee || null}
+        place={place || null}
       />
     </>
   );
