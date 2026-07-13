@@ -156,10 +156,11 @@ export default function Predictor() {
 
         // Look up 2024 cutoff for comparison
         let cutoff24 = null;
+        let ocCutoff24 = null;
         const college24 = cutoffs2024[code];
         if (college24 && college24.courses[courseCode]) {
           const casteCutoff24 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, college24.courses[courseCode], true);
-          const ocCutoff24 = deferredFilter.caste !== 'OC'
+          ocCutoff24 = deferredFilter.caste !== 'OC'
             ? getApplicableCutoff('OC', deferredFilter.gender, deferredFilter.region, college24.courses[courseCode], true)
             : null;
           const max24 = Math.max(casteCutoff24 || 0, ocCutoff24 || 0);
