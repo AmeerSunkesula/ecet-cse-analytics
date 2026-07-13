@@ -1,5 +1,5 @@
-import { useState, useMemo } from 'react';
-import { Grid3X3, TrendingUp, TrendingDown, Minus, IndianRupee, Users } from 'lucide-react';
+import { useState, useMemo, useDeferredValue } from 'react';
+import { Grid3X3, TrendingUp, TrendingDown, Minus, IndianRupee, Users, Loader2 } from 'lucide-react';
 import cutoffs2025 from '../ecet_cse-related_cutoffs_2025.json';
 import cutoffs2024 from '../ecet_cse-related_cutoffs_2024.json';
 import seatsData from '../ap_ecet_cse_seats.json';
@@ -120,10 +120,15 @@ export default function Predictor() {
   // Seat Matrix modal state
   const [modalData, setModalData] = useState(null);
 
+  // Defer inputs to prevent typing lag
+  const filterState = useMemo(() => ({ rank, caste, region, gender, course }), [rank, caste, region, gender, course]);
+  const deferredFilter = useDeferredValue(filterState);
+  const isPending = filterState !== deferredFilter;
+
   /* ── Prediction Algorithm (combined 2024 + 2025) ─────────── */
   const results = useMemo(() => {
-    const userRank = parseInt(rank, 10);
-    if (!rank || isNaN(userRank) || userRank <= 0) return [];
+    const userRank = parseInt(deferredFilter.rank, 10);
+    if (!deferredFilter.rank || isNaN(userRank) || userRank <= 0) return [];
 
     const output = [];
 
@@ -138,7 +143,7 @@ export default function Predictor() {
         const courseData25 = college.courses[courseCode];
         if (!courseData25) continue;
 
-        const cutoff25 = getApplicableCutoff(caste, gender, region, courseData25, false);
+        const cutoff25 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, courseData25, false);
         if (cutoff25 == null) continue;
 
         const tier = getTier(userRank, cutoff25);
@@ -148,7 +153,7 @@ export default function Predictor() {
         let cutoff24 = null;
         const college24 = cutoffs2024[code];
         if (college24 && college24.courses[courseCode]) {
-          cutoff24 = getApplicableCutoff(caste, gender, region, college24.courses[courseCode], true);
+          cutoff24 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, college24.courses[courseCode], true);
         }
 
         // Look up seat/fee data
@@ -177,7 +182,7 @@ export default function Predictor() {
     }
 
     return output.sort((a, b) => b.gap - a.gap);
-  }, [rank, caste, region, gender, course]);
+  }, [deferredFilter]);
 
   /* ── Stats ──────────────────────────────────────────────── */
   const stats = useMemo(() => ({
@@ -228,10 +233,13 @@ export default function Predictor() {
   /** Open seat matrix modal for a result row */
   function openSeatMatrix(r) {
     setModalData({
+      collegeCode: r.collegeCode,
       collegeName: r.collegeName,
       branchCode: r.courseCode,
       branchName: r.branchName,
       ecetIntake: r.seats || 0,
+      fee: r.fee,
+      place: r.place,
     });
   }
 
@@ -349,9 +357,10 @@ export default function Predictor() {
         <div className="glass rounded-xl overflow-hidden">
           {/* Table header */}
           <div className="px-5 py-3 border-b border-[var(--border)] flex items-center justify-between">
-            <span className="text-sm font-semibold text-[var(--text-primary)]">
+            <div className="flex items-center gap-2 text-sm font-semibold text-[var(--text-primary)]">
               {results.length} colleges found
-            </span>
+              {isPending && <Loader2 size={14} className="animate-spin text-[var(--accent)]" />}
+            </div>
             <span className="text-xs text-[var(--text-muted)]">
               Tap any row for seat matrix · Sorted safest first
             </span>
@@ -564,10 +573,13 @@ export default function Predictor() {
     <SeatMatrixModal
       isOpen={modalData !== null}
       onClose={() => setModalData(null)}
+      collegeCode={modalData?.collegeCode || ''}
       collegeName={modalData?.collegeName || ''}
       branchCode={modalData?.branchCode || ''}
       branchName={modalData?.branchName || ''}
       ecetIntake={modalData?.ecetIntake || 0}
+      fee={modalData?.fee || null}
+      place={modalData?.place || null}
     />
     </>
   );

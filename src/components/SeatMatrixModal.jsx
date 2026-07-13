@@ -1,5 +1,5 @@
 import { useEffect, useCallback, useMemo } from 'react';
-import { X, Users, AlertTriangle, Shield, Award, Star, Footprints } from 'lucide-react';
+import { X, Users, AlertTriangle, Shield, Award, Star, Footprints, IndianRupee } from 'lucide-react';
 import calculateShares from '../utils/calculateShares';
 
 /* ── Category card accent colors (maps to caste key) ────────── */
@@ -55,10 +55,13 @@ function valClass(strVal) {
 export default function SeatMatrixModal({
   isOpen,
   onClose,
+  collegeCode,
   collegeName,
   branchCode,
   branchName,
   ecetIntake,
+  fee,
+  place,
 }) {
   /* ── Escape key handler ──────────────────────────────────── */
   const handleEsc = useCallback(
@@ -101,16 +104,32 @@ export default function SeatMatrixModal({
           style={{ background: 'rgba(15, 23, 42, 0.95)', backdropFilter: 'blur(16px)' }}
         >
           <div className="min-w-0">
-            <h2 className="text-base sm:text-lg font-bold text-[var(--text-primary)] leading-snug truncate">
-              {collegeName}
+            <h2 className="text-base sm:text-lg font-bold text-[var(--text-primary)] leading-snug flex items-center gap-2">
+              <span className="text-sm font-mono px-2 py-0.5 rounded bg-[var(--accent)]/15 text-[var(--accent-hover)] shrink-0">
+                {collegeCode}
+              </span>
+              <span className="truncate">{collegeName}</span>
             </h2>
-            <div className="flex flex-wrap items-center gap-2 mt-1.5">
-              <span className="text-[10px] font-bold font-mono px-2 py-0.5 rounded bg-[var(--accent)]/15 text-[var(--accent-hover)]">
+            <div className="flex flex-wrap items-center gap-2 mt-1.5 text-xs text-[var(--text-muted)]">
+              <span className="font-mono text-[10px] font-bold px-2 py-0.5 rounded bg-violet-500/15 text-violet-400">
                 {branchCode}
               </span>
-              <span className="text-xs text-[var(--text-muted)] truncate">
-                {branchName}
-              </span>
+              <span className="truncate">{branchName}</span>
+              {place && (
+                <>
+                  <span className="opacity-50">•</span>
+                  <span className="truncate">{place}</span>
+                </>
+              )}
+              {fee && (
+                <>
+                  <span className="opacity-50">•</span>
+                  <span className="flex items-center text-emerald-400 font-medium">
+                    <IndianRupee size={10} className="mr-0.5" />
+                    {fee.toLocaleString('en-IN')}
+                  </span>
+                </>
+              )}
             </div>
           </div>
 
