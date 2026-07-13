@@ -79,6 +79,10 @@ function getApplicableCutoff(caste, gender, region, courseData, is2024 = false) 
   if (is2024 && (caste === 'SC_I' || caste === 'SC_II' || caste === 'SC_III')) {
     casteTokens = ['SC'];
   }
+  // Open Category (OC) seats are open to everyone regardless of caste
+  if (caste !== 'OC') {
+    casteTokens.push('OC');
+  }
 
   const regions = region === 'UR' ? ['UR'] : [region, 'UR'];
   let best = null;
