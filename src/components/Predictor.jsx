@@ -178,6 +178,7 @@ export default function Predictor() {
           cutoff25,
           cutoff24,
           ocCutoff25,
+          ocCutoff24,
           tier,
           gap: cutoff25 - userRank,
           // Enriched college data
@@ -209,14 +210,14 @@ export default function Predictor() {
     'block text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)] mb-1.5';
 
   /** Render the cutoff trend inline (not a component to avoid reconciliation issues) */
-  function renderCutoffTrend(c25, c24, oc25) {
+  function renderCutoffTrend(c25, c24) {
+    if (c25 == null) return (
+      <div className="text-right text-[10px] text-[var(--text-muted)]">—</div>
+    );
     if (c24 == null) return (
       <div className="text-right flex flex-col items-end">
         <div className="text-[var(--text-primary)] font-semibold tabular-nums">{c25.toLocaleString()}</div>
         <div className="text-[10px] text-[var(--text-muted)]">2025 · no 2024 data</div>
-        {oc25 != null && (
-          <div className="text-[10px] text-sky-400 mt-0.5">OC '25: {oc25.toLocaleString()}</div>
-        )}
       </div>
     );
     const diff = c25 - c24;
@@ -240,11 +241,6 @@ export default function Predictor() {
             </span>
           )}
         </div>
-        {oc25 != null && (
-          <div className="text-[10px] text-sky-400 mt-0.5 bg-sky-500/10 px-1.5 py-0.5 rounded-sm inline-block">
-            OC '25: {oc25.toLocaleString()}
-          </div>
-        )}
       </div>
     );
   }
@@ -392,7 +388,10 @@ export default function Predictor() {
                 <tr className="border-b border-[var(--border)] text-xs uppercase tracking-wider text-[var(--text-muted)]">
                   <th className="text-left px-5 py-3 font-semibold">College</th>
                   <th className="text-left px-4 py-3 font-semibold">Course</th>
-                  <th className="text-right px-4 py-3 font-semibold">Cutoff (2025 vs 2024)</th>
+                  <th className="text-right px-4 py-3 font-semibold">Cutoff ('25 vs '24)</th>
+                  {deferredFilter.caste !== 'OC' && (
+                    <th className="text-right px-4 py-3 font-semibold text-sky-400">OC Cutoff ('25 vs '24)</th>
+                  )}
                   <th className="text-right px-4 py-3 font-semibold">Fee</th>
                   <th className="text-right px-4 py-3 font-semibold">Gap</th>
                   <th className="text-center px-4 py-3 font-semibold">Chances</th>
@@ -443,8 +442,15 @@ export default function Predictor() {
 
                       {/* Cutoff with trend */}
                       <td className="px-4 py-3">
-                        {renderCutoffTrend(r.cutoff25, r.cutoff24, r.ocCutoff25)}
+                        {renderCutoffTrend(r.cutoff25, r.cutoff24)}
                       </td>
+
+                      {/* OC Cutoff */}
+                      {deferredFilter.caste !== 'OC' && (
+                        <td className="px-4 py-3">
+                          {renderCutoffTrend(r.ocCutoff25, r.ocCutoff24)}
+                        </td>
+                      )}
 
                       {/* Fee */}
                       <td className="px-4 py-3 text-right">
@@ -541,11 +547,6 @@ export default function Predictor() {
                         <div className="text-sm font-semibold text-[var(--text-primary)] tabular-nums">
                           {r.cutoff25.toLocaleString()}
                         </div>
-                        {r.ocCutoff25 != null && (
-                          <div className="text-[9px] text-sky-400 bg-sky-500/10 px-1 py-0.5 mt-0.5 rounded-sm">
-                            OC: {r.ocCutoff25.toLocaleString()}
-                          </div>
-                        )}
                       </div>
                       {r.cutoff24 != null && (
                         <div className="text-right">
@@ -563,6 +564,23 @@ export default function Predictor() {
                       </div>
                     </div>
                   </div>
+
+                  {/* OC Comparison Mobile */}
+                  {deferredFilter.caste !== 'OC' && r.ocCutoff25 != null && (
+                    <div className="flex items-center gap-4 mt-3 bg-[var(--bg-surface)] p-2.5 rounded-lg border border-[var(--border)]/50">
+                      <div className="text-[10px] text-sky-400 font-semibold uppercase tracking-wider flex-1">Open Category:</div>
+                      <div className="text-right">
+                        <div className="text-[10px] text-[var(--text-muted)]">'25</div>
+                        <div className="text-xs font-semibold text-sky-400 tabular-nums">{r.ocCutoff25.toLocaleString()}</div>
+                      </div>
+                      {r.ocCutoff24 != null && (
+                        <div className="text-right">
+                          <div className="text-[10px] text-[var(--text-muted)]">'24</div>
+                          <div className="text-xs font-semibold text-[var(--text-muted)] tabular-nums">{r.ocCutoff24.toLocaleString()}</div>
+                        </div>
+                      )}
+                    </div>
+                  )}
 
                   {/* Seat matrix hint */}
                   {r.seats && (
