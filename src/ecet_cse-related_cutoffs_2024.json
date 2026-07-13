@@ -1,0 +1,5689 @@
+{
+  "ACES": {
+    "collegeCode": "ACES",
+    "collegeName": "ADITYA COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_A_CAP_GEN_UR": 1869,
+        "BC_A_GEN_AU": 2581,
+        "OC_PWD_GIRLS_AU": 1636,
+        "BC_E_GIRLS_AU": 2733,
+        "BC_B_GEN_AU": 3276,
+        "BC_B_GIRLS_AU": 2047,
+        "OC_GEN_AU": 969,
+        "BC_D_GEN_AU": 2542,
+        "BC_D_GIRLS_AU": 5494,
+        "SC_GEN_AU": 5070,
+        "OC_GIRLS_UR": 1123,
+        "SC_GEN_UR": 3049,
+        "ST_GEN_AU": 4284,
+        "ST_GIRLS_AU": 5711,
+        "SC_GIRLS_AU": 2885,
+        "OC_GEN_UR": 288
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 5261,
+        "BC_A_GIRLS_AU": 4532,
+        "BC_D_GEN_AU": 2656,
+        "SC_GIRLS_AU": 3361
+      },
+      "CSM": {
+        "BC_A_GIRLS_AU": 4211,
+        "BC_B_GEN_UR": 3378,
+        "BC_B_GIRLS_AU": 5509,
+        "BC_E_GEN_AU": 3738,
+        "OC_GEN_UR": 1525,
+        "BC_D_GEN_AU": 3649,
+        "OC_GEN_AU": 2251,
+        "OC_PWD_GEN_AU": 1889,
+        "ST_GEN_AU": 2371,
+        "SC_GEN_AU": 2472,
+        "OC_GIRLS_AU": 2345,
+        "SC_GIRLS_AU": 2822
+      },
+      "INF": {
+        "BC_D_GIRLS_AU": 4660,
+        "OC_GIRLS_AU": 3128,
+        "OC_GEN_AU": 2432,
+        "SC_GEN_AU": 2527,
+        "BC_C_GEN_AU": 2773
+      }
+    }
+  },
+  "ADIT": {
+    "collegeCode": "ADIT",
+    "collegeName": "ADITYA INSTITUTE OF TECHNOLOGY AND MGMT",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 1829,
+        "BC_A_GEN_AU": 4536,
+        "BC_B_GEN_UR": 4039,
+        "BC_B_CAP_GEN_UR": 4996,
+        "BC_B_GIRLS_AU": 3413,
+        "ST_GEN_AU": 2111,
+        "BC_D_GEN_AU": 2962,
+        "OC_PWD_GIRLS_AU": 1444,
+        "BC_D_GIRLS_UR": 2513,
+        "BC_D_GIRLS_AU": 2564,
+        "BC_B_GEN_AU": 4275,
+        "BC_E_GEN_AU": 4522,
+        "EWS_GEN_AU": 2392,
+        "SC_GEN_UR": 3250,
+        "SC_GEN_AU": 5155,
+        "SC_GIRLS_AU": 5244,
+        "ST_GIRLS_AU": 5104
+      },
+      "CSD": {
+        "SC_GEN_AU": 537,
+        "BC_B_GEN_AU": 2975,
+        "BC_D_GEN_AU": 1438,
+        "OC_GIRLS_AU": 4774,
+        "BC_C_GIRLS_AU": 3030
+      },
+      "CSM": {
+        "BC_E_GEN_UR": 943,
+        "BC_B_GEN_UR": 1378,
+        "BC_B_GIRLS_AU": 1471,
+        "ST_GEN_AU": 743,
+        "BC_D_GEN_AU": 5828,
+        "OC_GEN_AU": 4495,
+        "OC_PWD_GEN_AU": 2762,
+        "OC_GIRLS_AU": 4999,
+        "BC_D_GIRLS_AU": 7693,
+        "BC_A_GEN_AU": 5935,
+        "SC_GEN_AU": 2395
+      },
+      "INF": {
+        "BC_E_GEN_AU": 1379,
+        "BC_A_GIRLS_AU": 3090,
+        "ST_GEN_AU": 1197,
+        "BC_B_GEN_AU": 8714,
+        "BC_B_GIRLS_AU": 1578,
+        "BC_D_GEN_AU": 3077,
+        "BC_C_GEN_AU": 2718,
+        "SC_GEN_UR": 5754,
+        "SC_GEN_AU": 5804,
+        "BC_D_GIRLS_AU": 2436,
+        "BC_D_PWD_GIRLS_AU": 3410,
+        "OC_GIRLS_AU": 5568,
+        "EWS_GEN_AU": 850,
+        "SC_GIRLS_UR": 6203
+      }
+    }
+  },
+  "ADTP": {
+    "collegeCode": "ADTP",
+    "collegeName": "ADITYA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 457,
+        "OC_GEN_AU": 111,
+        "OC_GIRLS_AU": 88,
+        "BC_B_GIRLS_UR": 203,
+        "BC_B_PWD_GEN_AU": 222,
+        "OC_SCG_GEN_AU": 181,
+        "BC_D_GIRLS_AU": 229,
+        "BC_E_GEN_AU": 287,
+        "SC_GEN_AU": 781,
+        "SC_GIRLS_AU": 1562,
+        "ST_GEN_AU": 6131
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 1893,
+        "BC_B_GEN_UR": 421,
+        "BC_B_GEN_AU": 470,
+        "BC_D_GEN_AU": 1119,
+        "OC_GEN_AU": 332,
+        "OC_GIRLS_AU": 502,
+        "ST_GIRLS_AU": 2616
+      },
+      "AIM": {
+        "BC_A_GEN_AU": 1127,
+        "BC_A_GIRLS_AU": 1971,
+        "BC_E_GIRLS_AU": 2814,
+        "OC_PWD_GEN_AU": 331,
+        "OC_GIRLS_AU": 3939,
+        "BC_B_GEN_AU": 644,
+        "OC_GEN_AU": 2450,
+        "SC_GEN_AU": 3613,
+        "ST_GEN_AU": 3322,
+        "BC_D_GIRLS_UR": 1864,
+        "OC_GEN_UR": 1714
+      },
+      "INF": {
+        "BC_A_GEN_AU": 2481,
+        "BC_E_GEN_AU": 4270,
+        "OC_GEN_AU": 407,
+        "BC_B_GEN_AU": 1274,
+        "OC_PWD_GIRLS_AU": 1533,
+        "OC_GEN_UR": 245,
+        "ST_GEN_AU": 618,
+        "BC_D_GIRLS_AU": 2630,
+        "OC_GIRLS_AU": 910,
+        "SC_GIRLS_AU": 1555,
+        "SC_GEN_AU": 2590
+      }
+    }
+  },
+  "ALIT": {
+    "collegeCode": "ALIT",
+    "collegeName": "ANDHRA LOYOLA INSTT OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 3380,
+        "BC_A_GIRLS_UR": 6036,
+        "BC_B_GEN_AU": 1886,
+        "OC_GEN_AU": 1560,
+        "BC_A_GIRLS_AU": 5303,
+        "BC_D_GEN_UR": 1926,
+        "BC_D_GEN_AU": 2079,
+        "BC_D_GIRLS_AU": 3501,
+        "BC_C_GEN_AU": 4697,
+        "BC_E_GEN_AU": 3497,
+        "OC_GIRLS_AU": 1159,
+        "SC_GEN_AU": 4921,
+        "SC_GIRLS_AU": 4437,
+        "SC_PWD_GEN_AU": 5284,
+        "ST_GEN_AU": 6194
+      },
+      "CSD": {
+        "BC_A_GIRLS_AU": 4869,
+        "BC_A_GEN_AU": 5572,
+        "OC_GEN_AU": 3098,
+        "BC_B_CAP_GEN_UR": 3216,
+        "SC_GIRLS_AU": 3438
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 5083,
+        "BC_D_GEN_AU": 6125,
+        "OC_GIRLS_UR": 3801,
+        "BC_E_GIRLS_AU": 5855,
+        "ST_GEN_AU": 3688,
+        "SC_GEN_AU": 4047,
+        "BC_B_GIRLS_AU": 1600
+      },
+      "INF": {
+        "BC_B_GEN_AU": 245,
+        "BC_B_GIRLS_AU": 3564,
+        "BC_D_GEN_AU": 3128,
+        "OC_GEN_AU": 2489,
+        "EWS_GIRLS_AU": 878,
+        "EWS_GEN_AU": 4156,
+        "SC_GIRLS_AU": 6674
+      }
+    }
+  },
+  "ANIL": {
+    "collegeCode": "ANIL",
+    "collegeName": "ANIL NEERUKONDA INSTITUTE OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 149,
+        "BC_A_PWD_GEN_AU": 260,
+        "BC_A_GEN_AU": 439,
+        "OC_GIRLS_AU": 183,
+        "OC_PWD_GEN_AU": 240,
+        "BC_B_GEN_AU": 454,
+        "BC_D_GEN_UR": 268,
+        "OC_GIRLS_UR": 71,
+        "BC_D_GEN_AU": 348,
+        "BC_D_GIRLS_AU": 473,
+        "BC_E_GIRLS_AU": 1772,
+        "EWS_GEN_AU": 293,
+        "SC_GEN_AU": 1037,
+        "SC_GIRLS_AU": 2613,
+        "ST_GEN_AU": 1336
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 1029,
+        "OC_PWD_GEN_AU": 842,
+        "BC_A_GIRLS_AU": 1432,
+        "BC_B_GEN_AU": 1199,
+        "OC_GIRLS_AU": 818,
+        "BC_B_GIRLS_UR": 1047,
+        "BC_D_CAP_GEN_UR": 1015,
+        "BC_E_GEN_AU": 2323,
+        "OC_GEN_AU": 707,
+        "ST_GIRLS_AU": 1099,
+        "SC_GEN_AU": 2662,
+        "ST_GEN_AU": 3395,
+        "SC_GIRLS_AU": 4313,
+        "SC_GEN_UR": 2638
+      },
+      "CSM": {
+        "OC_GEN_AU": 492,
+        "BC_A_GEN_UR": 894,
+        "OC_GIRLS_AU": 583,
+        "BC_A_GIRLS_AU": 940,
+        "BC_B_GEN_UR": 882,
+        "BC_B_GEN_AU": 773,
+        "BC_B_GIRLS_AU": 1364,
+        "OC_SCG_GEN_AU": 623,
+        "BC_D_GEN_AU": 997,
+        "BC_D_GIRLS_AU": 1215,
+        "BC_E_GEN_AU": 2402,
+        "OC_GEN_UR": 132,
+        "OC_PWD_GIRLS_AU": 679,
+        "SC_GEN_AU": 1340,
+        "ST_GEN_AU": 1656,
+        "SC_GIRLS_AU": 2698,
+        "ST_GIRLS_AU": 2921
+      },
+      "INF": {
+        "BC_A_GEN_AU": 1653,
+        "BC_E_GEN_AU": 2692,
+        "BC_B_GEN_AU": 3803,
+        "BC_B_GIRLS_AU": 3928,
+        "OC_CAP_GIRLS_UR": 684,
+        "OC_PWD_GEN_AU": 1438,
+        "BC_D_GEN_UR": 1697,
+        "BC_D_GEN_AU": 1932,
+        "OC_GIRLS_AU": 1089,
+        "BC_D_GIRLS_AU": 1970,
+        "OC_GEN_AU": 1100,
+        "SC_GEN_AU": 1518,
+        "SC_GIRLS_UR": 1955,
+        "ST_GIRLS_AU": 2614,
+        "SC_GEN_UR": 1540
+      }
+    }
+  },
+  "ANSN": {
+    "collegeCode": "ANSN",
+    "collegeName": "ST. ANNS COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GIRLS_AU": 4227,
+        "BC_A_GEN_AU": 6455,
+        "BC_B_GEN_AU": 2345,
+        "SC_GEN_AU": 1876,
+        "BC_B_GIRLS_AU": 2080,
+        "OC_GIRLS_UR": 3300,
+        "OC_GIRLS_AU": 5571,
+        "ST_GIRLS_AU": 6044,
+        "BC_D_GEN_AU": 6807,
+        "BC_D_CAP_GEN_UR": 9007,
+        "OC_GEN_AU": 5778,
+        "OC_PWD_GEN_AU": 2576,
+        "SC_GIRLS_UR": 9035
+      },
+      "CSM": {
+        "OC_GEN_AU": 4150,
+        "SC_GEN_AU": 8685,
+        "OC_GIRLS_AU": 3916
+      },
+      "CSC": {
+        "OC_GEN_AU": 7427
+      }
+    }
+  },
+  "AUCE": {
+    "collegeCode": "AUCE",
+    "collegeName": "A U COLLEGE OF ENGG. VISAKHAPATNAM",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 6,
+        "BC_A_GEN_AU": 53,
+        "OC_GIRLS_AU": 7,
+        "BC_B_PWD_GEN_AU": 100,
+        "BC_D_GEN_AU": 32,
+        "BC_D_GIRLS_AU": 37,
+        "SC_GEN_UR": 54,
+        "ST_GIRLS_AU": 585
+      }
+    }
+  },
+  "AVEN": {
+    "collegeCode": "AVEN",
+    "collegeName": "AVANTHI INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_AU": 322,
+        "BC_A_GIRLS_AU": 3600,
+        "BC_A_GEN_AU": 1941,
+        "BC_A_PWD_GEN_AU": 4060,
+        "OC_GEN_AU": 4822,
+        "BC_A_GIRLS_UR": 5437,
+        "OC_GIRLS_AU": 3284,
+        "BC_B_GEN_AU": 5227,
+        "BC_B_GEN_UR": 3458,
+        "BC_B_GIRLS_AU": 9009,
+        "BC_D_GEN_AU": 5963,
+        "BC_E_PWD_GEN_AU": 3294,
+        "ST_GEN_UR": 5676,
+        "ST_GEN_AU": 5934,
+        "SC_GIRLS_AU": 8243,
+        "SC_GIRLS_UR": 5577,
+        "BC_D_GIRLS_AU": 8903,
+        "EWS_GEN_UR": 2394,
+        "EWS_GEN_AU": 3432,
+        "OC_CAP_GEN_UR": 3558,
+        "EWS_GIRLS_AU": 6860,
+        "SC_GEN_UR": 3328,
+        "ST_GIRLS_AU": 3873
+      },
+      "CSD": {
+        "OC_GEN_AU": 5555,
+        "OC_GIRLS_AU": 5100
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 2631,
+        "BC_B_GEN_AU": 5123,
+        "BC_D_GIRLS_AU": 1842,
+        "BC_E_GIRLS_AU": 3123,
+        "OC_PWD_GEN_AU": 4003,
+        "OC_GIRLS_AU": 3943,
+        "SC_GEN_AU": 119
+      }
+    }
+  },
+  "AVEV": {
+    "collegeCode": "AVEV",
+    "collegeName": "AVANTHI INST. OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 3385,
+        "BC_A_GEN_UR": 3347,
+        "BC_B_GEN_AU": 2439,
+        "OC_GIRLS_AU": 3105,
+        "BC_B_GIRLS_AU": 6735,
+        "BC_B_PWD_GEN_AU": 1085,
+        "BC_D_GEN_AU": 1690,
+        "BC_D_GIRLS_AU": 4590,
+        "SC_GEN_AU": 3731,
+        "SC_GEN_UR": 4239,
+        "SC_GIRLS_AU": 5447
+      },
+      "CSD": {
+        "SC_GIRLS_AU": 4658,
+        "BC_D_GEN_AU": 2946,
+        "OC_GEN_AU": 4299,
+        "BC_B_GIRLS_AU": 4501
+      }
+    }
+  },
+  "BECB": {
+    "collegeCode": "BECB",
+    "collegeName": "BAPATLA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 2159,
+        "BC_E_GEN_AU": 2286,
+        "BC_C_PWD_GIRLS_AU": 2445,
+        "BC_B_GEN_AU": 1929,
+        "BC_B_GIRLS_AU": 4251,
+        "BC_D_GIRLS_AU": 3256,
+        "BC_D_GEN_AU": 5646,
+        "OC_CAP_GEN_UR": 558,
+        "OC_GEN_AU": 1365,
+        "OC_GIRLS_AU": 648,
+        "SC_GEN_AU": 4329,
+        "ST_GIRLS_UR": 4392,
+        "BC_B_GEN_UR": 1913
+      },
+      "CSM": {
+        "OC_GEN_AU": 1980,
+        "BC_A_GEN_AU": 4262,
+        "BC_B_GEN_AU": 5580,
+        "SC_GIRLS_UR": 2490,
+        "OC_GIRLS_AU": 1395,
+        "SC_GEN_AU": 6179
+      },
+      "INF": {
+        "OC_GEN_AU": 5629,
+        "BC_A_GIRLS_AU": 7270,
+        "BC_B_GEN_AU": 272,
+        "BC_B_GIRLS_AU": 2135,
+        "BC_A_GEN_AU": 2777,
+        "BC_C_CAP_GEN_UR": 3955,
+        "SC_GIRLS_AU": 6114,
+        "OC_GEN_UR": 3971,
+        "ST_GEN_AU": 5764,
+        "SC_GEN_AU": 6030
+      }
+    }
+  },
+  "BVCE": {
+    "collegeCode": "BVCE",
+    "collegeName": "B V CHALAMAIAH ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 1997,
+        "BC_B_GEN_AU": 2859,
+        "OC_GEN_UR": 395,
+        "BC_B_PWD_GEN_AU": 3881,
+        "BC_B_GIRLS_AU": 4107,
+        "BC_D_GEN_AU": 4246,
+        "OC_GIRLS_AU": 955,
+        "SC_GIRLS_AU": 2171,
+        "ST_GEN_AU": 2312,
+        "SC_CAP_GEN_UR": 3845
+      },
+      "CSM": {
+        "BC_A_GIRLS_UR": 7927,
+        "BC_B_GIRLS_AU": 4348,
+        "BC_D_GEN_AU": 5040,
+        "OC_GEN_AU": 2580,
+        "SC_GIRLS_AU": 2974,
+        "BC_A_GEN_AU": 4870
+      },
+      "AIM": {
+        "BC_B_GEN_AU": 5613,
+        "BC_C_GEN_AU": 5217,
+        "SC_GEN_AU": 5512,
+        "OC_GIRLS_AU": 2691,
+        "ST_GIRLS_AU": 2793
+      }
+    }
+  },
+  "BVRM": {
+    "collegeCode": "BVRM",
+    "collegeName": "BHIMAVARAM INST. OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 4551,
+        "OC_GIRLS_AU": 5730,
+        "OC_CAP_GEN_UR": 4303,
+        "OC_GEN_AU": 4741,
+        "OC_GIRLS_UR": 2892
+      }
+    }
+  },
+  "BVTS": {
+    "collegeCode": "BVTS",
+    "collegeName": "BONAM VENKATA CHALAMAIAH INST. OF TECH AND SCI.",
+    "courses": {
+      "CSE": {
+        "BC_A_GIRLS_AU": 3798,
+        "BC_E_GEN_AU": 5682,
+        "OC_GEN_UR": 1214,
+        "OC_GEN_AU": 1406,
+        "BC_B_GEN_AU": 2350,
+        "BC_D_GIRLS_AU": 3188,
+        "BC_B_GIRLS_AU": 3852,
+        "OC_GIRLS_AU": 1278,
+        "SC_GEN_AU": 3740,
+        "SC_PWD_GEN_AU": 3234
+      },
+      "AIM": {
+        "BC_A_GIRLS_AU": 3825,
+        "BC_B_GEN_AU": 3194,
+        "OC_GIRLS_AU": 1436,
+        "OC_GEN_AU": 2124,
+        "SC_GEN_AU": 4077
+      }
+    }
+  },
+  "CEVP": {
+    "collegeCode": "CEVP",
+    "collegeName": "CHAITANYA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1002,
+        "OC_GEN_AU": 2058,
+        "BC_E_GEN_UR": 78,
+        "OC_GIRLS_AU": 3011,
+        "OC_PWD_GEN_AU": 4852,
+        "BC_B_GEN_AU": 192,
+        "BC_D_GEN_AU": 18,
+        "ST_GIRLS_AU": 5239,
+        "EWS_GEN_AU": 5720,
+        "SC_GEN_AU": 1693,
+        "SC_GIRLS_AU": 6181
+      },
+      "AIM": {
+        "OC_GIRLS_AU": 4750,
+        "BC_D_GEN_AU": 4945,
+        "OC_GEN_AU": 4652,
+        "SC_GEN_AU": 6293
+      },
+      "AID": {
+        "OC_GEN_AU": 1724,
+        "SC_GEN_AU": 7983,
+        "OC_PWD_GEN_AU": 62,
+        "BC_A_GEN_AU": 4779,
+        "BC_B_GIRLS_AU": 5035,
+        "OC_GIRLS_AU": 2476
+      }
+    }
+  },
+  "CRRE": {
+    "collegeCode": "CRRE",
+    "collegeName": "SIR C R R COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 999,
+        "BC_A_GEN_AU": 1574,
+        "BC_B_CAP_GEN_UR": 1109,
+        "BC_B_GEN_UR": 2946,
+        "BC_B_GEN_AU": 1622,
+        "BC_B_GIRLS_UR": 4053,
+        "BC_B_GIRLS_AU": 3442,
+        "BC_D_GEN_AU": 1253,
+        "BC_D_GIRLS_AU": 2131,
+        "BC_A_GIRLS_AU": 2414,
+        "BC_E_GEN_AU": 1388,
+        "OC_PWD_GEN_AU": 857,
+        "ST_GEN_AU": 2769,
+        "SC_GEN_AU": 3268,
+        "SC_GIRLS_UR": 3059
+      },
+      "CSM": {
+        "OC_GEN_AU": 1205,
+        "BC_A_GIRLS_AU": 2993,
+        "BC_E_GIRLS_AU": 5440,
+        "ST_GEN_AU": 2088,
+        "SC_GEN_AU": 4728
+      },
+      "CSC": {
+        "BC_D_GEN_AU": 4400,
+        "OC_GEN_AU": 1252,
+        "SC_GIRLS_AU": 4532,
+        "ST_SCG_GIRLS_AU": 6599
+      },
+      "INF": {
+        "BC_A_GIRLS_AU": 1090,
+        "BC_A_PWD_GEN_AU": 3234,
+        "BC_E_GIRLS_UR": 5510,
+        "BC_B_GEN_UR": 2406,
+        "OC_GEN_AU": 4406,
+        "BC_B_GEN_AU": 5988,
+        "OC_PWD_GEN_AU": 355,
+        "BC_D_GEN_AU": 3626,
+        "BC_D_GIRLS_AU": 1599,
+        "SC_GEN_AU": 73,
+        "OC_GIRLS_AU": 2972,
+        "SC_GIRLS_AU": 5036,
+        "EWS_GIRLS_AU": 87,
+        "EWS_GEN_AU": 97,
+        "ST_GEN_AU": 2835
+      }
+    }
+  },
+  "DIET": {
+    "collegeCode": "DIET",
+    "collegeName": "DADI INSTT. OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 1235,
+        "BC_A_GEN_AU": 190,
+        "BC_E_CAP_GEN_UR": 3080,
+        "BC_A_GIRLS_UR": 4336,
+        "BC_B_GEN_AU": 2703,
+        "BC_B_GIRLS_AU": 2960,
+        "OC_PWD_GIRLS_AU": 1960,
+        "ST_GEN_AU": 24,
+        "SC_GEN_AU": 6173,
+        "OC_GEN_AU": 1748,
+        "BC_D_GIRLS_AU": 5862,
+        "BC_E_GEN_AU": 164,
+        "SC_GIRLS_AU": 1864,
+        "EWS_GEN_AU": 6650
+      },
+      "CSD": {
+        "OC_GEN_AU": 5297,
+        "OC_GIRLS_AU": 2940,
+        "BC_B_GEN_AU": 7791,
+        "SC_GEN_AU": 2598,
+        "BC_A_GIRLS_AU": 4175
+      },
+      "CSM": {
+        "SC_GEN_AU": 2975,
+        "BC_E_GIRLS_AU": 7458,
+        "OC_GEN_AU": 1665,
+        "OC_PWD_GEN_AU": 4086,
+        "ST_GEN_AU": 4525,
+        "BC_B_GEN_UR": 4782,
+        "BC_D_GEN_AU": 7157,
+        "OC_GIRLS_AU": 4919,
+        "BC_B_GIRLS_AU": 4135,
+        "SC_GIRLS_AU": 6811,
+        "BC_B_GEN_AU": 7890
+      }
+    }
+  },
+  "DJRC": {
+    "collegeCode": "DJRC",
+    "collegeName": "SRI CHAITANYA -DJR COLL OF ENGG AND TECH",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 4404
+      }
+    }
+  },
+  "DNRE": {
+    "collegeCode": "DNRE",
+    "collegeName": "DNR COLLEGE OF ENGG AND TECH",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 5603,
+        "SC_GEN_AU": 2212,
+        "BC_B_GEN_AU": 7485,
+        "BC_A_GIRLS_AU": 74,
+        "BC_B_GIRLS_AU": 5595,
+        "OC_GEN_UR": 1660,
+        "ST_GEN_AU": 3960,
+        "BC_D_GEN_AU": 7250,
+        "BC_A_GIRLS_UR": 8900,
+        "BC_D_GIRLS_AU": 5378,
+        "OC_CAP_GEN_UR": 2554,
+        "SC_GIRLS_AU": 8693,
+        "BC_E_GIRLS_AU": 4264,
+        "SC_PWD_GEN_AU": 4905,
+        "SC_GEN_UR": 4325
+      },
+      "CSM": {
+        "OC_GEN_AU": 4391,
+        "BC_A_GEN_AU": 5259,
+        "SC_GEN_AU": 5018
+      },
+      "AID": {
+        "OC_GEN_AU": 3305,
+        "OC_PWD_GEN_AU": 2835,
+        "BC_B_GEN_UR": 6178,
+        "ST_GEN_AU": 8211,
+        "SC_GEN_AU": 6812
+      }
+    }
+  },
+  "GDLV": {
+    "collegeCode": "GDLV",
+    "collegeName": "SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1182,
+        "BC_A_PWD_GIRLS_AU": 1682,
+        "BC_B_GEN_UR": 1147,
+        "BC_B_GEN_AU": 1602,
+        "BC_B_GIRLS_AU": 960,
+        "BC_D_GIRLS_UR": 732,
+        "BC_D_GIRLS_AU": 1815,
+        "BC_E_GEN_AU": 1695,
+        "OC_GEN_AU": 309,
+        "OC_CAP_GEN_UR": 738,
+        "OC_GIRLS_UR": 243,
+        "OC_GIRLS_AU": 397,
+        "SC_GEN_AU": 1591,
+        "SC_GIRLS_AU": 2932,
+        "ST_GEN_AU": 3043
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 3154,
+        "BC_A_GIRLS_AU": 5716,
+        "BC_B_GEN_UR": 1920,
+        "BC_B_GEN_AU": 1745,
+        "BC_E_GEN_AU": 3258,
+        "OC_GEN_AU": 941,
+        "OC_GIRLS_AU": 629,
+        "SC_GEN_AU": 4192,
+        "SC_GIRLS_AU": 5667,
+        "ST_GEN_AU": 4915
+      },
+      "AID": {
+        "BC_A_GEN_AU": 2409,
+        "BC_B_GEN_AU": 2643,
+        "BC_D_GEN_UR": 2146,
+        "BC_E_GIRLS_AU": 3411,
+        "OC_GEN_AU": 1605,
+        "OC_GIRLS_AU": 1247,
+        "OC_PWD_GIRLS_AU": 1654,
+        "SC_GEN_AU": 3745,
+        "ST_GIRLS_AU": 5249
+      },
+      "INF": {
+        "BC_A_GEN_UR": 3008,
+        "BC_A_GEN_AU": 3217,
+        "BC_A_GIRLS_AU": 3268,
+        "BC_E_GIRLS_AU": 4516,
+        "BC_B_GEN_AU": 3035,
+        "OC_GEN_AU": 1880,
+        "BC_B_GIRLS_UR": 2202,
+        "BC_D_GIRLS_AU": 2546,
+        "OC_CAP_GEN_UR": 893,
+        "OC_GIRLS_UR": 607,
+        "OC_GIRLS_AU": 1464,
+        "SC_GEN_AU": 5286,
+        "SC_PWD_GEN_AU": 5301,
+        "SC_GIRLS_AU": 5940,
+        "ST_GEN_AU": 6190
+      }
+    }
+  },
+  "GIER": {
+    "collegeCode": "GIER",
+    "collegeName": "GODAVARI INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 250,
+        "BC_A_GEN_AU": 2075,
+        "BC_A_PWD_GIRLS_AU": 3358,
+        "OC_SCG_GEN_AU": 1270,
+        "BC_B_GEN_AU": 5183,
+        "OC_GIRLS_UR": 427,
+        "OC_GIRLS_AU": 1524,
+        "BC_D_GIRLS_AU": 2072,
+        "BC_E_GIRLS_AU": 2098,
+        "OC_GEN_AU": 1212,
+        "SC_GEN_AU": 5095,
+        "ST_GEN_AU": 1685,
+        "ST_GIRLS_AU": 2039
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 3052,
+        "BC_B_GEN_AU": 3404,
+        "BC_D_GEN_AU": 3800,
+        "BC_A_GIRLS_AU": 5104,
+        "OC_GEN_AU": 2888,
+        "SC_GIRLS_AU": 3817,
+        "BC_B_GIRLS_AU": 3870,
+        "SC_GEN_AU": 4476,
+        "OC_PWD_GIRLS_AU": 4346,
+        "BC_B_GEN_UR": 3158
+      },
+      "CSM": {
+        "BC_A_CAP_GEN_UR": 3336,
+        "OC_GIRLS_AU": 4533,
+        "OC_GEN_AU": 1758,
+        "BC_B_GIRLS_AU": 3783,
+        "BC_E_GEN_AU": 4213,
+        "BC_D_GEN_AU": 2547,
+        "BC_B_GEN_AU": 2129,
+        "SC_GIRLS_AU": 4535,
+        "BC_D_GIRLS_AU": 4937,
+        "SC_GEN_UR": 1414
+      },
+      "CSC": {
+        "OC_GEN_AU": 1750,
+        "BC_D_GEN_AU": 2784,
+        "OC_GIRLS_AU": 4241,
+        "ST_GEN_AU": 2830,
+        "BC_A_GEN_AU": 3173
+      }
+    }
+  },
+  "GIET": {
+    "collegeCode": "GIET",
+    "collegeName": "GIET ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GIRLS_AU": 2959,
+        "BC_E_GIRLS_AU": 5453,
+        "BC_E_GEN_AU": 4493,
+        "OC_GEN_UR": 373,
+        "OC_CAP_GEN_UR": 1368,
+        "OC_GEN_AU": 2143,
+        "ST_GEN_AU": 2288,
+        "EWS_GEN_AU": 2841,
+        "SC_PWD_GEN_AU": 2856,
+        "SC_GIRLS_AU": 4356,
+        "SC_GEN_AU": 5883
+      },
+      "INF": {
+        "BC_E_GEN_AU": 1132,
+        "BC_B_GEN_AU": 6911,
+        "BC_B_GIRLS_UR": 4692,
+        "BC_D_GEN_AU": 5858,
+        "SC_GEN_AU": 33,
+        "OC_GEN_AU": 4807,
+        "ST_GIRLS_AU": 5076,
+        "BC_A_GEN_AU": 5813,
+        "OC_GIRLS_AU": 4380,
+        "SC_SCG_GIRLS_AU": 7063
+      }
+    }
+  },
+  "GITS": {
+    "collegeCode": "GITS",
+    "collegeName": "GONNA INST OF INFO TECHNOLOGY SCIENCES",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_AU": 5326,
+        "BC_C_GIRLS_AU": 3085
+      }
+    }
+  },
+  "GMRI": {
+    "collegeCode": "GMRI",
+    "collegeName": "G M R INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 432,
+        "OC_GIRLS_AU": 280,
+        "OC_PWD_GIRLS_AU": 249,
+        "OC_GEN_AU": 302,
+        "BC_A_GIRLS_AU": 576,
+        "BC_B_GIRLS_AU": 550,
+        "BC_B_GEN_AU": 709,
+        "BC_D_GIRLS_UR": 399,
+        "BC_D_GEN_AU": 435,
+        "BC_D_GIRLS_AU": 608,
+        "BC_E_GEN_AU": 3210,
+        "SC_GEN_UR": 1624,
+        "SC_GEN_AU": 2658,
+        "SC_GIRLS_AU": 2956,
+        "ST_GEN_AU": 2820
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 1138,
+        "BC_E_CAP_GIRLS_UR": 2413,
+        "BC_B_GEN_AU": 1992,
+        "BC_D_GEN_AU": 1175,
+        "OC_GEN_AU": 865,
+        "BC_D_GIRLS_UR": 1076,
+        "BC_D_GIRLS_AU": 1527,
+        "SC_GEN_AU": 2794,
+        "ST_GIRLS_AU": 3818
+      },
+      "INF": {
+        "BC_A_PWD_GEN_AU": 1658,
+        "BC_B_GEN_AU": 1707,
+        "SC_GIRLS_AU": 1543,
+        "BC_D_SCG_GEN_AU": 1408,
+        "OC_GIRLS_AU": 788,
+        "OC_GEN_AU": 1303,
+        "BC_D_GIRLS_AU": 2543,
+        "ST_GIRLS_AU": 1729,
+        "SC_GEN_AU": 5077,
+        "BC_B_GEN_UR": 1696
+      }
+    }
+  },
+  "GVPE": {
+    "collegeCode": "GVPE",
+    "collegeName": "GAYATHRI VIDYA PARISHAD COLL. OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_A_PWD_GEN_AU": 148,
+        "OC_GIRLS_AU": 62,
+        "BC_B_GIRLS_AU": 188,
+        "BC_D_GIRLS_AU": 141,
+        "OC_GEN_AU": 51,
+        "BC_E_GEN_UR": 127,
+        "SC_GEN_AU": 526,
+        "SC_GIRLS_UR": 1265,
+        "SC_GIRLS_AU": 1981,
+        "ST_GEN_AU": 1224
+      },
+      "CSD": {
+        "BC_A_GIRLS_AU": 301,
+        "BC_D_GEN_AU": 133,
+        "OC_PWD_GIRLS_AU": 115,
+        "SC_GEN_AU": 664,
+        "ST_GEN_AU": 1840
+      },
+      "CSM": {
+        "OC_GEN_AU": 84,
+        "BC_A_GEN_AU": 118,
+        "BC_D_GEN_AU": 87,
+        "OC_GIRLS_AU": 46,
+        "SC_GEN_AU": 289,
+        "ST_GIRLS_AU": 1262
+      },
+      "INF": {
+        "BC_B_GEN_AU": 370,
+        "OC_GEN_AU": 325,
+        "BC_D_GIRLS_AU": 786,
+        "SC_GEN_AU": 655
+      }
+    }
+  },
+  "GVPT": {
+    "collegeCode": "GVPT",
+    "collegeName": "G V P COLLEGE FOR DEGREE AND PG COURSES",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 1217,
+        "BC_E_GIRLS_AU": 2680,
+        "OC_GIRLS_UR": 592,
+        "BC_B_GEN_AU": 2491,
+        "BC_C_GEN_AU": 3882,
+        "BC_D_GIRLS_AU": 2017,
+        "SC_GIRLS_AU": 3009,
+        "OC_PWD_GIRLS_AU": 886,
+        "OC_GEN_AU": 909,
+        "SC_PWD_GEN_AU": 3419,
+        "ST_GEN_AU": 3681
+      },
+      "CSM": {
+        "OC_GEN_AU": 443,
+        "BC_A_GEN_AU": 2150,
+        "OC_GIRLS_AU": 2406,
+        "BC_D_GEN_AU": 2089,
+        "SC_CAP_GIRLS_UR": 3177
+      }
+    }
+  },
+  "IDEL": {
+    "collegeCode": "IDEL",
+    "collegeName": "IDEAL INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1156,
+        "BC_D_GEN_AU": 5298,
+        "OC_GEN_UR": 1582,
+        "SC_GIRLS_AU": 3639,
+        "BC_B_GEN_AU": 5460,
+        "OC_GIRLS_AU": 4059,
+        "ST_GIRLS_AU": 4846,
+        "SC_GEN_AU": 5396
+      },
+      "CSM": {
+        "BC_A_GIRLS_AU": 5437,
+        "BC_B_GEN_AU": 4311,
+        "BC_D_PWD_GEN_AU": 2381,
+        "OC_GIRLS_AU": 4393,
+        "SC_GEN_AU": 2348
+      }
+    }
+  },
+  "JNTN": {
+    "collegeCode": "JNTN",
+    "collegeName": "JNTUK COLLEGE OF ENGINEERING NARSARAOPETA",
+    "courses": {
+      "CSE": {
+        "OC_CAP_GEN_UR": 226,
+        "BC_A_GEN_AU": 695,
+        "OC_GEN_AU": 361,
+        "BC_B_GEN_UR": 696,
+        "OC_GIRLS_AU": 306,
+        "BC_C_GIRLS_AU": 574,
+        "EWS_GEN_AU": 534,
+        "OC_GEN_UR": 64,
+        "SC_GEN_AU": 956,
+        "SC_GIRLS_AU": 1164,
+        "ST_GIRLS_AU": 3525
+      }
+    }
+  },
+  "KHIT": {
+    "collegeCode": "KHIT",
+    "collegeName": "KALLAM HARANADH REDDY INST OF TECH",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GEN_AU": 825,
+        "SC_GIRLS_AU": 6012,
+        "OC_GEN_AU": 5043,
+        "OC_GIRLS_UR": 3394,
+        "SC_GEN_UR": 4906,
+        "ST_GEN_AU": 2729
+      },
+      "CSM": {
+        "OC_GEN_AU": 990,
+        "OC_CAP_GEN_UR": 3674,
+        "OC_GIRLS_AU": 2741
+      },
+      "INF": {
+        "OC_PWD_GEN_AU": 1894
+      }
+    }
+  },
+  "KITS": {
+    "collegeCode": "KITS",
+    "collegeName": "KKR AND KSR INST OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 3466,
+        "BC_B_GIRLS_AU": 5821,
+        "BC_E_GIRLS_AU": 1857,
+        "BC_E_GEN_AU": 2055,
+        "OC_GEN_AU": 1449,
+        "SC_GEN_AU": 5880,
+        "OC_GIRLS_UR": 972,
+        "OC_PWD_GIRLS_AU": 1448,
+        "OC_PWD_GEN_AU": 1499,
+        "SC_GIRLS_AU": 1849,
+        "ST_GEN_UR": 1724
+      },
+      "CSD": {
+        "OC_GIRLS_AU": 2471,
+        "BC_B_GEN_AU": 5786,
+        "OC_GEN_AU": 5142,
+        "BC_E_GEN_AU": 1979,
+        "OC_GEN_UR": 1699,
+        "ST_GEN_AU": 5804,
+        "BC_A_GEN_AU": 2358,
+        "BC_A_GIRLS_AU": 4718,
+        "BC_D_CAP_GEN_UR": 2943,
+        "SC_GIRLS_AU": 2076
+      },
+      "CSM": {
+        "BC_B_GEN_AU": 3353,
+        "BC_A_GIRLS_AU": 3922,
+        "BC_D_GEN_AU": 2666,
+        "BC_E_GIRLS_AU": 6061,
+        "OC_GEN_AU": 2252,
+        "SC_GEN_AU": 2437
+      },
+      "CAI": {
+        "BC_B_GEN_AU": 3178,
+        "OC_GIRLS_AU": 2772,
+        "BC_D_GIRLS_AU": 6080,
+        "BC_E_GIRLS_UR": 5197,
+        "OC_GEN_AU": 3617,
+        "SC_GEN_AU": 5753,
+        "BC_E_GIRLS_AU": 2863,
+        "OC_GEN_UR": 1343,
+        "BC_A_PWD_GEN_AU": 2909
+      },
+      "INF": {
+        "BC_A_GEN_AU": 5663,
+        "BC_A_GIRLS_UR": 7408,
+        "BC_B_GEN_AU": 4413,
+        "BC_D_GEN_AU": 4361,
+        "BC_C_GIRLS_AU": 4071,
+        "BC_E_GEN_AU": 5217,
+        "SC_GIRLS_AU": 287,
+        "OC_GEN_UR": 2299,
+        "OC_GEN_AU": 2782,
+        "SC_GEN_AU": 3434,
+        "OC_PWD_GIRLS_AU": 3436,
+        "OC_GIRLS_AU": 4742,
+        "ST_GIRLS_AU": 4786
+      }
+    }
+  },
+  "KRUESF": {
+    "collegeCode": "KRUESF",
+    "collegeName": "KRISHNA UNIVERSITY COLLEGE OF ENGG AND TECHNOLOGY-SELF FINAN",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 2694,
+        "BC_A_GEN_AU": 5981,
+        "OC_GEN_UR": 1042,
+        "SC_GIRLS_AU": 4898,
+        "OC_GIRLS_AU": 1231,
+        "OC_PWD_GEN_AU": 2544,
+        "BC_C_GEN_AU": 4154,
+        "BC_D_GIRLS_AU": 8720,
+        "BC_E_GEN_AU": 5412,
+        "EWS_GEN_AU": 1343,
+        "SC_GEN_AU": 5505,
+        "ST_GIRLS_AU": 3361,
+        "SC_GEN_UR": 3880,
+        "BC_B_GEN_UR": 3594
+      }
+    }
+  },
+  "LENO": {
+    "collegeCode": "LENO",
+    "collegeName": "LENORA COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 5229,
+        "SC_GEN_AU": 4984,
+        "OC_GIRLS_UR": 2269,
+        "OC_PWD_GIRLS_AU": 2537,
+        "SC_GEN_UR": 4285,
+        "EWS_GEN_AU": 8384,
+        "OC_GIRLS_AU": 1628
+      }
+    }
+  },
+  "LIET": {
+    "collegeCode": "LIET",
+    "collegeName": "LENDI INST OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 3739,
+        "OC_PWD_GIRLS_AU": 1355,
+        "OC_GEN_AU": 1422,
+        "BC_D_GIRLS_AU": 2848,
+        "BC_D_GEN_AU": 2911,
+        "SC_GEN_AU": 1558,
+        "SC_GIRLS_AU": 2758,
+        "ST_GIRLS_AU": 3073,
+        "SC_GEN_UR": 4537
+      },
+      "CSM": {
+        "OC_GEN_AU": 3717,
+        "BC_B_GEN_AU": 4154,
+        "OC_GIRLS_AU": 589,
+        "BC_D_GIRLS_AU": 5946,
+        "SC_GEN_AU": 4144
+      }
+    }
+  },
+  "MICT": {
+    "collegeCode": "MICT",
+    "collegeName": "DVR AND DR.HS MIC COLLEGE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 4915,
+        "OC_GIRLS_AU": 2440,
+        "BC_B_GEN_AU": 4542,
+        "BC_B_GIRLS_AU": 4650,
+        "BC_D_GEN_AU": 3494,
+        "OC_GEN_AU": 2054,
+        "SC_GEN_AU": 2850,
+        "BC_E_GEN_AU": 3549,
+        "ST_GIRLS_AU": 2461,
+        "SC_PWD_GIRLS_AU": 3346
+      },
+      "AIM": {
+        "BC_A_GEN_AU": 2907,
+        "BC_B_GEN_AU": 3863,
+        "BC_E_GEN_AU": 8555,
+        "SC_GEN_AU": 4887,
+        "ST_GEN_AU": 1646,
+        "BC_D_GIRLS_AU": 4907,
+        "OC_GIRLS_AU": 2080,
+        "OC_GEN_UR": 2441,
+        "OC_PWD_GIRLS_AU": 5106,
+        "SC_GIRLS_AU": 5674
+      },
+      "AID": {
+        "BC_B_GEN_AU": 1289,
+        "OC_GEN_AU": 3680,
+        "OC_GIRLS_AU": 3045,
+        "BC_B_GIRLS_AU": 69,
+        "BC_B_PWD_GEN_AU": 216,
+        "SC_GEN_AU": 4669,
+        "BC_B_GEN_UR": 5645,
+        "BC_A_GIRLS_AU": 5746
+      },
+      "INF": {
+        "BC_A_GEN_AU": 5651,
+        "BC_B_GIRLS_AU": 5604,
+        "OC_GEN_AU": 3427,
+        "SC_GEN_AU": 3868,
+        "OC_CAP_GIRLS_UR": 4582,
+        "ST_GEN_AU": 8206,
+        "OC_GEN_UR": 1757,
+        "BC_B_GEN_AU": 2919
+      }
+    }
+  },
+  "MVRG": {
+    "collegeCode": "MVRG",
+    "collegeName": "M V G R COLLEGE OF ENGINEERNG",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 304,
+        "BC_A_GEN_AU": 640,
+        "BC_B_GIRLS_AU": 639,
+        "OC_GIRLS_UR": 299,
+        "BC_D_GIRLS_AU": 829,
+        "BC_E_GEN_AU": 3543,
+        "SC_SCG_GEN_AU": 400,
+        "ST_GEN_AU": 1665,
+        "SC_GEN_AU": 636,
+        "SC_PWD_GIRLS_AU": 2128,
+        "OC_GEN_UR": 158
+      },
+      "CSD": {
+        "BC_A_GIRLS_AU": 2475,
+        "BC_B_GEN_AU": 1310,
+        "OC_GEN_AU": 1087,
+        "BC_D_GIRLS_AU": 1890,
+        "SC_GEN_AU": 3264
+      },
+      "CSM": {
+        "BC_B_GEN_AU": 1652,
+        "BC_D_GIRLS_AU": 1321,
+        "OC_GEN_AU": 725,
+        "ST_GEN_AU": 2978,
+        "SC_GIRLS_AU": 2164
+      },
+      "INF": {
+        "BC_A_GEN_AU": 2531,
+        "BC_B_GEN_AU": 3111,
+        "OC_GEN_AU": 766,
+        "SC_GEN_UR": 1684,
+        "ST_GEN_AU": 1825,
+        "OC_PWD_GIRLS_AU": 3387,
+        "BC_D_GIRLS_AU": 5022,
+        "SC_GEN_AU": 1821
+      }
+    }
+  },
+  "MVRS": {
+    "collegeCode": "MVRS",
+    "collegeName": "M.V.R.COLL OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "ST_GEN_AU": 6340,
+        "OC_GIRLS_AU": 4220,
+        "SC_GEN_AU": 148,
+        "OC_GEN_AU": 6143,
+        "OC_PWD_GEN_AU": 6161,
+        "BC_E_CAP_GIRLS_UR": 2175,
+        "BC_B_GEN_UR": 2355
+      },
+      "CAI": {
+        "OC_GEN_UR": 2775,
+        "OC_GEN_AU": 3725,
+        "OC_PWD_GEN_AU": 1508,
+        "BC_E_GEN_AU": 2915,
+        "OC_GIRLS_AU": 4940,
+        "ST_GIRLS_AU": 5050,
+        "SC_GEN_AU": 6140,
+        "BC_D_GEN_AU": 5968
+      },
+      "AID": {
+        "OC_GEN_AU": 5085,
+        "SC_GIRLS_AU": 4209,
+        "OC_GIRLS_AU": 5983,
+        "BC_D_GEN_AU": 5372
+      }
+    }
+  },
+  "NEWT": {
+    "collegeCode": "NEWT",
+    "collegeName": "NEWTON INSTITUTE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 6056,
+        "OC_PWD_GEN_AU": 5395,
+        "SC_GIRLS_UR": 2953,
+        "BC_D_CAP_GEN_UR": 5504,
+        "BC_E_GEN_UR": 3683,
+        "OC_GIRLS_AU": 2820,
+        "SC_GEN_UR": 3704,
+        "ST_GEN_AU": 6288
+      },
+      "CSM": {
+        "OC_GEN_AU": 2367,
+        "OC_PWD_GEN_AU": 5159,
+        "SC_GIRLS_UR": 1506
+      }
+    }
+  },
+  "NMRE": {
+    "collegeCode": "NMRE",
+    "collegeName": "NIMRA COLLEGE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "MUS_GEN_UR": 6292
+      }
+    }
+  },
+  "NRIA": {
+    "collegeCode": "NRIA",
+    "collegeName": "NRI INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 2100,
+        "OC_GIRLS_AU": 1213,
+        "BC_B_GIRLS_AU": 3495,
+        "OC_GEN_AU": 1219,
+        "SC_GEN_UR": 2593,
+        "SC_GEN_AU": 2818,
+        "ST_PWD_GEN_AU": 4596,
+        "SC_GIRLS_AU": 2799
+      },
+      "CSD": {
+        "OC_GIRLS_UR": 5288,
+        "ST_GEN_AU": 3573,
+        "BC_E_GEN_AU": 5972,
+        "OC_GIRLS_AU": 5688,
+        "SC_GIRLS_AU": 6063,
+        "SC_GEN_AU": 5446
+      },
+      "CSM": {
+        "BC_A_GEN_UR": 2311,
+        "OC_GEN_AU": 3957,
+        "BC_A_GEN_AU": 3133,
+        "BC_E_GEN_AU": 8475,
+        "BC_B_GEN_AU": 5633,
+        "BC_B_GIRLS_AU": 7831,
+        "BC_D_GEN_AU": 7888,
+        "BC_D_GIRLS_AU": 5901,
+        "SC_GEN_AU": 2457,
+        "OC_PWD_GEN_AU": 536,
+        "OC_GIRLS_UR": 2013,
+        "OC_GIRLS_AU": 4415,
+        "ST_GIRLS_AU": 5208
+      },
+      "AIM": {
+        "OC_PWD_GEN_AU": 3064,
+        "BC_B_GEN_AU": 5233,
+        "BC_A_GIRLS_AU": 5964,
+        "BC_D_GEN_UR": 4086,
+        "SC_GEN_AU": 5090,
+        "BC_B_GIRLS_AU": 3558,
+        "OC_GEN_AU": 4846,
+        "ST_GIRLS_AU": 4248,
+        "OC_GIRLS_AU": 2283
+      },
+      "CSER": {
+        "OC_GEN_UR": 3750
+      },
+      "INF": {
+        "BC_A_GEN_AU": 4545,
+        "BC_D_PWD_GIRLS_AU": 2538,
+        "BC_B_GEN_AU": 120,
+        "BC_D_GEN_UR": 3827,
+        "BC_D_GEN_AU": 7347,
+        "OC_GEN_AU": 3533,
+        "SC_GEN_AU": 5611,
+        "OC_GIRLS_AU": 5558,
+        "ST_GIRLS_AU": 3253
+      }
+    }
+  },
+  "NRIT": {
+    "collegeCode": "NRIT",
+    "collegeName": "NRI INSTT OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_CAP_GEN_UR": 1521,
+        "BC_B_GEN_AU": 2846,
+        "SC_GEN_AU": 6122,
+        "BC_D_GEN_AU": 8878,
+        "ST_GIRLS_AU": 1555,
+        "OC_GIRLS_AU": 5574,
+        "SC_GEN_UR": 5131
+      },
+      "CSD": {
+        "OC_GEN_AU": 5575
+      },
+      "AIM": {
+        "BC_A_GEN_AU": 5429,
+        "SC_GIRLS_AU": 3997,
+        "ST_GEN_AU": 5210,
+        "BC_E_GEN_AU": 2438,
+        "SC_GEN_AU": 3005
+      },
+      "INF": {
+        "OC_GIRLS_AU": 5075
+      }
+    }
+  },
+  "NSPE": {
+    "collegeCode": "NSPE",
+    "collegeName": "NARSARAOPETA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 2802,
+        "BC_A_CAP_GEN_UR": 4083,
+        "BC_A_GEN_AU": 7266,
+        "OC_PWD_GIRLS_AU": 3035,
+        "SC_GEN_AU": 5339,
+        "BC_B_GIRLS_AU": 2781,
+        "BC_E_GEN_AU": 5232,
+        "BC_E_GIRLS_AU": 5759,
+        "BC_D_GEN_AU": 5132,
+        "OC_GIRLS_AU": 2744,
+        "BC_D_PWD_GEN_AU": 1609,
+        "SC_GIRLS_AU": 2125,
+        "SC_GEN_UR": 4872,
+        "ST_GEN_AU": 3342,
+        "BC_A_GIRLS_UR": 2706,
+        "BC_A_GIRLS_AU": 3256,
+        "OC_GEN_UR": 1203,
+        "SC_GIRLS_UR": 1374,
+        "BC_D_GIRLS_UR": 2320,
+        "ST_GIRLS_UR": 3313
+      },
+      "CSD": {
+        "OC_PWD_GEN_AU": 3348,
+        "BC_B_GEN_AU": 4347,
+        "SC_GIRLS_AU": 5838,
+        "OC_GIRLS_AU": 1740
+      },
+      "CSM": {
+        "OC_GEN_AU": 6075,
+        "ST_GEN_AU": 6994,
+        "SC_GEN_AU": 8615,
+        "OC_GIRLS_AU": 3174
+      },
+      "CSC": {
+        "OC_GEN_AU": 4181
+      },
+      "AIM": {
+        "BC_A_GIRLS_AU": 1744,
+        "BC_B_GEN_AU": 4578,
+        "OC_GIRLS_AU": 1318,
+        "BC_E_GEN_AU": 2489,
+        "OC_PWD_GEN_AU": 5417,
+        "BC_D_GEN_AU": 1189
+      },
+      "CAI": {
+        "OC_GEN_AU": 2173
+      },
+      "INF": {
+        "OC_GEN_AU": 8628
+      }
+    }
+  },
+  "NSRE": {
+    "collegeCode": "NSRE",
+    "collegeName": "N S RAJU INSTITUTE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 967,
+        "ST_GEN_AU": 4823,
+        "SC_GIRLS_AU": 3960,
+        "OC_GIRLS_UR": 4544
+      },
+      "CSM": {
+        "OC_GEN_AU": 4424
+      }
+    }
+  },
+  "NSRT": {
+    "collegeCode": "NSRT",
+    "collegeName": "NADIMPALLI SATYANARAYANA RAJU INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1377,
+        "BC_D_GIRLS_AU": 2730,
+        "ST_GIRLS_AU": 2961,
+        "EWS_GEN_AU": 1620,
+        "OC_GEN_AU": 1229,
+        "OC_PWD_GEN_AU": 1245,
+        "EWS_GIRLS_AU": 2169,
+        "SC_GEN_AU": 3755
+      },
+      "CSD": {
+        "BC_E_GEN_AU": 4739,
+        "SC_GIRLS_AU": 3261,
+        "BC_D_GEN_AU": 5745,
+        "ST_GEN_AU": 3044,
+        "EWS_GEN_AU": 3426
+      },
+      "CSM": {
+        "BC_B_GEN_AU": 4384,
+        "BC_A_GEN_AU": 2872,
+        "BC_A_GIRLS_AU": 3425,
+        "BC_E_GEN_AU": 3470,
+        "BC_B_SCG_GIRLS_AU": 3615,
+        "SC_GEN_AU": 2376,
+        "EWS_GEN_AU": 2679
+      }
+    }
+  },
+  "PACE": {
+    "collegeCode": "PACE",
+    "collegeName": "PACE INSTITUTE OF TECHNOLOGY AND SCIENCES",
+    "courses": {
+      "CSE": {
+        "ST_GEN_AU": 1675,
+        "ST_GIRLS_AU": 2730,
+        "BC_A_GIRLS_UR": 3366,
+        "BC_D_GEN_AU": 4856,
+        "BC_A_GEN_AU": 5876,
+        "SC_GIRLS_AU": 8444,
+        "BC_E_GEN_AU": 4200,
+        "OC_GIRLS_AU": 2363,
+        "OC_GEN_AU": 2648,
+        "SC_GEN_AU": 1873
+      },
+      "AIM": {
+        "OC_GEN_AU": 7074,
+        "ST_GIRLS_AU": 3878,
+        "OC_GIRLS_AU": 4250
+      },
+      "AID": {
+        "OC_GEN_UR": 5521,
+        "OC_GIRLS_UR": 1601,
+        "OC_GIRLS_AU": 6506
+      },
+      "INF": {
+        "OC_GEN_AU": 3684
+      }
+    }
+  },
+  "PKSK": {
+    "collegeCode": "PKSK",
+    "collegeName": "PRAKASAM ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 6071,
+        "OC_GEN_UR": 3011,
+        "OC_GIRLS_AU": 9111
+      },
+      "CAI": {
+        "OC_GEN_AU": 7293
+      }
+    }
+  },
+  "PRAG": {
+    "collegeCode": "PRAG",
+    "collegeName": "PRAGATI ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1286,
+        "BC_D_GIRLS_UR": 2556,
+        "BC_D_GIRLS_AU": 2874,
+        "BC_E_GIRLS_AU": 4648,
+        "OC_GEN_AU": 611,
+        "OC_GIRLS_AU": 380,
+        "SC_GEN_UR": 1544,
+        "SC_GIRLS_AU": 2571,
+        "ST_GEN_AU": 5225
+      },
+      "CSD": {
+        "BC_A_GIRLS_AU": 5592,
+        "BC_A_GEN_AU": 5495,
+        "BC_E_GIRLS_AU": 5587,
+        "OC_GEN_AU": 1027,
+        "OC_PWD_GEN_AU": 1384,
+        "BC_B_GEN_UR": 1842,
+        "BC_B_GIRLS_AU": 2132,
+        "BC_D_GEN_AU": 6076,
+        "BC_D_GIRLS_AU": 2638,
+        "SC_GEN_AU": 1592,
+        "OC_GEN_UR": 632,
+        "OC_GIRLS_AU": 1852,
+        "ST_CAP_GIRLS_UR": 3817
+      },
+      "CSM": {
+        "OC_GEN_AU": 1259,
+        "BC_A_GEN_AU": 3602,
+        "BC_B_GEN_AU": 2442,
+        "BC_E_GEN_AU": 2497,
+        "BC_B_GIRLS_UR": 4683,
+        "BC_D_GEN_AU": 1345,
+        "OC_PWD_GIRLS_AU": 1743,
+        "OC_GEN_UR": 444,
+        "OC_GIRLS_AU": 3938,
+        "SC_GIRLS_AU": 4068,
+        "ST_GIRLS_AU": 4163,
+        "SC_GEN_AU": 4285,
+        "ST_GEN_AU": 6040
+      },
+      "CSC": {
+        "BC_A_GEN_AU": 5214,
+        "BC_B_GEN_AU": 3013,
+        "OC_GEN_AU": 1655,
+        "OC_GIRLS_AU": 1050,
+        "SC_GIRLS_AU": 3228
+      },
+      "CAI": {
+        "BC_A_GEN_UR": 2620,
+        "BC_A_GIRLS_AU": 3737,
+        "OC_GEN_AU": 1129,
+        "BC_B_GEN_AU": 2505,
+        "OC_GEN_UR": 1264,
+        "BC_B_GIRLS_AU": 5565,
+        "BC_D_GEN_AU": 2468,
+        "OC_GIRLS_AU": 3778,
+        "ST_PWD_GEN_AU": 1763,
+        "SC_GIRLS_AU": 1568,
+        "SC_GEN_AU": 5918
+      },
+      "INF": {
+        "BC_A_GEN_AU": 2972,
+        "BC_A_GIRLS_AU": 4264,
+        "OC_GEN_AU": 1709,
+        "BC_D_CAP_GEN_UR": 3147,
+        "BC_D_GEN_AU": 3605,
+        "BC_D_GIRLS_AU": 4376
+      }
+    }
+  },
+  "PYDE": {
+    "collegeCode": "PYDE",
+    "collegeName": "PYDAH COLL OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 129,
+        "SC_GIRLS_AU": 2746,
+        "EWS_GEN_AU": 3046,
+        "ST_GEN_AU": 8612,
+        "SC_GEN_AU": 5745,
+        "OC_GIRLS_AU": 4710,
+        "OC_PWD_GEN_AU": 4959,
+        "BC_A_GIRLS_UR": 5407
+      },
+      "CAI": {
+        "OC_GEN_AU": 8523,
+        "OC_GIRLS_AU": 5742
+      }
+    }
+  },
+  "QISE": {
+    "collegeCode": "QISE",
+    "collegeName": "QIS COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3709,
+        "SC_GIRLS_AU": 4794,
+        "OC_GIRLS_UR": 2515,
+        "OC_GIRLS_AU": 5562,
+        "ST_GEN_AU": 6969,
+        "SC_GEN_AU": 2965,
+        "OC_GEN_UR": 1738,
+        "ST_GIRLS_AU": 4495,
+        "OC_PWD_GEN_AU": 4753,
+        "OC_PWD_GIRLS_AU": 5595,
+        "SC_GEN_UR": 5098,
+        "BC_B_GEN_UR": 388,
+        "BC_B_CAP_GIRLS_UR": 5291,
+        "BC_D_GEN_UR": 2211,
+        "BC_A_GIRLS_UR": 3656
+      },
+      "CSD": {
+        "OC_GIRLS_AU": 2789,
+        "OC_CAP_GIRLS_UR": 1913
+      },
+      "CSM": {
+        "BC_B_GEN_AU": 8572,
+        "OC_GIRLS_AU": 4443,
+        "BC_A_GEN_AU": 6143
+      },
+      "AID": {
+        "OC_GEN_AU": 8736
+      },
+      "INF": {
+        "OC_GEN_AU": 4332
+      }
+    }
+  },
+  "RAGU": {
+    "collegeCode": "RAGU",
+    "collegeName": "RAGHU ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 1341,
+        "BC_A_GEN_AU": 2092,
+        "BC_B_GIRLS_AU": 2333,
+        "OC_GIRLS_AU": 489,
+        "BC_D_GIRLS_UR": 1019,
+        "BC_D_GIRLS_AU": 1155,
+        "BC_C_GIRLS_AU": 1172,
+        "BC_E_GEN_AU": 1875,
+        "OC_GEN_AU": 379,
+        "SC_GEN_UR": 1412,
+        "ST_GEN_AU": 1733,
+        "SC_GEN_AU": 2934,
+        "SC_GIRLS_UR": 2122,
+        "SC_GIRLS_AU": 3077,
+        "ST_GIRLS_AU": 3648,
+        "ST_CAP_GEN_UR": 3187
+      },
+      "CSD": {
+        "BC_E_GEN_AU": 4767,
+        "BC_A_GEN_AU": 5532,
+        "BC_E_PWD_GIRLS_AU": 5392,
+        "BC_A_GIRLS_AU": 4294,
+        "BC_B_GEN_AU": 4127,
+        "BC_B_GIRLS_AU": 3855,
+        "BC_B_GIRLS_UR": 3569,
+        "OC_GEN_UR": 1233,
+        "OC_GEN_AU": 1387,
+        "BC_D_GEN_UR": 2027,
+        "SC_GEN_AU": 2666,
+        "ST_GEN_AU": 2421,
+        "BC_D_GEN_AU": 2728,
+        "OC_GIRLS_AU": 1292,
+        "BC_D_GIRLS_UR": 2179,
+        "BC_D_GIRLS_AU": 4458,
+        "OC_PWD_GEN_AU": 1897,
+        "EWS_GEN_AU": 2591,
+        "EWS_GIRLS_AU": 2172,
+        "SC_GIRLS_AU": 2676,
+        "ST_GIRLS_AU": 3365,
+        "BC_B_CAP_GEN_UR": 1570
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 2566,
+        "BC_E_GIRLS_AU": 3979,
+        "BC_A_GIRLS_UR": 4273,
+        "BC_A_GIRLS_AU": 5552,
+        "BC_B_GEN_AU": 3942,
+        "BC_B_GIRLS_AU": 3362,
+        "OC_PWD_GIRLS_AU": 1710,
+        "OC_GEN_AU": 1520,
+        "SC_GEN_AU": 3286,
+        "BC_D_GEN_AU": 2903,
+        "OC_GIRLS_AU": 1302,
+        "BC_D_GIRLS_AU": 3377,
+        "BC_E_GEN_AU": 2628,
+        "ST_GEN_AU": 1959,
+        "BC_A_SCG_GEN_AU": 1965,
+        "OC_GIRLS_UR": 1200,
+        "SC_GIRLS_AU": 3873,
+        "BC_A_GEN_UR": 1216,
+        "BC_B_GEN_UR": 1116
+      },
+      "CSC": {
+        "BC_A_GEN_AU": 3175,
+        "BC_B_GEN_AU": 2942,
+        "BC_B_GIRLS_AU": 4973,
+        "OC_GEN_AU": 1505,
+        "BC_D_GEN_AU": 2000,
+        "ST_GEN_AU": 2268,
+        "BC_D_GIRLS_UR": 2539,
+        "SC_GIRLS_AU": 3536,
+        "SC_PWD_GEN_AU": 2463,
+        "OC_GIRLS_AU": 1868,
+        "SC_GEN_AU": 5176
+      }
+    }
+  },
+  "RCEE": {
+    "collegeCode": "RCEE",
+    "collegeName": "RAMACHANDRA COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GEN_AU": 2379,
+        "BC_A_GEN_AU": 5617,
+        "BC_D_SCG_GIRLS_AU": 1546,
+        "BC_B_GIRLS_AU": 3547,
+        "BC_E_GEN_AU": 2419,
+        "BC_B_GEN_AU": 2612,
+        "ST_GEN_AU": 4601,
+        "SC_GEN_AU": 4922,
+        "BC_D_GIRLS_AU": 5188,
+        "SC_GEN_UR": 5110,
+        "SC_GIRLS_AU": 3997
+      },
+      "CSM": {
+        "OC_GEN_AU": 4055
+      },
+      "CSC": {
+        "SC_GIRLS_AU": 4842,
+        "OC_GEN_AU": 5789,
+        "ST_GEN_AU": 6722
+      },
+      "AID": {
+        "BC_A_GEN_AU": 6005,
+        "OC_GIRLS_AU": 4420,
+        "OC_GEN_AU": 324,
+        "ST_GEN_AU": 1134,
+        "BC_B_GEN_AU": 6360,
+        "BC_E_GEN_AU": 7255,
+        "OC_GIRLS_UR": 1668,
+        "BC_C_GEN_AU": 6795,
+        "SC_PWD_GIRLS_AU": 7409
+      }
+    }
+  },
+  "RIET": {
+    "collegeCode": "RIET",
+    "collegeName": "RAJAMAHENDRI INST OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 5708,
+        "OC_GIRLS_UR": 3555
+      },
+      "CSM": {
+        "OC_GIRLS_AU": 5304
+      }
+    }
+  },
+  "SASI": {
+    "collegeCode": "SASI",
+    "collegeName": "SASI INSTITUTE OF TECHNOLOGY AND ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 2913,
+        "BC_B_GEN_AU": 4416,
+        "OC_GEN_AU": 1427,
+        "SC_GEN_AU": 2405,
+        "OC_GIRLS_AU": 1466,
+        "OC_PWD_GIRLS_AU": 2529,
+        "SC_GIRLS_AU": 3279,
+        "BC_D_GIRLS_AU": 3694,
+        "BC_E_GEN_AU": 4451,
+        "ST_GIRLS_AU": 2749
+      },
+      "CSD": {
+        "BC_B_GIRLS_AU": 2256,
+        "BC_A_GEN_AU": 4197,
+        "BC_D_GEN_AU": 3505,
+        "BC_D_GIRLS_AU": 4009,
+        "OC_GEN_AU": 4876,
+        "SC_CAP_GEN_UR": 2287
+      },
+      "CSM": {
+        "BC_A_PWD_GIRLS_AU": 4630,
+        "BC_B_GEN_AU": 5373,
+        "BC_B_GIRLS_AU": 4241,
+        "BC_D_GEN_UR": 1561,
+        "BC_D_GEN_AU": 2572,
+        "SC_GIRLS_AU": 3674,
+        "ST_GEN_AU": 3356,
+        "SC_GEN_AU": 4174,
+        "OC_GEN_AU": 2986,
+        "OC_GIRLS_AU": 3118
+      },
+      "AIM": {
+        "BC_E_SCG_GEN_AU": 597,
+        "BC_D_GEN_AU": 5291,
+        "SC_GEN_AU": 2873,
+        "OC_GIRLS_AU": 1453,
+        "SC_GIRLS_AU": 1680,
+        "BC_B_GEN_AU": 3281
+      },
+      "INF": {
+        "OC_GEN_AU": 2162,
+        "BC_A_GEN_AU": 7506,
+        "BC_B_GIRLS_AU": 5443,
+        "BC_D_GEN_AU": 1175,
+        "BC_E_GIRLS_AU": 7102,
+        "SC_GEN_AU": 2637,
+        "BC_B_GEN_AU": 2849,
+        "SC_GIRLS_AU": 1315,
+        "OC_PWD_GIRLS_AU": 2239,
+        "OC_GIRLS_UR": 2890
+      }
+    }
+  },
+  "SAVE": {
+    "collegeCode": "SAVE",
+    "collegeName": "SANKETHIKA VIDYA PARISHAD ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1365,
+        "BC_A_GIRLS_AU": 2130,
+        "OC_GEN_AU": 2871,
+        "BC_E_GIRLS_UR": 3836,
+        "BC_A_GEN_UR": 6126,
+        "BC_B_GIRLS_AU": 125,
+        "OC_GIRLS_AU": 3246,
+        "BC_E_GEN_AU": 5977,
+        "SC_GEN_AU": 5895,
+        "ST_GIRLS_AU": 5011,
+        "SC_GIRLS_AU": 4565,
+        "ST_GEN_AU": 4858
+      }
+    }
+  },
+  "SGEC": {
+    "collegeCode": "SGEC",
+    "collegeName": "SAI GANAPATHI ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "ST_GIRLS_AU": 5215,
+        "BC_A_GEN_AU": 5694,
+        "OC_GEN_AU": 4460,
+        "OC_GEN_UR": 2727,
+        "BC_E_GEN_UR": 5608,
+        "OC_SCG_GEN_AU": 4065
+      }
+    }
+  },
+  "SGVP": {
+    "collegeCode": "SGVP",
+    "collegeName": "SATYA INST OF TECHNOLOGY AND MGMT",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1882,
+        "BC_B_GEN_AU": 4390,
+        "BC_C_GIRLS_AU": 4267,
+        "SC_GIRLS_UR": 1554
+      },
+      "AID": {
+        "OC_GIRLS_AU": 6062,
+        "OC_GEN_AU": 3888
+      }
+    }
+  },
+  "SIMH": {
+    "collegeCode": "SIMH",
+    "collegeName": "SIMHADRI EDNL SOC GRP OF INSTNS",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3085,
+        "OC_GIRLS_AU": 295,
+        "OC_PWD_GIRLS_AU": 347,
+        "OC_GEN_UR": 177
+      }
+    }
+  },
+  "SRIN": {
+    "collegeCode": "SRIN",
+    "collegeName": "SRINIVASA INST OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 6207,
+        "OC_GIRLS_AU": 4594,
+        "SC_GIRLS_AU": 5680,
+        "BC_B_GEN_AU": 8534,
+        "OC_PWD_GIRLS_AU": 5903,
+        "SC_GEN_AU": 3214,
+        "OC_GEN_AU": 4629
+      },
+      "AIM": {
+        "OC_GIRLS_AU": 4810,
+        "SC_GEN_UR": 2672,
+        "OC_GEN_AU": 5613,
+        "SC_GEN_AU": 8139,
+        "ST_GIRLS_AU": 6506,
+        "OC_PWD_GEN_AU": 2383
+      }
+    }
+  },
+  "SRKI": {
+    "collegeCode": "SRKI",
+    "collegeName": "S R K INST. OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 3224,
+        "BC_B_GIRLS_AU": 3634,
+        "BC_D_GIRLS_UR": 4571,
+        "BC_D_GEN_AU": 6034,
+        "BC_D_GIRLS_AU": 5971,
+        "OC_GEN_AU": 1899,
+        "EWS_GEN_AU": 2455,
+        "SC_GIRLS_AU": 2287,
+        "SC_GEN_AU": 3861,
+        "ST_GEN_AU": 3863,
+        "OC_CAP_GEN_UR": 1136
+      },
+      "CSD": {
+        "BC_B_GEN_AU": 5045,
+        "OC_GIRLS_AU": 4505,
+        "SC_GEN_AU": 5637
+      },
+      "CSM": {
+        "BC_A_GIRLS_AU": 5293,
+        "BC_E_GEN_AU": 6870,
+        "OC_GEN_AU": 3293,
+        "BC_B_GEN_AU": 6355,
+        "BC_D_GEN_AU": 4728,
+        "OC_PWD_GIRLS_AU": 4170,
+        "ST_GEN_AU": 2085,
+        "OC_GEN_UR": 2267,
+        "OC_GIRLS_AU": 4047,
+        "SC_GEN_AU": 5218
+      },
+      "INF": {
+        "OC_GEN_AU": 3197,
+        "BC_A_GEN_AU": 6718,
+        "BC_B_GEN_AU": 8177,
+        "SC_GIRLS_AU": 808,
+        "OC_PWD_GIRLS_AU": 2854
+      }
+    }
+  },
+  "SRKR": {
+    "collegeCode": "SRKR",
+    "collegeName": "S R K R ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 453,
+        "BC_B_GIRLS_AU": 630,
+        "BC_B_PWD_GIRLS_AU": 635,
+        "BC_D_GEN_AU": 354,
+        "BC_E_GIRLS_AU": 1841,
+        "OC_GEN_UR": 36,
+        "OC_GEN_AU": 74,
+        "EWS_GEN_AU": 108,
+        "OC_PWD_GEN_AU": 1813,
+        "OC_GIRLS_AU": 264,
+        "SC_GEN_UR": 505,
+        "SC_GEN_AU": 1295,
+        "SC_CAP_GIRLS_UR": 1519,
+        "ST_GEN_AU": 1845,
+        "ST_GIRLS_AU": 2033
+      },
+      "AIM": {
+        "OC_GEN_AU": 138,
+        "OC_PWD_GEN_AU": 295,
+        "BC_A_GEN_AU": 836,
+        "BC_E_GEN_UR": 4316,
+        "OC_GIRLS_AU": 1866,
+        "BC_B_GEN_AU": 3410,
+        "BC_B_GIRLS_AU": 3171,
+        "BC_C_GIRLS_AU": 986,
+        "ST_GEN_UR": 1302,
+        "SC_GEN_AU": 2626
+      },
+      "AID": {
+        "BC_A_GEN_AU": 749,
+        "OC_GEN_AU": 375,
+        "BC_B_GEN_UR": 577,
+        "BC_B_GEN_AU": 812,
+        "BC_D_GEN_AU": 649,
+        "BC_E_GIRLS_AU": 731,
+        "OC_GIRLS_AU": 796,
+        "SC_GEN_AU": 2108,
+        "ST_GEN_AU": 2341,
+        "ST_CAP_GIRLS_UR": 2574,
+        "SC_GIRLS_AU": 2884
+      },
+      "INF": {
+        "BC_A_GEN_AU": 1338,
+        "OC_GIRLS_AU": 768,
+        "OC_GEN_AU": 481,
+        "BC_B_GEN_AU": 799,
+        "BC_D_PWD_GEN_AU": 656,
+        "BC_E_GIRLS_AU": 992,
+        "OC_GEN_UR": 265,
+        "SC_GIRLS_AU": 815,
+        "SC_GEN_AU": 4322,
+        "ST_GEN_AU": 5807,
+        "SC_GIRLS_UR": 5615
+      }
+    }
+  },
+  "SVCT": {
+    "collegeCode": "SVCT",
+    "collegeName": "SRI VENKATESWARA COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 5550,
+        "OC_CAP_GIRLS_UR": 1596,
+        "OC_GEN_UR": 517,
+        "BC_D_GIRLS_UR": 2894,
+        "BC_B_GIRLS_SVU": 5028,
+        "OC_GEN_SVU": 3514,
+        "BC_A_GEN_SVU": 4570,
+        "BC_D_GIRLS_SVU": 3004,
+        "OC_PWD_GEN_SVU": 1996,
+        "ST_GEN_SVU": 3703,
+        "BC_B_GEN_SVU": 5773,
+        "OC_GIRLS_SVU": 3082,
+        "SC_GIRLS_SVU": 4966
+      },
+      "CSD": {
+        "OC_GEN_SVU": 5110,
+        "OC_GIRLS_UR": 7496
+      },
+      "CSM": {
+        "BC_D_GIRLS_UR": 3818,
+        "OC_GEN_SVU": 5871,
+        "SC_GIRLS_UR": 413,
+        "SC_GEN_SVU": 7279,
+        "OC_GEN_UR": 1305,
+        "OC_GIRLS_SVU": 7508
+      },
+      "CSC": {
+        "SC_GIRLS_SVU": 6055,
+        "BC_D_GEN_SVU": 4893,
+        "ST_GEN_SVU": 3244,
+        "SC_GEN_UR": 442,
+        "OC_PWD_GEN_SVU": 471,
+        "BC_B_GEN_SVU": 4349,
+        "OC_GEN_SVU": 4120,
+        "BC_B_GIRLS_SVU": 3467,
+        "BC_E_GIRLS_SVU": 8713
+      },
+      "CAI": {
+        "BC_A_GEN_UR": 4039,
+        "BC_A_GEN_SVU": 961,
+        "OC_GEN_SVU": 4631,
+        "BC_D_GIRLS_SVU": 727,
+        "ST_GIRLS_SVU": 5321,
+        "OC_GIRLS_SVU": 4817,
+        "SC_PWD_GEN_SVU": 1990
+      },
+      "INF": {
+        "OC_CAP_GEN_UR": 730,
+        "OC_GEN_SVU": 2486,
+        "OC_GIRLS_SVU": 8188
+      }
+    }
+  },
+  "SVUCSS": {
+    "collegeCode": "SVUCSS",
+    "collegeName": "S V U COLLEGE OF ENGG. -SELF SUPPORTING-TIRUPATHI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 1944,
+        "OC_GIRLS_UR": 2104,
+        "BC_B_GIRLS_SVU": 6895,
+        "BC_B_GEN_SVU": 109,
+        "BC_E_GEN_SVU": 5135,
+        "ST_GIRLS_UR": 877,
+        "OC_GIRLS_SVU": 5351,
+        "SC_GIRLS_SVU": 4041,
+        "OC_PWD_GEN_SVU": 574,
+        "SC_GEN_SVU": 9136,
+        "BC_A_GEN_SVU": 2944,
+        "EWS_GEN_SVU": 2515,
+        "SC_GEN_UR": 3199
+      },
+      "CAI": {
+        "BC_A_GEN_SVU": 3061,
+        "BC_D_GEN_UR": 2186,
+        "SC_CAP_GEN_UR": 2279,
+        "OC_GEN_SVU": 4633,
+        "ST_GEN_SVU": 2064,
+        "OC_GIRLS_SVU": 4990,
+        "BC_B_GEN_SVU": 2453,
+        "BC_B_GEN_UR": 4995,
+        "BC_B_GIRLS_SVU": 5389,
+        "SC_GIRLS_SVU": 4784,
+        "OC_GEN_UR": 3421,
+        "OC_PWD_GIRLS_SVU": 5509
+      }
+    }
+  },
+  "SWRN": {
+    "collegeCode": "SWRN",
+    "collegeName": "SWARNANDHRA COLL. OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 4555,
+        "OC_GIRLS_UR": 1232,
+        "BC_B_GIRLS_UR": 4403,
+        "OC_PWD_GIRLS_AU": 4472,
+        "BC_B_GEN_AU": 4855,
+        "OC_GIRLS_AU": 1619,
+        "OC_GEN_AU": 1284,
+        "OC_PWD_GEN_AU": 2352,
+        "SC_GEN_AU": 3254,
+        "ST_GEN_AU": 6169,
+        "BC_A_GEN_AU": 3590,
+        "BC_D_GEN_AU": 5104,
+        "BC_E_GEN_AU": 5736,
+        "BC_A_GIRLS_AU": 3460,
+        "BC_D_GIRLS_AU": 4436,
+        "BC_B_GIRLS_AU": 5008,
+        "SC_GIRLS_AU": 4627
+      },
+      "CSD": {
+        "BC_B_CAP_GEN_UR": 8581,
+        "OC_GEN_AU": 3441,
+        "BC_D_GEN_UR": 3560,
+        "BC_A_GEN_AU": 5208,
+        "SC_GEN_AU": 6139,
+        "BC_D_GEN_AU": 5994,
+        "OC_GIRLS_AU": 5075,
+        "ST_GIRLS_AU": 6628
+      },
+      "CSC": {
+        "BC_B_GIRLS_AU": 6168,
+        "BC_D_GEN_AU": 1217,
+        "SC_GIRLS_AU": 1642,
+        "OC_PWD_GEN_AU": 2901,
+        "BC_A_GEN_AU": 8956,
+        "OC_GEN_AU": 2319
+      },
+      "AIM": {
+        "ST_GEN_AU": 940,
+        "SC_GEN_UR": 1829,
+        "BC_B_GEN_AU": 3301,
+        "BC_A_GIRLS_AU": 3737,
+        "BC_D_GEN_AU": 5107,
+        "OC_GEN_AU": 3609,
+        "BC_C_GEN_AU": 6979,
+        "BC_D_GIRLS_AU": 7035,
+        "OC_PWD_GEN_AU": 5608,
+        "SC_GIRLS_AU": 3133
+      },
+      "AID": {
+        "BC_E_GEN_AU": 5902,
+        "OC_GEN_AU": 5321,
+        "OC_GIRLS_AU": 1137,
+        "BC_D_GIRLS_AU": 1954,
+        "SC_GEN_AU": 1595
+      },
+      "CSEB": {
+        "SC_GEN_AU": 3999,
+        "BC_B_GEN_AU": 8333,
+        "OC_GIRLS_AU": 6655
+      },
+      "INF": {
+        "BC_A_GIRLS_AU": 6162,
+        "BC_B_GIRLS_AU": 7630,
+        "BC_D_GEN_AU": 4767,
+        "SC_GEN_AU": 4744
+      }
+    }
+  },
+  "TMLN": {
+    "collegeCode": "TMLN",
+    "collegeName": "TIRUMALA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3932,
+        "OC_PWD_GEN_AU": 5589,
+        "ST_GEN_AU": 8090,
+        "OC_GIRLS_AU": 5651,
+        "OC_GIRLS_UR": 3783
+      },
+      "CSM": {
+        "OC_GEN_AU": 1510
+      }
+    }
+  },
+  "URCE": {
+    "collegeCode": "URCE",
+    "collegeName": "USHA RAMA COLL OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_AU": 5916,
+        "BC_D_GEN_AU": 5507,
+        "ST_GEN_AU": 3556,
+        "OC_GIRLS_AU": 2551,
+        "SC_GIRLS_AU": 4717,
+        "OC_GEN_AU": 983
+      },
+      "AIM": {
+        "BC_B_GEN_AU": 3248,
+        "BC_C_GEN_AU": 5348,
+        "SC_GEN_AU": 2235,
+        "OC_PWD_GEN_AU": 2861,
+        "OC_GIRLS_AU": 5066
+      },
+      "AID": {
+        "BC_D_GEN_UR": 5988,
+        "SC_GEN_AU": 3650,
+        "ST_GEN_AU": 5829
+      },
+      "INF": {
+        "OC_PWD_GIRLS_AU": 5523,
+        "ST_GIRLS_AU": 117,
+        "OC_GEN_AU": 3135
+      }
+    }
+  },
+  "VCTN": {
+    "collegeCode": "VCTN",
+    "collegeName": "VIKAS COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 5425,
+        "OC_PWD_GIRLS_AU": 2168,
+        "SC_GEN_AU": 2317,
+        "BC_A_GIRLS_UR": 3598,
+        "ST_GEN_AU": 3436
+      }
+    }
+  },
+  "VGTN": {
+    "collegeCode": "VGTN",
+    "collegeName": "VIKAS GROUP OF INSTITUTIONS",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3290,
+        "OC_GIRLS_UR": 4480
+      }
+    }
+  },
+  "VITB": {
+    "collegeCode": "VITB",
+    "collegeName": "VISHNU GRP OF INSTNS - VISHNU INST OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 207,
+        "OC_GIRLS_AU": 238,
+        "BC_B_GIRLS_AU": 680,
+        "OC_PWD_GIRLS_AU": 757,
+        "BC_E_GEN_AU": 448,
+        "OC_GEN_UR": 112,
+        "OC_GEN_AU": 150,
+        "SC_GEN_AU": 977,
+        "SC_PWD_GEN_AU": 1255,
+        "SC_GIRLS_AU": 1309,
+        "ST_GIRLS_AU": 5058
+      },
+      "CSM": {
+        "OC_GEN_AU": 273,
+        "BC_A_GEN_AU": 1382,
+        "BC_B_GEN_AU": 539,
+        "BC_B_GIRLS_AU": 1169,
+        "BC_D_GIRLS_AU": 1573,
+        "BC_E_GEN_UR": 741,
+        "OC_PWD_GEN_AU": 297,
+        "ST_GEN_AU": 1332,
+        "SC_GIRLS_AU": 1922
+      },
+      "INF": {
+        "BC_A_GEN_AU": 954,
+        "BC_B_GEN_AU": 1221,
+        "ST_GEN_AU": 1079,
+        "BC_B_GIRLS_AU": 1325,
+        "BC_D_GIRLS_AU": 1999,
+        "BC_E_GEN_AU": 5378,
+        "BC_E_GIRLS_UR": 2224,
+        "OC_GEN_AU": 702,
+        "SC_GEN_AU": 2942,
+        "SC_GIRLS_AU": 2394,
+        "OC_GIRLS_UR": 668
+      }
+    }
+  },
+  "VIVP": {
+    "collegeCode": "VIVP",
+    "collegeName": "VIGNANS INSTITUTE OF INFORMATION TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 409,
+        "OC_GEN_AU": 214,
+        "BC_B_GIRLS_UR": 376,
+        "OC_GIRLS_AU": 168,
+        "BC_D_GIRLS_AU": 285,
+        "BC_D_GEN_AU": 320,
+        "BC_E_GEN_AU": 1251,
+        "OC_CAP_GEN_UR": 197,
+        "SC_PWD_GEN_AU": 1209,
+        "SC_GEN_AU": 1472,
+        "SC_GIRLS_UR": 3402,
+        "ST_GEN_AU": 5104
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 939,
+        "OC_GEN_AU": 762,
+        "OC_GIRLS_AU": 661,
+        "BC_E_GIRLS_AU": 2882,
+        "SC_GEN_AU": 2715
+      },
+      "CSC": {
+        "BC_A_GIRLS_AU": 2811,
+        "OC_GEN_AU": 765,
+        "BC_B_GEN_AU": 2181,
+        "BC_B_PWD_GEN_AU": 1847,
+        "OC_GEN_UR": 347,
+        "BC_D_GEN_AU": 1367,
+        "BC_D_GIRLS_AU": 1179,
+        "SC_GEN_AU": 1742,
+        "ST_GEN_AU": 3645,
+        "SC_GIRLS_AU": 4280
+      },
+      "CAI": {
+        "BC_A_GEN_AU": 1335,
+        "BC_B_GEN_AU": 1380,
+        "OC_PWD_GEN_AU": 5877,
+        "OC_GEN_AU": 4768,
+        "BC_D_GIRLS_AU": 1009,
+        "OC_GIRLS_AU": 2570,
+        "BC_E_CAP_GEN_UR": 2325,
+        "OC_GIRLS_UR": 1508,
+        "ST_GEN_AU": 839,
+        "SC_GIRLS_AU": 1790
+      },
+      "AID": {
+        "BC_A_GEN_AU": 1496,
+        "BC_A_GIRLS_AU": 1610,
+        "OC_GIRLS_AU": 1114,
+        "BC_B_GIRLS_AU": 1460,
+        "OC_GEN_AU": 590,
+        "BC_D_GEN_AU": 1165,
+        "OC_GEN_UR": 516,
+        "OC_PWD_GIRLS_AU": 1157,
+        "ST_GEN_AU": 4021,
+        "SC_GEN_AU": 3749
+      },
+      "INF": {
+        "BC_A_GEN_AU": 2896,
+        "BC_E_GIRLS_AU": 3805,
+        "OC_GEN_AU": 1435,
+        "BC_B_GEN_AU": 1546,
+        "BC_B_GIRLS_AU": 2351,
+        "OC_GIRLS_UR": 1442,
+        "OC_GIRLS_AU": 1572,
+        "BC_D_GIRLS_AU": 1614,
+        "SC_GEN_AU": 5240,
+        "BC_D_PWD_GEN_AU": 1768,
+        "ST_GEN_AU": 1687,
+        "SC_GIRLS_AU": 5557,
+        "OC_GEN_UR": 1075
+      }
+    }
+  },
+  "VLIT": {
+    "collegeCode": "VLIT",
+    "collegeName": "VIGNANS LARA INST. OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 2078,
+        "OC_GEN_AU": 763,
+        "BC_B_GIRLS_UR": 948,
+        "BC_B_GEN_AU": 3219,
+        "BC_D_GIRLS_AU": 1069,
+        "BC_E_GIRLS_AU": 1952,
+        "BC_E_GEN_UR": 1862,
+        "SC_GEN_AU": 2661,
+        "SC_GIRLS_AU": 3784,
+        "ST_CAP_GIRLS_UR": 6073,
+        "ST_GIRLS_AU": 6119
+      },
+      "CSD": {
+        "BC_B_GEN_AU": 2919,
+        "BC_E_GEN_AU": 4744,
+        "OC_GEN_AU": 1532,
+        "OC_PWD_GEN_AU": 1537,
+        "OC_GIRLS_AU": 1055,
+        "ST_GEN_AU": 1933,
+        "SC_GIRLS_AU": 5170
+      },
+      "CSM": {
+        "OC_GEN_AU": 711,
+        "BC_B_GIRLS_AU": 3390,
+        "BC_E_GIRLS_AU": 4825,
+        "SC_GEN_AU": 3011
+      },
+      "AIM": {
+        "OC_GEN_AU": 1964,
+        "BC_B_GEN_AU": 2056,
+        "BC_B_GIRLS_AU": 2239,
+        "SC_GIRLS_AU": 3550,
+        "ST_GEN_AU": 4323
+      },
+      "CAI": {
+        "BC_A_GIRLS_AU": 3503,
+        "OC_GEN_AU": 5099,
+        "BC_D_GEN_AU": 3468,
+        "SC_GEN_AU": 1576,
+        "OC_CAP_GIRLS_UR": 1811
+      },
+      "INF": {
+        "BC_A_GIRLS_AU": 5263,
+        "BC_B_GIRLS_AU": 4042,
+        "OC_GEN_AU": 2085,
+        "SC_GEN_AU": 6157
+      }
+    }
+  },
+  "VSVT": {
+    "collegeCode": "VSVT",
+    "collegeName": "SRI VASAVI ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 2639,
+        "BC_A_GIRLS_AU": 5704,
+        "BC_B_GIRLS_AU": 2240,
+        "BC_D_GIRLS_AU": 2772,
+        "BC_E_GEN_AU": 1919,
+        "OC_CAP_GEN_UR": 1715,
+        "SC_GEN_AU": 5306,
+        "SC_PWD_GEN_AU": 1991,
+        "OC_GIRLS_AU": 1400,
+        "OC_GEN_AU": 1691,
+        "ST_GIRLS_AU": 1967,
+        "SC_GIRLS_AU": 3760,
+        "BC_A_GEN_UR": 2433
+      },
+      "AIM": {
+        "BC_A_GIRLS_AU": 3628,
+        "BC_B_GIRLS_AU": 2860,
+        "BC_B_PWD_GEN_AU": 3519,
+        "BC_B_GEN_AU": 4335,
+        "BC_D_GEN_AU": 2139,
+        "BC_D_GIRLS_AU": 4692,
+        "SC_GEN_AU": 1788,
+        "SC_GEN_UR": 2329,
+        "ST_GEN_AU": 2383,
+        "ST_GIRLS_AU": 2443,
+        "OC_CAP_GEN_UR": 2674
+      },
+      "CAI": {
+        "BC_B_GEN_AU": 4098,
+        "SC_GIRLS_AU": 2075,
+        "OC_GEN_AU": 2894,
+        "SC_GEN_AU": 3168,
+        "ST_GEN_AU": 3902,
+        "BC_D_GEN_AU": 4698,
+        "BC_D_GIRLS_UR": 5878,
+        "OC_GIRLS_AU": 4476
+      }
+    }
+  },
+  "VVGV": {
+    "collegeCode": "VVGV",
+    "collegeName": "VKR VNB AND AGK ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 121,
+        "OC_GIRLS_AU": 5273,
+        "OC_PWD_GIRLS_AU": 3313
+      },
+      "AID": {
+        "OC_GEN_AU": 4701
+      }
+    }
+  },
+  "VVIT": {
+    "collegeCode": "VVIT",
+    "collegeName": "VASIREDDY VENKATADRI INST. OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 580,
+        "BC_B_GIRLS_AU": 1327,
+        "OC_GEN_AU": 535,
+        "BC_E_GEN_AU": 1789,
+        "BC_E_GIRLS_UR": 1366,
+        "SC_GEN_UR": 1293,
+        "SC_GEN_AU": 1478,
+        "SC_PWD_GEN_AU": 3285,
+        "SC_GIRLS_AU": 3053,
+        "ST_GIRLS_AU": 2920,
+        "OC_GEN_UR": 179
+      },
+      "CSM": {
+        "OC_GEN_UR": 958,
+        "BC_A_GEN_AU": 2136,
+        "BC_A_GIRLS_AU": 5296,
+        "BC_B_GEN_AU": 2337,
+        "OC_GIRLS_UR": 717,
+        "BC_B_GIRLS_AU": 2548,
+        "OC_GEN_AU": 1187,
+        "BC_D_GEN_AU": 3769,
+        "BC_D_GIRLS_AU": 2032,
+        "OC_PWD_GEN_AU": 1140,
+        "OC_GIRLS_AU": 1091,
+        "SC_GEN_AU": 3691,
+        "SC_GIRLS_AU": 3914,
+        "ST_GEN_AU": 5201
+      },
+      "AIM": {
+        "BC_A_GEN_AU": 2935,
+        "BC_A_GIRLS_AU": 4507,
+        "OC_GEN_AU": 2222,
+        "BC_B_GEN_UR": 2019,
+        "OC_PWD_GIRLS_AU": 2864,
+        "BC_B_GEN_AU": 2999,
+        "BC_B_GIRLS_AU": 3791,
+        "BC_D_GEN_AU": 1324,
+        "OC_GIRLS_AU": 1220,
+        "BC_E_GEN_AU": 3323,
+        "SC_GEN_AU": 2428,
+        "SC_GEN_UR": 4671,
+        "SC_GIRLS_AU": 2512,
+        "ST_GEN_AU": 4222,
+        "OC_CAP_GEN_UR": 952
+      },
+      "AID": {
+        "BC_A_GEN_AU": 2764,
+        "BC_B_GEN_AU": 2144,
+        "BC_D_GEN_AU": 1831,
+        "BC_D_PWD_GIRLS_AU": 2317,
+        "BC_E_GEN_AU": 2346,
+        "OC_GIRLS_AU": 950,
+        "SC_GEN_AU": 1895,
+        "ST_GIRLS_AU": 4261,
+        "OC_GIRLS_UR": 918,
+        "SC_GIRLS_AU": 1830,
+        "ST_GEN_AU": 5123,
+        "BC_D_GEN_UR": 1358
+      },
+      "INF": {
+        "BC_A_GEN_AU": 3165,
+        "BC_B_GEN_AU": 3364,
+        "BC_B_GIRLS_AU": 2858,
+        "BC_D_GEN_AU": 4168,
+        "BC_E_GIRLS_AU": 3563,
+        "OC_GEN_AU": 1405,
+        "OC_PWD_GEN_AU": 1526,
+        "SC_GEN_AU": 1771,
+        "SC_GEN_UR": 3666,
+        "SC_CAP_GIRLS_UR": 5976
+      }
+    }
+  },
+  "WISE": {
+    "collegeCode": "WISE",
+    "collegeName": "WEST GODAVARI INSTT OF SCIENCE AND ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 68,
+        "OC_GIRLS_UR": 5709,
+        "SC_GEN_AU": 123,
+        "OC_PWD_GEN_AU": 1260,
+        "OC_GEN_AU": 6002
+      },
+      "AID": {
+        "OC_GEN_AU": 6095,
+        "OC_GEN_UR": 3368
+      }
+    }
+  },
+  "WSTM": {
+    "collegeCode": "WSTM",
+    "collegeName": "WELLFARE INST OF SCIENCE TECH AND MGMT",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 3696,
+        "ST_GEN_AU": 4078,
+        "OC_GEN_AU": 2918
+      }
+    }
+  },
+  "ACET": {
+    "collegeCode": "ACET",
+    "collegeName": "ADITYA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_AU": 1417,
+        "OC_GEN_AU": 460,
+        "BC_B_GEN_UR": 767,
+        "BC_B_GEN_AU": 1207,
+        "OC_GIRLS_AU": 914,
+        "BC_B_GIRLS_UR": 1183,
+        "BC_D_GEN_AU": 2970,
+        "BC_E_GIRLS_AU": 3219,
+        "OC_PWD_GEN_AU": 718,
+        "SC_GEN_AU": 1515,
+        "SC_GIRLS_AU": 1948,
+        "ST_PWD_GIRLS_AU": 3767,
+        "SC_GEN_UR": 1122,
+        "ST_CAP_GEN_UR": 4028
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 1554,
+        "BC_B_GEN_AU": 1941,
+        "BC_B_GIRLS_AU": 2601,
+        "ST_GEN_AU": 1242,
+        "BC_D_GEN_AU": 1795,
+        "BC_D_GIRLS_AU": 1949,
+        "OC_GEN_AU": 1174,
+        "SC_GIRLS_UR": 1671,
+        "SC_GEN_AU": 3337
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 3247,
+        "BC_A_GIRLS_AU": 2623,
+        "BC_B_GEN_AU": 2028,
+        "BC_B_GIRLS_AU": 3977,
+        "BC_D_GEN_AU": 1541,
+        "BC_D_GIRLS_AU": 1735,
+        "OC_GEN_UR": 420,
+        "OC_GEN_AU": 755,
+        "ST_GEN_AU": 1073,
+        "OC_GIRLS_UR": 510,
+        "OC_GIRLS_AU": 907,
+        "SC_GEN_AU": 5515,
+        "SC_GIRLS_AU": 6129
+      },
+      "INF": {
+        "BC_A_GIRLS_AU": 5535,
+        "BC_B_GEN_AU": 3978,
+        "BC_D_GEN_UR": 4239,
+        "BC_D_GEN_AU": 5222,
+        "BC_D_GIRLS_AU": 4703,
+        "OC_GEN_AU": 1452,
+        "SC_PWD_GEN_AU": 2025,
+        "OC_GIRLS_AU": 2625,
+        "ST_GIRLS_AU": 3670
+      }
+    }
+  },
+  "ANURSF": {
+    "collegeCode": "ANURSF",
+    "collegeName": "ADI KAVI NANNAYA UNIVERSITY COLLEGE OF ENGG.-SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 888,
+        "OC_PWD_GEN_AU": 1357,
+        "BC_B_GEN_AU": 1738,
+        "BC_B_GIRLS_AU": 3352,
+        "OC_GEN_AU": 1236,
+        "BC_C_GEN_UR": 2117,
+        "ST_GEN_AU": 2049,
+        "SC_GEN_AU": 1946
+      }
+    }
+  },
+  "DHAN": {
+    "collegeCode": "DHAN",
+    "collegeName": "DHANEKULA INST OF ENGG TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_CAP_GIRLS_UR": 2061,
+        "BC_A_GEN_AU": 3316,
+        "BC_A_GIRLS_AU": 4225,
+        "BC_B_GEN_AU": 4503,
+        "BC_B_GIRLS_AU": 5118,
+        "BC_B_GEN_UR": 3721,
+        "BC_D_GEN_AU": 2988,
+        "BC_B_PWD_GEN_AU": 3193,
+        "OC_GEN_AU": 1814,
+        "BC_E_GEN_AU": 4521,
+        "SC_GEN_AU": 5737,
+        "OC_GIRLS_AU": 2585,
+        "SC_GEN_UR": 4540,
+        "ST_GEN_AU": 6134,
+        "SC_GIRLS_AU": 6180
+      },
+      "CSM": {
+        "BC_B_GEN_UR": 4070,
+        "BC_B_GIRLS_AU": 5056,
+        "OC_GEN_AU": 3675,
+        "ST_GEN_AU": 4058,
+        "BC_E_GIRLS_AU": 5779,
+        "SC_GEN_AU": 4717,
+        "OC_GIRLS_AU": 3202
+      },
+      "INF": {
+        "BC_A_GIRLS_AU": 1910,
+        "BC_B_GEN_AU": 7272,
+        "OC_GIRLS_UR": 3233,
+        "BC_D_GIRLS_AU": 1933,
+        "BC_E_GEN_AU": 3912,
+        "OC_GEN_AU": 5175,
+        "OC_PWD_GEN_AU": 5211,
+        "SC_GEN_AU": 4211
+      }
+    }
+  },
+  "DLBC": {
+    "collegeCode": "DLBC",
+    "collegeName": "DR L BULLAYYA COLL EGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 4305,
+        "ST_GIRLS_AU": 2641,
+        "BC_D_GEN_AU": 4155,
+        "BC_D_PWD_GIRLS_AU": 1625,
+        "BC_D_GIRLS_AU": 4189,
+        "SC_GEN_AU": 1973,
+        "OC_GEN_AU": 872,
+        "EWS_GEN_AU": 1549
+      }
+    }
+  },
+  "GVPW": {
+    "collegeCode": "GVPW",
+    "collegeName": "GAYATHRI VIDYA PARISHAD COLL OF ENGG FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "BC_A_GIRLS_AU": 817,
+        "BC_B_CAP_GIRLS_UR": 936,
+        "BC_B_GIRLS_UR": 1390,
+        "BC_B_GIRLS_AU": 1773,
+        "OC_GIRLS_UR": 319,
+        "OC_GIRLS_AU": 581,
+        "BC_D_GIRLS_AU": 791,
+        "BC_C_GIRLS_AU": 675,
+        "BC_E_GIRLS_AU": 5478,
+        "OC_PWD_GIRLS_AU": 628,
+        "ST_GIRLS_AU": 2691,
+        "SC_GIRLS_AU": 3960,
+        "BC_D_GIRLS_UR": 556
+      },
+      "CSM": {
+        "SC_GIRLS_AU": 1031,
+        "BC_A_GIRLS_AU": 4152,
+        "BC_B_GIRLS_AU": 1314,
+        "OC_GIRLS_AU": 312,
+        "BC_D_GIRLS_AU": 1237,
+        "OC_PWD_GIRLS_AU": 1017,
+        "BC_E_GIRLS_AU": 3698,
+        "SC_GIRLS_UR": 1072
+      },
+      "INF": {
+        "OC_GIRLS_AU": 1124,
+        "BC_B_GIRLS_AU": 5942,
+        "BC_D_GIRLS_AU": 2361,
+        "ST_GIRLS_AU": 1754,
+        "SC_PWD_GIRLS_AU": 2473
+      }
+    }
+  },
+  "HITE": {
+    "collegeCode": "HITE",
+    "collegeName": "HELAPURI INST OF TECH AND SCIENCE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 2166,
+        "OC_GIRLS_AU": 6066
+      }
+    }
+  },
+  "ISTS": {
+    "collegeCode": "ISTS",
+    "collegeName": "INTERNATIONAL SCHOOL OF TECH AND SCI FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "BC_A_CAP_GIRLS_UR": 8741,
+        "BC_B_GIRLS_AU": 5534,
+        "SC_GIRLS_AU": 6236,
+        "OC_GIRLS_UR": 2229,
+        "OC_GIRLS_AU": 3498,
+        "BC_D_GIRLS_UR": 4327,
+        "OC_PWD_GIRLS_AU": 4348
+      },
+      "CAI": {
+        "OC_GIRLS_AU": 4149,
+        "OC_GIRLS_UR": 1517,
+        "SC_GIRLS_AU": 1762
+      }
+    }
+  },
+  "ABRK": {
+    "collegeCode": "ABRK",
+    "collegeName": "ABR COLLEGE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 2875,
+        "OC_GEN_AU": 4635,
+        "OC_PWD_GEN_AU": 4875,
+        "OC_GIRLS_AU": 4889,
+        "SC_GEN_AU": 6286,
+        "BC_A_GIRLS_AU": 5845,
+        "BC_B_GEN_AU": 3876,
+        "BC_E_GIRLS_AU": 3704,
+        "ST_GEN_AU": 3836,
+        "SC_GEN_UR": 5121
+      },
+      "CSD": {
+        "OC_GEN_AU": 5960
+      },
+      "CAI": {
+        "OC_GEN_AU": 3656,
+        "OC_CAP_GIRLS_UR": 4088,
+        "OC_GIRLS_UR": 5758,
+        "OC_GIRLS_AU": 5266
+      }
+    }
+  },
+  "ARTB": {
+    "collegeCode": "ARTB",
+    "collegeName": "AVANTHIS RESEARCH AND TECHNOLOGICAL ACADEMY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_AU": 3047,
+        "BC_B_GIRLS_AU": 2128,
+        "SC_GIRLS_AU": 5508,
+        "BC_E_GEN_AU": 7475
+      }
+    }
+  },
+  "BABA": {
+    "collegeCode": "BABA",
+    "collegeName": "BABA INST OF TECH AND SCIENCES",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_AU": 4055,
+        "SC_GEN_AU": 2326,
+        "BC_A_GEN_AU": 3622,
+        "BC_D_GEN_AU": 5722,
+        "BC_B_GIRLS_AU": 4589,
+        "OC_PWD_GEN_AU": 3157,
+        "ST_GIRLS_AU": 4194,
+        "SC_GIRLS_AU": 3764,
+        "SC_GEN_UR": 1345,
+        "OC_GIRLS_AU": 2930,
+        "BC_D_GIRLS_UR": 2227
+      }
+    }
+  },
+  "BRAUSF": {
+    "collegeCode": "BRAUSF",
+    "collegeName": "COLLEGE OF ENGINEERING BR AMBEDKAR UNIV SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_AU": 2742,
+        "BC_E_GEN_AU": 3487,
+        "BC_D_GEN_AU": 2090,
+        "OC_GIRLS_UR": 1125,
+        "OC_GEN_AU": 1376,
+        "EWS_GEN_AU": 1407,
+        "OC_GIRLS_AU": 1319,
+        "SC_GEN_AU": 1497,
+        "ST_GIRLS_AU": 5563
+      }
+    }
+  },
+  "BVCR": {
+    "collegeCode": "BVCR",
+    "collegeName": "BVC COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GEN_AU": 2815,
+        "OC_GEN_AU": 7948,
+        "OC_GIRLS_AU": 3822,
+        "SC_GEN_AU": 5207,
+        "SC_GIRLS_AU": 5626,
+        "ST_GEN_AU": 8643,
+        "OC_CAP_GIRLS_UR": 2652
+      },
+      "CSM": {
+        "OC_GEN_AU": 5922
+      }
+    }
+  },
+  "CITY": {
+    "collegeCode": "CITY",
+    "collegeName": "CHALAPATHI INST OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 2444,
+        "OC_GIRLS_AU": 4775,
+        "OC_PWD_GEN_AU": 6181
+      },
+      "CSD": {
+        "OC_GIRLS_AU": 5480,
+        "OC_GEN_UR": 3577
+      },
+      "AIM": {
+        "OC_GEN_UR": 2977,
+        "OC_GEN_AU": 4001
+      },
+      "CAI": {
+        "OC_GIRLS_AU": 3461
+      }
+    }
+  },
+  "ACEE": {
+    "collegeCode": "ACEE",
+    "collegeName": "ADARSH COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 651,
+        "OC_GIRLS_AU": 2673,
+        "OC_GEN_AU": 5332,
+        "OC_GEN_UR": 5128
+      }
+    }
+  },
+  "ANCUSF": {
+    "collegeCode": "ANCUSF",
+    "collegeName": "DR.YSR COLLEGE OF ENGINEERING TECHNOLOGY-SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 3619,
+        "OC_PWD_GEN_AU": 728,
+        "BC_C_GEN_AU": 1431,
+        "OC_GIRLS_AU": 1056,
+        "EWS_GEN_AU": 885,
+        "SC_GEN_AU": 1703
+      },
+      "AIM": {
+        "OC_GEN_AU": 3296,
+        "OC_GIRLS_AU": 2631,
+        "BC_B_GIRLS_AU": 4125,
+        "BC_C_GEN_UR": 573,
+        "BC_E_GEN_AU": 5479,
+        "SC_GEN_AU": 1579
+      }
+    }
+  },
+  "JNTV": {
+    "collegeCode": "JNTV",
+    "collegeName": "JNTUK COLLEGE OF ENGINEERING VIZIANAGARAM",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 90,
+        "BC_B_GEN_AU": 333,
+        "OC_PWD_GEN_AU": 77,
+        "EWS_GEN_AU": 256,
+        "SC_GEN_AU": 1080
+      },
+      "INF": {
+        "OC_GEN_AU": 124,
+        "BC_B_GEN_AU": 275,
+        "BC_D_PWD_GEN_AU": 201,
+        "EWS_GEN_AU": 665,
+        "OC_GIRLS_AU": 107,
+        "SC_GIRLS_AU": 848,
+        "ST_GIRLS_AU": 3975
+      }
+    }
+  },
+  "KTSP": {
+    "collegeCode": "KTSP",
+    "collegeName": "KAKINADA INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 3035,
+        "OC_GEN_AU": 6084
+      },
+      "AID": {
+        "OC_GEN_UR": 4931
+      }
+    }
+  },
+  "LBCE": {
+    "collegeCode": "LBCE",
+    "collegeName": "LAKIREDDY BALIREDDY COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_UR": 1676,
+        "BC_B_GIRLS_AU": 3180,
+        "BC_D_GIRLS_AU": 1563,
+        "BC_E_GIRLS_AU": 5387,
+        "OC_GEN_AU": 653,
+        "OC_CAP_GIRLS_UR": 758,
+        "SC_GEN_AU": 1951,
+        "SC_GIRLS_UR": 2489,
+        "ST_GEN_AU": 5777
+      },
+      "CSM": {
+        "BC_A_GIRLS_AU": 2753,
+        "BC_B_GEN_AU": 1420,
+        "OC_GEN_AU": 1287,
+        "BC_D_GEN_AU": 1881,
+        "BC_D_GIRLS_AU": 1727,
+        "BC_E_GEN_AU": 1373,
+        "OC_GIRLS_AU": 1018,
+        "SC_GEN_UR": 2965,
+        "ST_GIRLS_AU": 3321
+      },
+      "AID": {
+        "BC_A_GEN_AU": 2291,
+        "BC_B_GEN_AU": 3203,
+        "BC_D_GEN_AU": 1982,
+        "BC_D_GIRLS_AU": 2478,
+        "OC_GEN_AU": 1184,
+        "OC_GIRLS_UR": 1086,
+        "SC_GEN_AU": 3014,
+        "SC_PWD_GEN_AU": 3108,
+        "ST_GIRLS_AU": 4612
+      },
+      "INF": {
+        "BC_A_CAP_GIRLS_UR": 4487,
+        "BC_B_GIRLS_AU": 3823,
+        "BC_D_GEN_AU": 3089,
+        "BC_D_GIRLS_AU": 2331,
+        "BC_E_GEN_UR": 2791,
+        "BC_E_GEN_AU": 3080,
+        "OC_GEN_AU": 1901,
+        "OC_GIRLS_AU": 1557,
+        "SC_GEN_AU": 3200,
+        "ST_GEN_AU": 3910
+      }
+    }
+  },
+  "LOYL": {
+    "collegeCode": "LOYL",
+    "collegeName": "LOYOLA INSTITUTE OF TECHNOLOGY AND MGMT",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 1447,
+        "OC_GEN_AU": 4487,
+        "OC_GEN_UR": 3077
+      },
+      "CSM": {
+        "OC_GIRLS_AU": 2285
+      }
+    }
+  },
+  "MLEW": {
+    "collegeCode": "MLEW",
+    "collegeName": "MALINENI LAKSHMAIAH WOMENS ENGG. COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 8650,
+        "OC_GIRLS_UR": 2995,
+        "OC_CAP_GIRLS_UR": 4259
+      },
+      "CSD": {
+        "OC_GIRLS_UR": 2687
+      },
+      "CSM": {
+        "OC_GIRLS_AU": 3633
+      }
+    }
+  },
+  "NEWS": {
+    "collegeCode": "NEWS",
+    "collegeName": "NEWTONS INST OF SCI AND TECH",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 5819,
+        "OC_CAP_GEN_UR": 4402,
+        "OC_GEN_AU": 6203,
+        "OC_GIRLS_UR": 5648,
+        "OC_GEN_UR": 2003,
+        "BC_E_GEN_UR": 3813,
+        "BC_A_GIRLS_UR": 6513,
+        "SC_GEN_UR": 4309,
+        "SC_CAP_GEN_UR": 4750
+      }
+    }
+  },
+  "PITW": {
+    "collegeCode": "PITW",
+    "collegeName": "PRIYADARSHINI INST. OF TECH AND SCIENCES FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 3067
+      }
+    }
+  },
+  "PPSV": {
+    "collegeCode": "PPSV",
+    "collegeName": "PRASAD V POTLURI SIDDHARTHA INSTT OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 167,
+        "BC_B_GEN_AU": 564,
+        "BC_D_GEN_AU": 854,
+        "OC_GEN_AU": 315,
+        "BC_E_GEN_AU": 621,
+        "OC_PWD_GIRLS_AU": 346,
+        "EWS_GEN_AU": 411,
+        "SC_GEN_UR": 1509,
+        "SC_GIRLS_AU": 1804,
+        "ST_GEN_AU": 3687,
+        "ST_GIRLS_AU": 3408
+      },
+      "CSD": {
+        "BC_B_GEN_AU": 1410,
+        "BC_D_GIRLS_AU": 1259,
+        "OC_GEN_AU": 284,
+        "SC_GIRLS_AU": 2642,
+        "BC_A_CAP_GEN_UR": 951
+      },
+      "CSM": {
+        "OC_GEN_AU": 518,
+        "BC_B_GIRLS_AU": 2276,
+        "BC_C_GIRLS_AU": 1078,
+        "SC_GEN_AU": 1411
+      },
+      "INF": {
+        "BC_A_GEN_AU": 1035,
+        "OC_GEN_AU": 726,
+        "BC_B_GIRLS_AU": 1767,
+        "BC_D_GEN_AU": 1021,
+        "BC_E_GIRLS_AU": 742,
+        "OC_GEN_UR": 413,
+        "SC_GEN_AU": 2695,
+        "SC_PWD_GEN_AU": 3046,
+        "ST_GIRLS_AU": 3200
+      }
+    }
+  },
+  "PSCV": {
+    "collegeCode": "PSCV",
+    "collegeName": "POTTI SRIRAMULU COLLEGE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_AU": 3853,
+        "BC_C_GEN_AU": 2612,
+        "OC_GIRLS_UR": 1542,
+        "BC_D_GEN_AU": 1591,
+        "OC_GEN_AU": 2810,
+        "BC_D_GIRLS_AU": 5467,
+        "BC_E_GEN_AU": 4081,
+        "SC_GEN_AU": 5609,
+        "EWS_GEN_AU": 4246,
+        "EWS_GIRLS_AU": 5393,
+        "BC_A_GIRLS_AU": 5669,
+        "BC_B_GIRLS_AU": 6007,
+        "ST_PWD_GIRLS_AU": 5889
+      },
+      "CSD": {
+        "OC_GEN_AU": 5585,
+        "BC_B_GEN_AU": 4983,
+        "OC_PWD_GIRLS_AU": 1266,
+        "BC_D_GEN_AU": 4840,
+        "SC_GIRLS_AU": 5089,
+        "BC_A_GEN_AU": 7343
+      },
+      "CSM": {
+        "OC_GIRLS_AU": 2020,
+        "OC_GEN_AU": 3684,
+        "BC_D_GEN_AU": 6038,
+        "ST_GEN_AU": 1009,
+        "BC_E_GIRLS_AU": 5611,
+        "SC_GEN_AU": 2522
+      },
+      "CAI": {
+        "OC_GEN_AU": 2204,
+        "BC_A_GEN_AU": 5276,
+        "BC_B_GEN_AU": 701,
+        "BC_D_GIRLS_AU": 2624,
+        "SC_CAP_GIRLS_UR": 2496
+      }
+    }
+  },
+  "RKCE": {
+    "collegeCode": "RKCE",
+    "collegeName": "R.K.COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3990,
+        "SC_GEN_UR": 9139,
+        "BC_A_GEN_AU": 2869,
+        "BC_B_GIRLS_UR": 1704,
+        "BC_B_GEN_UR": 4871,
+        "SC_GEN_AU": 6326
+      },
+      "AIM": {
+        "OC_GEN_AU": 6167,
+        "BC_B_CAP_GEN_UR": 4464
+      }
+    }
+  },
+  "RPRA": {
+    "collegeCode": "RPRA",
+    "collegeName": "RISE KRISHNA SAI PRAKASAM GROUP OF INSTITUTIONS",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GIRLS_AU": 2681,
+        "OC_GEN_AU": 708,
+        "SC_GEN_AU": 6018,
+        "OC_GIRLS_AU": 3185,
+        "OC_PWD_GEN_AU": 5401,
+        "SC_GIRLS_UR": 5825,
+        "BC_A_GEN_AU": 8664
+      },
+      "CSD": {
+        "OC_GEN_AU": 4952
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 6097,
+        "OC_GEN_AU": 4478,
+        "OC_GIRLS_AU": 2160,
+        "SC_GEN_AU": 5230
+      }
+    }
+  },
+  "RVIT": {
+    "collegeCode": "RVIT",
+    "collegeName": "R V INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 2542,
+        "BC_E_GEN_UR": 2781,
+        "OC_CAP_GEN_UR": 3728,
+        "BC_A_GEN_AU": 4006,
+        "OC_GIRLS_AU": 4623,
+        "OC_PWD_GIRLS_AU": 3126,
+        "SC_GEN_UR": 7813,
+        "SC_GEN_AU": 9031,
+        "BC_B_GEN_AU": 3282,
+        "OC_GEN_AU": 4788,
+        "ST_GEN_AU": 6063
+      },
+      "CSM": {
+        "OC_GEN_AU": 2812
+      }
+    }
+  },
+  "RVJC": {
+    "collegeCode": "RVJC",
+    "collegeName": "R V R AND J C COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 1230,
+        "BC_D_GIRLS_AU": 874,
+        "BC_D_GEN_AU": 1171,
+        "BC_E_GEN_AU": 274,
+        "OC_GEN_UR": 66,
+        "OC_GEN_AU": 184,
+        "OC_GIRLS_AU": 218,
+        "SC_GEN_AU": 789,
+        "SC_GIRLS_AU": 1623,
+        "ST_GEN_AU": 1889,
+        "BC_D_GEN_UR": 540
+      },
+      "CSD": {
+        "BC_A_GEN_AU": 820,
+        "BC_A_GIRLS_AU": 2787,
+        "OC_GEN_AU": 459,
+        "BC_B_GEN_AU": 890,
+        "BC_B_GIRLS_AU": 1404,
+        "BC_D_GEN_AU": 1020,
+        "BC_D_PWD_GEN_AU": 1045,
+        "OC_GIRLS_UR": 410,
+        "BC_E_CAP_GIRLS_UR": 1176,
+        "OC_GIRLS_AU": 811,
+        "SC_GEN_AU": 5924,
+        "SC_GIRLS_AU": 4836,
+        "ST_GEN_AU": 2068,
+        "BC_B_GEN_UR": 449
+      },
+      "CSM": {
+        "OC_GIRLS_AU": 937,
+        "BC_A_GIRLS_AU": 4352,
+        "OC_GEN_AU": 493,
+        "BC_B_GEN_AU": 747,
+        "BC_C_GEN_AU": 3102,
+        "BC_D_GEN_AU": 572,
+        "BC_E_GEN_AU": 834,
+        "SC_GEN_UR": 1873,
+        "SC_PWD_GIRLS_AU": 2640,
+        "SC_PWD_GEN_AU": 2829,
+        "ST_GEN_AU": 4383,
+        "OC_GIRLS_UR": 477
+      },
+      "INF": {
+        "BC_A_CAP_GIRLS_UR": 2138,
+        "BC_B_GEN_AU": 1346,
+        "BC_D_GEN_AU": 5954,
+        "BC_E_GEN_AU": 1607,
+        "OC_GEN_AU": 652,
+        "OC_GIRLS_AU": 887,
+        "ST_GEN_AU": 3112,
+        "SC_GEN_AU": 3102
+      }
+    }
+  },
+  "SIEN": {
+    "collegeCode": "SIEN",
+    "collegeName": "SRI SARATHI INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3003,
+        "OC_GIRLS_AU": 5696
+      }
+    }
+  },
+  "SMGG": {
+    "collegeCode": "SMGG",
+    "collegeName": "ST.MARYS GROUP OF INSTITUTIONS GUNTUR FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "CHR_GIRLS_UR": 5468
+      },
+      "AID": {
+        "CHR_GIRLS_UR": 2261
+      }
+    }
+  },
+  "SPMUSF": {
+    "collegeCode": "SPMUSF",
+    "collegeName": "SCHOOL OF ENGG. TECH. SPMVV - SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "BC_E_GIRLS_AU": 2881,
+        "BC_D_GIRLS_AU": 5168,
+        "OC_GIRLS_UR": 646,
+        "OC_GIRLS_AU": 1549,
+        "EWS_GIRLS_AU": 2380,
+        "SC_GIRLS_AU": 2386,
+        "BC_C_GIRLS_SVU": 2339,
+        "OC_GIRLS_OU": 1629,
+        "BC_B_GIRLS_OU": 1711,
+        "OC_GIRLS_SVU": 1445,
+        "BC_D_GIRLS_UR": 4063,
+        "EWS_GIRLS_UR": 1736,
+        "EWS_GIRLS_SVU": 2424,
+        "SC_GIRLS_OU": 2262,
+        "ST_GIRLS_OU": 3974
+      }
+    }
+  },
+  "SSCE": {
+    "collegeCode": "SSCE",
+    "collegeName": "SRI SIVANI COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3790
+      },
+      "AIM": {
+        "OC_GEN_AU": 4286
+      }
+    }
+  },
+  "SVET": {
+    "collegeCode": "SVET",
+    "collegeName": "SRI VASAVI INSTT OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 1996,
+        "ST_GIRLS_AU": 3624,
+        "SC_GEN_AU": 3554,
+        "BC_D_GIRLS_UR": 5311,
+        "ST_GEN_AU": 3888,
+        "OC_GEN_UR": 2183,
+        "OC_GEN_AU": 3302,
+        "OC_PWD_GEN_AU": 2947,
+        "OC_CAP_GIRLS_UR": 1863
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 5313,
+        "BC_B_GIRLS_AU": 5742,
+        "BC_B_GEN_AU": 5959,
+        "BC_D_GEN_AU": 6725,
+        "SC_GIRLS_AU": 1282,
+        "OC_GEN_AU": 3021
+      }
+    }
+  },
+  "VIEW": {
+    "collegeCode": "VIEW",
+    "collegeName": "VIGNANS INSTT OF ENGINEERING FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 2260,
+        "OC_GIRLS_AU": 866,
+        "OC_PWD_GIRLS_AU": 1022,
+        "ST_CAP_GIRLS_UR": 1028,
+        "BC_D_GIRLS_UR": 1263,
+        "BC_D_GIRLS_AU": 1528,
+        "BC_C_GIRLS_AU": 1704,
+        "BC_E_GIRLS_AU": 1963,
+        "SC_GIRLS_UR": 4291,
+        "SC_GIRLS_AU": 4542
+      },
+      "CSD": {
+        "BC_A_GIRLS_AU": 2823,
+        "OC_GIRLS_AU": 1953,
+        "SC_GIRLS_AU": 2209,
+        "BC_D_GIRLS_AU": 4308
+      },
+      "CSM": {
+        "BC_B_GIRLS_AU": 3711,
+        "OC_GIRLS_AU": 1741,
+        "ST_GIRLS_AU": 1825,
+        "BC_D_GIRLS_AU": 3361,
+        "SC_GIRLS_AU": 4938
+      },
+      "CSC": {
+        "BC_A_GIRLS_AU": 3921,
+        "BC_B_GIRLS_AU": 4331,
+        "SC_GIRLS_AU": 2206,
+        "ST_GIRLS_AU": 3887
+      },
+      "CAI": {
+        "BC_E_GIRLS_AU": 3144,
+        "OC_GIRLS_AU": 1807,
+        "SC_GIRLS_AU": 2034,
+        "BC_D_GIRLS_AU": 2515
+      },
+      "INF": {
+        "BC_E_GIRLS_AU": 4130,
+        "BC_B_GIRLS_AU": 5959,
+        "OC_GIRLS_AU": 2397,
+        "BC_D_GIRLS_AU": 4971,
+        "SC_GIRLS_AU": 3269
+      }
+    }
+  },
+  "VISW": {
+    "collegeCode": "VISW",
+    "collegeName": "SHRI VISHNU ENGG. COLLEGE FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 451,
+        "BC_D_GIRLS_AU": 704,
+        "OC_GIRLS_UR": 83,
+        "OC_GIRLS_AU": 178,
+        "SC_GIRLS_UR": 1722,
+        "SC_GIRLS_AU": 2043,
+        "ST_GIRLS_AU": 2073
+      },
+      "CSM": {
+        "BC_A_GIRLS_AU": 1651,
+        "BC_B_GIRLS_UR": 891,
+        "BC_D_GIRLS_AU": 1248,
+        "OC_GIRLS_AU": 363,
+        "ST_GIRLS_AU": 979,
+        "SC_PWD_GIRLS_AU": 1130,
+        "SC_GIRLS_AU": 2417
+      },
+      "CSC": {
+        "BC_A_GIRLS_AU": 3826,
+        "OC_GIRLS_AU": 864,
+        "BC_B_GIRLS_AU": 1459,
+        "ST_PWD_GIRLS_AU": 1198,
+        "SC_GIRLS_AU": 3906
+      },
+      "INF": {
+        "BC_A_GIRLS_AU": 2435,
+        "BC_E_PWD_GIRLS_AU": 2464,
+        "OC_GIRLS_AU": 871,
+        "SC_GIRLS_AU": 5149,
+        "BC_B_GIRLS_AU": 1192,
+        "OC_CAP_GIRLS_UR": 4539,
+        "BC_D_GIRLS_UR": 1081,
+        "BC_D_GIRLS_AU": 1279
+      }
+    }
+  },
+  "VITK": {
+    "collegeCode": "VITK",
+    "collegeName": "P B R VISVODAYA INSTITUTE OF TECHNOLOGY AND SCI.",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 2478,
+        "OC_GIRLS_UR": 4281,
+        "OC_GIRLS_SVU": 3412,
+        "SC_GEN_SVU": 4364,
+        "OC_CAP_GIRLS_UR": 5027,
+        "OC_GEN_SVU": 4790,
+        "ST_GEN_SVU": 2589,
+        "OC_PWD_GEN_SVU": 2243,
+        "OC_GEN_UR": 4320,
+        "SC_GEN_UR": 6217
+      },
+      "AIM": {
+        "OC_GIRLS_SVU": 4827,
+        "OC_GEN_SVU": 3188,
+        "OC_PWD_GEN_SVU": 1241
+      },
+      "CAI": {
+        "OC_GEN_SVU": 3394,
+        "OC_GIRLS_SVU": 2005
+      }
+    }
+  },
+  "VITW": {
+    "collegeCode": "VITW",
+    "collegeName": "VIJAYA INST. OF TECHNOLOGY FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 1110,
+        "BC_D_GIRLS_AU": 2762,
+        "ST_GIRLS_AU": 727,
+        "OC_SCG_GIRLS_AU": 5703,
+        "SC_GIRLS_AU": 4836,
+        "SC_GIRLS_UR": 6177
+      },
+      "CSD": {
+        "OC_GIRLS_AU": 1337
+      },
+      "INF": {
+        "OC_GIRLS_UR": 3667
+      }
+    }
+  },
+  "VRSE": {
+    "collegeCode": "VRSE",
+    "collegeName": "V R SIDDHARTHA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_B_GIRLS_AU": 140,
+        "OC_GIRLS_AU": 25,
+        "BC_D_GIRLS_AU": 228,
+        "BC_E_GEN_AU": 80,
+        "OC_GEN_UR": 2,
+        "OC_GEN_AU": 58,
+        "OC_GIRLS_UR": 1,
+        "SC_GEN_UR": 191,
+        "SC_GEN_AU": 437,
+        "SC_PWD_GEN_AU": 368,
+        "SC_GIRLS_AU": 450,
+        "ST_GEN_AU": 971
+      },
+      "CSM": {
+        "BC_A_GEN_AU": 205,
+        "OC_GEN_AU": 110,
+        "BC_D_GIRLS_AU": 261,
+        "OC_GIRLS_AU": 27,
+        "ST_GEN_AU": 2362
+      },
+      "AID": {
+        "BC_A_PWD_GIRLS_AU": 685,
+        "BC_B_GEN_UR": 136,
+        "OC_GIRLS_AU": 63,
+        "BC_C_GEN_AU": 401,
+        "OC_GEN_AU": 116,
+        "BC_D_GEN_AU": 139,
+        "SC_GEN_AU": 236,
+        "SC_GIRLS_AU": 727
+      },
+      "INF": {
+        "OC_GEN_AU": 153,
+        "BC_A_GEN_AU": 543,
+        "BC_A_GIRLS_AU": 1867,
+        "BC_B_CAP_GEN_UR": 355,
+        "BC_B_GEN_AU": 584,
+        "OC_GIRLS_AU": 246,
+        "OC_PWD_GEN_AU": 278,
+        "BC_D_GIRLS_AU": 745,
+        "OC_GEN_UR": 81,
+        "SC_GEN_UR": 703,
+        "SC_GEN_AU": 981,
+        "SC_GIRLS_AU": 1063,
+        "ST_GIRLS_AU": 2415
+      }
+    }
+  },
+  "VSMR": {
+    "collegeCode": "VSMR",
+    "collegeName": "V.S.M COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "ST_GIRLS_AU": 7328,
+        "BC_B_GEN_AU": 7590,
+        "SC_GEN_AU": 6113,
+        "BC_C_GIRLS_AU": 3171,
+        "OC_GIRLS_AU": 3400,
+        "SC_GIRLS_AU": 3683,
+        "OC_GEN_AU": 2328
+      },
+      "CSM": {
+        "BC_A_GIRLS_AU": 4048,
+        "OC_PWD_GEN_AU": 2705,
+        "BC_B_GEN_AU": 5598,
+        "SC_GEN_AU": 2188,
+        "OC_GIRLS_AU": 4946
+      }
+    }
+  },
+  "VSPT": {
+    "collegeCode": "VSPT",
+    "collegeName": "VISAKHA INST OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GIRLS_AU": 115,
+        "ST_GEN_AU": 2207,
+        "SC_GEN_AU": 3508,
+        "OC_GIRLS_AU": 1029,
+        "BC_A_GEN_UR": 4406,
+        "SC_GEN_UR": 2629,
+        "OC_GEN_AU": 4491
+      },
+      "CSD": {
+        "OC_GIRLS_UR": 5086,
+        "OC_GEN_UR": 3073
+      },
+      "CSM": {
+        "OC_GEN_AU": 5070,
+        "OC_GIRLS_UR": 68,
+        "BC_B_GEN_UR": 4724
+      },
+      "CSC": {
+        "OC_GIRLS_AU": 6692,
+        "ST_GEN_UR": 5668,
+        "OC_GEN_AU": 5380,
+        "SC_GEN_AU": 3519
+      }
+    }
+  },
+  "AITT": {
+    "collegeCode": "AITT",
+    "collegeName": "ANNAMACHARYA INST OF TECHNOLOGYAND SCIENCES",
+    "courses": {
+      "CSE": {
+        "OC_CAP_GEN_UR": 919,
+        "OC_GEN_SVU": 2115,
+        "OC_PWD_GEN_SVU": 2123,
+        "BC_A_GEN_UR": 3573,
+        "BC_C_GEN_SVU": 5538,
+        "BC_A_GIRLS_SVU": 4615,
+        "BC_B_GEN_SVU": 6089,
+        "BC_B_GIRLS_SVU": 3858,
+        "BC_D_GEN_SVU": 5205,
+        "BC_D_GIRLS_SVU": 5812,
+        "OC_GIRLS_UR": 698,
+        "SC_GEN_SVU": 4388,
+        "BC_A_GEN_SVU": 2968,
+        "ST_PWD_GEN_SVU": 4349,
+        "SC_GIRLS_SVU": 2270,
+        "ST_GEN_SVU": 2902,
+        "BC_E_GIRLS_SVU": 4813
+      },
+      "CSD": {
+        "SC_SCG_GEN_SVU": 3332,
+        "BC_D_GIRLS_SVU": 3745,
+        "OC_GEN_SVU": 1275,
+        "BC_B_GEN_SVU": 4396,
+        "SC_GIRLS_SVU": 996,
+        "BC_E_GEN_SVU": 4654
+      },
+      "AIM": {
+        "BC_A_GEN_SVU": 4507,
+        "BC_D_GEN_UR": 2188,
+        "BC_D_GIRLS_SVU": 5874,
+        "OC_GIRLS_SVU": 2255,
+        "BC_B_GEN_SVU": 3938,
+        "OC_GEN_SVU": 2161,
+        "OC_PWD_GEN_SVU": 2606,
+        "ST_GEN_SVU": 2727,
+        "SC_GEN_SVU": 5404,
+        "SC_GIRLS_SVU": 6185
+      },
+      "AID": {
+        "BC_A_GIRLS_SVU": 900,
+        "BC_B_GEN_SVU": 4710,
+        "OC_GIRLS_SVU": 2606,
+        "BC_D_GIRLS_SVU": 4754
+      }
+    }
+  },
+  "ASTC": {
+    "collegeCode": "ASTC",
+    "collegeName": "AVANTHIS ST THERESSA INSTITUTE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3504,
+        "OC_PWD_GEN_AU": 3394,
+        "OC_GEN_UR": 5551
+      }
+    }
+  },
+  "CIET": {
+    "collegeCode": "CIET",
+    "collegeName": "CHALAPATHI INST OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3814,
+        "BC_D_GEN_AU": 7845,
+        "BC_B_GEN_AU": 4015,
+        "OC_SCG_GEN_AU": 4979,
+        "SC_GEN_AU": 5007,
+        "ST_GIRLS_AU": 5109,
+        "OC_GIRLS_AU": 3383,
+        "OC_PWD_GIRLS_AU": 3825,
+        "OC_GEN_UR": 2816,
+        "SC_GEN_UR": 8471
+      },
+      "CSC": {
+        "OC_GEN_AU": 5962,
+        "OC_GIRLS_AU": 2653
+      },
+      "CAI": {
+        "OC_GIRLS_AU": 8434,
+        "OC_GEN_AU": 62
+      }
+    }
+  },
+  "AUEWSF": {
+    "collegeCode": "AUEWSF",
+    "collegeName": "A U COLLEGE OF ENGG FOR WOMEN-SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 255,
+        "OC_PWD_GIRLS_AU": 282,
+        "BC_D_GIRLS_AU": 588,
+        "SC_GIRLS_AU": 1330,
+        "ST_GIRLS_AU": 6044
+      },
+      "INF": {
+        "BC_B_GIRLS_AU": 2886,
+        "OC_GIRLS_AU": 349,
+        "EWS_GIRLS_AU": 1785,
+        "SC_GIRLS_AU": 3798,
+        "SC_PWD_GIRLS_AU": 4005
+      }
+    }
+  },
+  "BWEC": {
+    "collegeCode": "BWEC",
+    "collegeName": "BAPATLA WOMENS ENGG COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 3609,
+        "BC_D_GIRLS_AU": 3917,
+        "SC_GIRLS_AU": 5992,
+        "ST_GIRLS_AU": 4842,
+        "SC_GIRLS_UR": 5177
+      },
+      "AIM": {
+        "OC_GIRLS_AU": 2712,
+        "OC_PWD_GIRLS_AU": 6253
+      }
+    }
+  },
+  "JNTK": {
+    "collegeCode": "JNTK",
+    "collegeName": "JNTUK COLLEGE OF ENGG. KAKINADA",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 15,
+        "BC_D_GEN_AU": 18,
+        "OC_GEN_UR": 10,
+        "SC_GIRLS_AU": 164
+      }
+    }
+  },
+  "LIMT": {
+    "collegeCode": "LIMT",
+    "collegeName": "LINGAYAS INST OF MGMT AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 4618,
+        "OC_GIRLS_AU": 4925
+      },
+      "AIM": {
+        "OC_GEN_UR": 2878,
+        "OC_GEN_AU": 6589,
+        "OC_GIRLS_AU": 3392
+      },
+      "AID": {
+        "OC_GEN_AU": 7059,
+        "OC_GIRLS_AU": 2425
+      }
+    }
+  },
+  "MRCL": {
+    "collegeCode": "MRCL",
+    "collegeName": "MIRACLE EDNL SOC GROUP OF INSTNS",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 1949,
+        "SC_GIRLS_AU": 5057,
+        "OC_GEN_AU": 3897,
+        "OC_GIRLS_UR": 4527,
+        "SC_GEN_AU": 7117
+      },
+      "AID": {
+        "OC_GEN_AU": 4596
+      }
+    }
+  },
+  "PREC": {
+    "collegeCode": "PREC",
+    "collegeName": "DR PAUL RAJS ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 5266,
+        "OC_GEN_AU": 3283,
+        "EWS_GEN_AU": 5435
+      }
+    }
+  },
+  "SDTN": {
+    "collegeCode": "SDTN",
+    "collegeName": "SIDDHARTH INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_UR": 2372,
+        "ST_GEN_SVU": 3209,
+        "BC_A_GEN_SVU": 5047,
+        "OC_GIRLS_SVU": 2043,
+        "OC_PWD_GEN_SVU": 2110,
+        "BC_B_GEN_UR": 3190,
+        "BC_B_CAP_GEN_UR": 3388,
+        "BC_B_GIRLS_UR": 4095,
+        "BC_A_GIRLS_SVU": 4527,
+        "BC_E_GEN_SVU": 3950,
+        "BC_C_GEN_SVU": 4198,
+        "BC_D_GEN_SVU": 4124,
+        "OC_GEN_SVU": 2051,
+        "SC_GEN_SVU": 6009,
+        "SC_GIRLS_SVU": 3787,
+        "BC_B_GIRLS_SVU": 4809
+      },
+      "CSM": {
+        "SC_GEN_SVU": 3274,
+        "BC_A_GEN_SVU": 7635,
+        "OC_GIRLS_SVU": 3282,
+        "BC_B_GIRLS_UR": 4614,
+        "BC_B_GEN_SVU": 5801,
+        "OC_GEN_SVU": 4729,
+        "OC_GEN_UR": 3418,
+        "SC_GIRLS_SVU": 5149,
+        "BC_D_GEN_SVU": 8181,
+        "OC_PWD_GEN_SVU": 2660,
+        "ST_GIRLS_UR": 4129
+      },
+      "CAI": {
+        "BC_D_GEN_SVU": 69,
+        "BC_E_GEN_SVU": 991,
+        "OC_GEN_SVU": 3047,
+        "EWS_GEN_SVU": 4318,
+        "OC_GIRLS_SVU": 2762,
+        "SC_GEN_SVU": 3047,
+        "SC_GIRLS_SVU": 5746
+      },
+      "CCC": {
+        "OC_GEN_SVU": 6063,
+        "OC_GIRLS_SVU": 3416
+      }
+    }
+  },
+  "SVCN": {
+    "collegeCode": "SVCN",
+    "collegeName": "SREE VENKATESWARA COLL OF ENGG",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 5015,
+        "OC_GIRLS_SVU": 2807
+      },
+      "CSM": {
+        "OC_GEN_SVU": 4669
+      },
+      "AID": {
+        "OC_GIRLS_SVU": 3880
+      }
+    }
+  },
+  "VETS": {
+    "collegeCode": "VETS",
+    "collegeName": "SR VENKATESWARA COLL OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "ST_GEN_AU": 6075,
+        "OC_GEN_AU": 3994,
+        "BC_A_GEN_UR": 801
+      },
+      "AIM": {
+        "OC_CAP_GEN_UR": 5582,
+        "OC_GEN_UR": 7296
+      }
+    }
+  },
+  "VNIW": {
+    "collegeCode": "VNIW",
+    "collegeName": "VIGNANS NIRULA INST OF TECH. AND SCI FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GIRLS_AU": 1857,
+        "OC_GIRLS_AU": 4829,
+        "ST_GIRLS_AU": 6628,
+        "OC_GIRLS_UR": 2454,
+        "SC_GIRLS_AU": 5625
+      },
+      "CSD": {
+        "OC_GIRLS_AU": 3416
+      },
+      "CSM": {
+        "OC_GIRLS_AU": 1663
+      }
+    }
+  },
+  "ASIP": {
+    "collegeCode": "ASIP",
+    "collegeName": "AMRITA SAI INST. OF SCIENCE AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_E_GEN_AU": 3079,
+        "SC_GIRLS_AU": 4205,
+        "ST_GEN_AU": 4350,
+        "SC_GEN_AU": 5529,
+        "OC_GIRLS_AU": 1261,
+        "OC_PWD_GEN_AU": 5379
+      }
+    }
+  },
+  "ELRU": {
+    "collegeCode": "ELRU",
+    "collegeName": "ELURU COLLEGE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3191,
+        "OC_GIRLS_AU": 5130,
+        "BC_A_GEN_AU": 3311,
+        "BC_B_GEN_AU": 2054,
+        "SC_GIRLS_AU": 4975,
+        "OC_GEN_UR": 2386
+      },
+      "AID": {
+        "OC_GIRLS_AU": 4712,
+        "OC_CAP_GIRLS_UR": 3124
+      }
+    }
+  },
+  "GECG": {
+    "collegeCode": "GECG",
+    "collegeName": "GUNTUR ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 5940,
+        "OC_PWD_GEN_AU": 5253
+      }
+    }
+  },
+  "GVRS": {
+    "collegeCode": "GVRS",
+    "collegeName": "G V R AND S COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 5975,
+        "OC_GIRLS_AU": 6111,
+        "OC_CAP_GEN_UR": 4260,
+        "OC_GEN_AU": 6248,
+        "SC_GEN_UR": 1914
+      },
+      "AID": {
+        "OC_GEN_UR": 5382
+      }
+    }
+  },
+  "ACEM": {
+    "collegeCode": "ACEM",
+    "collegeName": "ADITYA COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 4964,
+        "BC_A_GEN_SVU": 171,
+        "BC_D_GIRLS_SVU": 2554,
+        "BC_A_GIRLS_SVU": 4865,
+        "BC_B_GEN_SVU": 7621,
+        "BC_D_GEN_SVU": 6522,
+        "BC_E_GIRLS_SVU": 1619,
+        "OC_GEN_UR": 2780,
+        "OC_GEN_SVU": 4456,
+        "SC_GIRLS_SVU": 4460,
+        "OC_SCG_GEN_SVU": 5049,
+        "ST_GEN_SVU": 9076
+      },
+      "CAI": {
+        "OC_GIRLS_SVU": 2324,
+        "OC_GEN_SVU": 4286
+      },
+      "AID": {
+        "SC_GEN_SVU": 1155
+      }
+    }
+  },
+  "AMRN": {
+    "collegeCode": "AMRN",
+    "collegeName": "A.M.REDDY MEMORIAL COLL. OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 920
+      }
+    }
+  },
+  "KSRM": {
+    "collegeCode": "KSRM",
+    "collegeName": "K S R M COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_UR": 2163,
+        "BC_A_GEN_SVU": 901,
+        "BC_A_GIRLS_SVU": 4975,
+        "OC_GEN_SVU": 3431,
+        "BC_B_GEN_SVU": 1316,
+        "BC_B_GIRLS_SVU": 4887,
+        "BC_D_GIRLS_SVU": 1984,
+        "BC_E_GEN_SVU": 5387,
+        "SC_GEN_SVU": 321,
+        "ST_GIRLS_SVU": 5718,
+        "OC_GEN_UR": 833,
+        "OC_PWD_GEN_SVU": 3317
+      },
+      "AIM": {
+        "BC_A_GEN_SVU": 2520,
+        "BC_D_GEN_SVU": 5980,
+        "BC_D_GIRLS_SVU": 4626,
+        "OC_GEN_SVU": 1681,
+        "OC_PWD_GEN_SVU": 2015,
+        "SC_GIRLS_SVU": 2230,
+        "ST_GEN_SVU": 8282
+      }
+    }
+  },
+  "MIET": {
+    "collegeCode": "MIET",
+    "collegeName": "MANDAVA INSTITUTE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_CAP_GEN_UR": 5584,
+        "OC_GEN_AU": 5810
+      },
+      "CSM": {
+        "OC_GIRLS_UR": 3580,
+        "OC_GEN_UR": 3587
+      }
+    }
+  },
+  "RUCESF": {
+    "collegeCode": "RUCESF",
+    "collegeName": "RAYALASEEMA UNIVERSITY COLLEGE OF ENGG-SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 2872,
+        "OC_GIRLS_UR": 1633,
+        "OC_GEN_SVU": 4928,
+        "OC_GIRLS_SVU": 4625,
+        "OC_GEN_UR": 2194,
+        "OC_PWD_GEN_SVU": 1643
+      }
+    }
+  },
+  "SVIT": {
+    "collegeCode": "SVIT",
+    "collegeName": "SRI VENKATESWARA INST OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_B_CAP_GEN_UR": 1535,
+        "OC_GEN_SVU": 3551,
+        "OC_GEN_UR": 6158
+      },
+      "CSM": {
+        "OC_GEN_SVU": 6969
+      }
+    }
+  },
+  "SVUC": {
+    "collegeCode": "SVUC",
+    "collegeName": "S V U COLLEGE OF ENGG. TIRUPATHI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 65,
+        "OC_GEN_SVU": 79,
+        "OC_PWD_GEN_SVU": 3354,
+        "OC_GIRLS_SVU": 187,
+        "BC_B_GIRLS_SVU": 416,
+        "BC_E_GIRLS_SVU": 223,
+        "EWS_GEN_SVU": 122,
+        "SC_GEN_SVU": 1110
+      }
+    }
+  },
+  "VHNI": {
+    "collegeCode": "VHNI",
+    "collegeName": "SREE VAHINI INSTT OF SCIENCE AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 5003
+      },
+      "CSD": {
+        "OC_GEN_AU": 4588
+      },
+      "AIM": {
+        "OC_GEN_AU": 4883
+      }
+    }
+  },
+  "CHKN": {
+    "collegeCode": "CHKN",
+    "collegeName": "CHAITANYA INST. OF SCI. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 4745,
+        "OC_GEN_AU": 5050
+      },
+      "AID": {
+        "OC_GEN_UR": 1957
+      }
+    }
+  },
+  "KISR": {
+    "collegeCode": "KISR",
+    "collegeName": "KAKINADA INSTITUTE OF TECHNOLOGY SCIENCES",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_AU": 5904
+      },
+      "AIM": {
+        "OC_GEN_UR": 5158,
+        "OC_GEN_AU": 5812
+      }
+    }
+  },
+  "CCVY": {
+    "collegeCode": "CCVY",
+    "collegeName": "VRS AND YRN COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 4960
+      }
+    }
+  },
+  "DSIT": {
+    "collegeCode": "DSIT",
+    "collegeName": "DAMISETTY BALA SURESH INST OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3729,
+        "OC_CAP_GIRLS_UR": 2694,
+        "OC_GIRLS_UR": 2646
+      }
+    }
+  },
+  "GGIB": {
+    "collegeCode": "GGIB",
+    "collegeName": "GOKUL GROUP OF INSTITUTIONS",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 6281
+      }
+    }
+  },
+  "NOVA": {
+    "collegeCode": "NOVA",
+    "collegeName": "NOVA COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 9080
+      }
+    }
+  },
+  "NVAV": {
+    "collegeCode": "NVAV",
+    "collegeName": "NOVA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3097
+      }
+    }
+  },
+  "PCEK": {
+    "collegeCode": "PCEK",
+    "collegeName": "G.PULLAIAH COLL. OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 2327,
+        "BC_A_GEN_SVU": 2635,
+        "BC_A_GIRLS_SVU": 3930,
+        "OC_GIRLS_SVU": 1487,
+        "OC_PWD_GIRLS_SVU": 1613,
+        "SC_GIRLS_SVU": 3465,
+        "OC_PWD_GEN_SVU": 1705,
+        "BC_B_GEN_UR": 2246,
+        "BC_B_GEN_SVU": 2909,
+        "BC_B_GIRLS_UR": 3036,
+        "BC_D_CAP_GEN_UR": 2832,
+        "BC_D_GIRLS_SVU": 3664,
+        "BC_D_GEN_SVU": 2770,
+        "OC_GEN_SVU": 1644,
+        "ST_GEN_SVU": 1928,
+        "BC_E_GEN_SVU": 3522,
+        "BC_E_GIRLS_SVU": 2284,
+        "EWS_GEN_SVU": 2249,
+        "SC_GEN_UR": 3507
+      },
+      "CAI": {
+        "BC_A_GEN_UR": 4328,
+        "BC_A_GIRLS_SVU": 6119,
+        "BC_B_CAP_GEN_UR": 4501,
+        "BC_B_GEN_SVU": 3588,
+        "BC_A_PWD_GEN_SVU": 5920,
+        "OC_GEN_SVU": 1861,
+        "BC_D_GIRLS_UR": 2460,
+        "BC_D_GIRLS_SVU": 4030,
+        "BC_A_GEN_SVU": 3872,
+        "OC_GIRLS_SVU": 2324,
+        "SC_GEN_SVU": 3349,
+        "ST_GIRLS_SVU": 3376
+      }
+    }
+  },
+  "SKUASF": {
+    "collegeCode": "SKUASF",
+    "collegeName": "SRI KRISHNADEVARAYA UNIV.COLL.OF ENG.- SELF FINANCE",
+    "courses": {
+      "CSE": {
+        "ST_GIRLS_SVU": 2004,
+        "OC_GIRLS_SVU": 1243,
+        "BC_B_GEN_SVU": 4072,
+        "OC_GEN_SVU": 1552,
+        "SC_GEN_UR": 1801,
+        "SC_GEN_SVU": 5759
+      }
+    }
+  },
+  "KECW": {
+    "collegeCode": "KECW",
+    "collegeName": "KRISHNAVENI ENGG COLLEGE FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 4394
+      }
+    }
+  },
+  "AITK": {
+    "collegeCode": "AITK",
+    "collegeName": "ANNAMACHARYA INST OF TECH AND SCI",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 5660,
+        "OC_PWD_GEN_SVU": 4685,
+        "OC_GIRLS_SVU": 3712,
+        "SC_GIRLS_SVU": 1627,
+        "OC_CAP_GEN_UR": 2243,
+        "OC_GEN_SVU": 2357,
+        "SC_GEN_SVU": 9117,
+        "SC_GEN_UR": 1759
+      },
+      "CSM": {
+        "OC_GEN_SVU": 2718,
+        "SC_GIRLS_SVU": 5749,
+        "OC_GIRLS_UR": 2422
+      }
+    }
+  },
+  "AITS": {
+    "collegeCode": "AITS",
+    "collegeName": "ANNAMACHARYA INST OF TECHNOLOGY AND SCIENCES",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 2001,
+        "OC_GIRLS_SVU": 868,
+        "BC_A_PWD_GEN_SVU": 1090,
+        "BC_B_GEN_SVU": 1977,
+        "BC_B_GIRLS_SVU": 1835,
+        "BC_D_CAP_GEN_UR": 1379,
+        "OC_GIRLS_UR": 804,
+        "BC_D_GEN_SVU": 1180,
+        "BC_E_GEN_UR": 2764,
+        "BC_E_PWD_GIRLS_SVU": 1908,
+        "OC_GEN_SVU": 1045,
+        "SC_GEN_SVU": 4249,
+        "ST_GEN_SVU": 1529,
+        "SC_GIRLS_SVU": 1524,
+        "SC_GEN_UR": 2294,
+        "ST_GIRLS_SVU": 5249
+      },
+      "CSD": {
+        "OC_GEN_SVU": 2518,
+        "BC_A_GIRLS_UR": 3564,
+        "OC_GIRLS_SVU": 1798,
+        "BC_B_GEN_SVU": 3077,
+        "BC_D_GEN_SVU": 3367,
+        "BC_E_GEN_SVU": 5500,
+        "OC_SCG_GEN_SVU": 3118,
+        "SC_GEN_SVU": 2561,
+        "SC_GIRLS_SVU": 3347
+      },
+      "AIM": {
+        "BC_A_GEN_SVU": 2672,
+        "BC_B_GEN_SVU": 5937,
+        "OC_GEN_UR": 1673,
+        "OC_GEN_SVU": 1054,
+        "BC_B_CAP_GEN_UR": 4064,
+        "BC_D_GIRLS_SVU": 1694,
+        "BC_E_GIRLS_SVU": 5111,
+        "OC_GIRLS_UR": 1491,
+        "OC_GIRLS_SVU": 2316,
+        "ST_GIRLS_SVU": 3864,
+        "SC_GEN_SVU": 4818
+      },
+      "CAI": {
+        "OC_GEN_SVU": 1348,
+        "BC_A_GIRLS_SVU": 2257,
+        "BC_D_GEN_SVU": 4580,
+        "BC_B_GEN_SVU": 3716,
+        "BC_B_GIRLS_SVU": 5319,
+        "BC_E_GEN_SVU": 5636,
+        "BC_D_GEN_UR": 4092,
+        "SC_GEN_SVU": 2087,
+        "OC_GIRLS_SVU": 1684,
+        "OC_PWD_GEN_SVU": 1974,
+        "SC_GIRLS_SVU": 3153
+      },
+      "AID": {
+        "BC_A_GEN_SVU": 2654,
+        "SC_GIRLS_SVU": 2524,
+        "BC_B_GEN_SVU": 3623,
+        "OC_GIRLS_SVU": 2487
+      }
+    }
+  },
+  "ALTS": {
+    "collegeCode": "ALTS",
+    "collegeName": "ANANTHA LAKSHMI INST OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 1329,
+        "SC_GEN_SVU": 4084,
+        "BC_B_GEN_SVU": 2311,
+        "BC_A_GEN_SVU": 8251,
+        "BC_B_CAP_GIRLS_UR": 1872,
+        "OC_GIRLS_UR": 3775
+      },
+      "CSM": {
+        "OC_GEN_UR": 1957,
+        "OC_GEN_SVU": 2370
+      }
+    }
+  },
+  "ASVR": {
+    "collegeCode": "ASVR",
+    "collegeName": "SVR ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 4700,
+        "OC_GEN_SVU": 373
+      },
+      "CAI": {
+        "OC_GIRLS_UR": 4166,
+        "OC_GEN_UR": 1567,
+        "OC_GEN_SVU": 4410
+      }
+    }
+  },
+  "CBIT": {
+    "collegeCode": "CBIT",
+    "collegeName": "CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 1152,
+        "OC_GEN_UR": 858,
+        "BC_A_GEN_SVU": 3802,
+        "OC_GIRLS_SVU": 901,
+        "ST_GIRLS_SVU": 3146,
+        "BC_B_GIRLS_SVU": 5608,
+        "SC_CAP_GIRLS_UR": 2800,
+        "ST_GEN_SVU": 3285,
+        "BC_E_GEN_SVU": 2005,
+        "OC_GEN_SVU": 2021,
+        "OC_PWD_GEN_SVU": 2242,
+        "SC_GEN_UR": 8173
+      },
+      "CSD": {
+        "SC_GIRLS_SVU": 4789,
+        "OC_GIRLS_SVU": 4432,
+        "OC_GEN_SVU": 5296
+      },
+      "CSM": {
+        "OC_GIRLS_SVU": 2869
+      },
+      "CAI": {
+        "OC_GEN_SVU": 2993,
+        "OC_GIRLS_SVU": 4899,
+        "OC_CAP_GEN_UR": 5419
+      }
+    }
+  },
+  "CHDL": {
+    "collegeCode": "CHDL",
+    "collegeName": "CHADALAWADA RAMANAMMA ENGG. COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 4715,
+        "BC_B_GEN_SVU": 7576,
+        "OC_GEN_SVU": 3570,
+        "ST_GIRLS_SVU": 4440,
+        "SC_GEN_SVU": 5470,
+        "OC_GIRLS_SVU": 1984,
+        "BC_D_GIRLS_SVU": 5003
+      },
+      "CSM": {
+        "OC_GEN_SVU": 3832
+      },
+      "CAI": {
+        "BC_A_GEN_SVU": 4620
+      }
+    }
+  },
+  "GPRE": {
+    "collegeCode": "GPRE",
+    "collegeName": "G P R ENGINEERING. COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 486,
+        "BC_A_GIRLS_UR": 774,
+        "BC_A_GIRLS_SVU": 841,
+        "BC_A_GEN_SVU": 847,
+        "OC_GEN_UR": 212,
+        "OC_PWD_GIRLS_SVU": 582,
+        "BC_B_GEN_SVU": 677,
+        "BC_B_GIRLS_SVU": 1291,
+        "BC_D_GEN_UR": 528,
+        "BC_D_GEN_SVU": 881,
+        "BC_D_GIRLS_SVU": 691,
+        "BC_E_GEN_SVU": 666,
+        "OC_GIRLS_SVU": 503,
+        "SC_CAP_GEN_UR": 2220,
+        "SC_GEN_SVU": 2636,
+        "SC_GIRLS_SVU": 2330,
+        "ST_GEN_SVU": 2582,
+        "ST_GIRLS_SVU": 1467
+      },
+      "CSD": {
+        "BC_A_GEN_SVU": 1139,
+        "BC_B_GEN_SVU": 1267,
+        "BC_C_GEN_SVU": 942,
+        "BC_D_GIRLS_SVU": 4063,
+        "OC_GEN_SVU": 440,
+        "OC_GIRLS_SVU": 674,
+        "SC_GIRLS_SVU": 2868,
+        "SC_GEN_UR": 3547
+      },
+      "CSM": {
+        "OC_GEN_SVU": 338,
+        "BC_A_GEN_SVU": 862,
+        "OC_GIRLS_SVU": 991,
+        "BC_B_GEN_SVU": 627,
+        "BC_E_GIRLS_SVU": 705,
+        "OC_PWD_GEN_SVU": 548,
+        "OC_GIRLS_UR": 645,
+        "SC_GEN_SVU": 613,
+        "ST_GEN_SVU": 1328,
+        "SC_GIRLS_SVU": 2026
+      }
+    }
+  },
+  "GTNN": {
+    "collegeCode": "GTNN",
+    "collegeName": "GEETHANJALI INST OF SCIENCE AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GEN_SVU": 3090,
+        "BC_A_GEN_SVU": 4786,
+        "SC_GEN_SVU": 4673,
+        "BC_B_GEN_SVU": 2601,
+        "OC_GIRLS_SVU": 3575,
+        "OC_GEN_SVU": 3651,
+        "BC_E_GEN_SVU": 2595,
+        "BC_E_GIRLS_UR": 2686,
+        "BC_B_PWD_GEN_SVU": 2020,
+        "SC_GEN_UR": 4290,
+        "SC_GIRLS_SVU": 3982,
+        "BC_D_GIRLS_SVU": 6349,
+        "ST_GEN_SVU": 3761
+      },
+      "CSD": {
+        "OC_GEN_SVU": 4062
+      },
+      "CSM": {
+        "OC_GEN_SVU": 4430,
+        "OC_PWD_GIRLS_SVU": 876,
+        "OC_GEN_UR": 2031,
+        "OC_GIRLS_SVU": 4077
+      }
+    }
+  },
+  "MITS": {
+    "collegeCode": "MITS",
+    "collegeName": "MADANAPALLY INSTITUTE OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 1149,
+        "BC_A_GIRLS_SVU": 1197,
+        "OC_GEN_SVU": 462,
+        "OC_PWD_GEN_SVU": 509,
+        "BC_B_GEN_UR": 724,
+        "BC_B_GEN_SVU": 823,
+        "OC_GIRLS_SVU": 693,
+        "BC_B_GIRLS_SVU": 798,
+        "BC_D_GEN_SVU": 1219,
+        "BC_E_GIRLS_UR": 1729,
+        "OC_GIRLS_UR": 317,
+        "OC_CAP_GIRLS_UR": 499,
+        "SC_GEN_SVU": 2105,
+        "SC_GIRLS_SVU": 2990,
+        "ST_GEN_SVU": 1883,
+        "ST_GIRLS_SVU": 4664
+      },
+      "CSD": {
+        "BC_A_GEN_SVU": 2185,
+        "OC_PWD_GEN_SVU": 1161,
+        "BC_B_GEN_SVU": 1486,
+        "BC_B_GIRLS_SVU": 4160,
+        "BC_D_GEN_SVU": 3868,
+        "BC_D_PWD_GIRLS_SVU": 1851,
+        "BC_E_GEN_SVU": 3312,
+        "OC_GEN_SVU": 826,
+        "SC_GEN_SVU": 4950,
+        "ST_GEN_UR": 1626,
+        "OC_GEN_UR": 686,
+        "OC_GIRLS_SVU": 1659,
+        "SC_GIRLS_SVU": 1786
+      },
+      "CSM": {
+        "BC_A_PWD_GEN_SVU": 1828,
+        "BC_B_GEN_SVU": 1142,
+        "OC_GEN_SVU": 389,
+        "OC_GIRLS_SVU": 2682,
+        "SC_GIRLS_SVU": 2801
+      },
+      "CSC": {
+        "BC_A_GEN_SVU": 2988,
+        "BC_B_GEN_SVU": 1630,
+        "BC_B_GIRLS_SVU": 2592,
+        "BC_D_GEN_SVU": 3363,
+        "OC_GEN_SVU": 1152,
+        "OC_GIRLS_SVU": 3981,
+        "SC_CAP_GEN_UR": 4111,
+        "SC_GEN_SVU": 4621,
+        "ST_GIRLS_UR": 4770
+      },
+      "CAI": {
+        "BC_A_GEN_SVU": 1559,
+        "OC_GEN_SVU": 928,
+        "BC_B_GEN_SVU": 1244,
+        "BC_B_GIRLS_SVU": 1581,
+        "BC_D_GIRLS_SVU": 2679,
+        "BC_E_GEN_SVU": 2476,
+        "OC_GEN_UR": 892,
+        "SC_GEN_SVU": 1105,
+        "BC_C_GEN_SVU": 1121,
+        "OC_GIRLS_UR": 982,
+        "OC_GIRLS_SVU": 1370,
+        "SC_GIRLS_SVU": 3271,
+        "ST_GEN_SVU": 6188
+      },
+      "CST": {
+        "SC_GEN_SVU": 3691
+      }
+    }
+  },
+  "MTIE": {
+    "collegeCode": "MTIE",
+    "collegeName": "MOTHER THERESA INST OF ENGG AND TECH",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 4025,
+        "SC_GIRLS_SVU": 8229,
+        "OC_GIRLS_SVU": 4532
+      },
+      "AID": {
+        "OC_GIRLS_SVU": 7809,
+        "SC_GEN_SVU": 5338
+      }
+    }
+  },
+  "NARN": {
+    "collegeCode": "NARN",
+    "collegeName": "NARAYANA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 3871,
+        "BC_B_GEN_SVU": 2796,
+        "BC_D_GEN_SVU": 5671,
+        "OC_GEN_SVU": 1961,
+        "BC_B_GIRLS_SVU": 4141,
+        "BC_D_GIRLS_SVU": 4878,
+        "OC_GIRLS_UR": 258,
+        "OC_GIRLS_SVU": 953,
+        "OC_PWD_GEN_SVU": 2009,
+        "BC_E_GEN_SVU": 4131,
+        "SC_GEN_SVU": 2700,
+        "SC_GEN_UR": 2647,
+        "SC_CAP_GIRLS_UR": 5087,
+        "ST_GEN_SVU": 3146
+      },
+      "CSD": {
+        "BC_D_GEN_SVU": 5731,
+        "BC_A_GIRLS_SVU": 8785,
+        "OC_GEN_SVU": 2580,
+        "SC_GEN_SVU": 5736,
+        "BC_B_GIRLS_SVU": 6118
+      },
+      "CSM": {
+        "OC_GEN_SVU": 1451,
+        "BC_B_GEN_SVU": 1934,
+        "OC_GIRLS_SVU": 2416,
+        "ST_GIRLS_SVU": 3012,
+        "SC_PWD_GEN_SVU": 3672
+      },
+      "CAI": {
+        "OC_GEN_SVU": 1962,
+        "BC_B_GIRLS_SVU": 2645,
+        "OC_GIRLS_SVU": 4501,
+        "BC_D_GEN_SVU": 3113,
+        "BC_A_GEN_SVU": 5531
+      }
+    }
+  },
+  "NBKR": {
+    "collegeCode": "NBKR",
+    "collegeName": "NBKR INSTITUTE OF SCI. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 3134,
+        "OC_GEN_SVU": 2083,
+        "BC_B_GEN_SVU": 3647,
+        "OC_GIRLS_SVU": 1553,
+        "BC_B_GIRLS_SVU": 2126,
+        "BC_D_GEN_UR": 2577,
+        "BC_D_GEN_SVU": 2103,
+        "BC_E_GEN_UR": 2845,
+        "BC_E_GEN_SVU": 4851,
+        "BC_E_GIRLS_SVU": 4862,
+        "OC_GEN_UR": 802,
+        "SC_GEN_SVU": 3357,
+        "OC_PWD_GIRLS_SVU": 1891,
+        "SC_GIRLS_SVU": 4000,
+        "ST_GIRLS_SVU": 5017,
+        "ST_GEN_SVU": 6183
+      },
+      "CSD": {
+        "OC_CAP_GEN_UR": 5039
+      },
+      "CSM": {
+        "OC_GEN_SVU": 4397,
+        "OC_GIRLS_SVU": 2257,
+        "BC_A_GIRLS_SVU": 5377
+      },
+      "AID": {
+        "BC_A_PWD_GIRLS_SVU": 1726,
+        "OC_GEN_SVU": 2879,
+        "BC_B_GIRLS_SVU": 5614,
+        "OC_GIRLS_UR": 2198
+      }
+    }
+  },
+  "NRNG": {
+    "collegeCode": "NRNG",
+    "collegeName": "NARAYANA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 6050,
+        "OC_PWD_GIRLS_SVU": 4634,
+        "SC_GIRLS_UR": 5851,
+        "OC_GEN_SVU": 3869,
+        "OC_GIRLS_SVU": 4448,
+        "BC_E_GEN_UR": 5875,
+        "OC_GEN_UR": 825,
+        "ST_GEN_SVU": 5053
+      },
+      "CSM": {
+        "OC_CAP_GEN_UR": 3563,
+        "OC_GEN_SVU": 4293,
+        "OC_GIRLS_SVU": 2984
+      }
+    }
+  },
+  "PVKK": {
+    "collegeCode": "PVKK",
+    "collegeName": "P.V.K.K. INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 3813,
+        "BC_A_GIRLS_UR": 1647,
+        "BC_B_GEN_SVU": 2361,
+        "BC_B_PWD_GIRLS_SVU": 2551,
+        "ST_GEN_SVU": 4344,
+        "BC_A_GEN_SVU": 5602,
+        "BC_E_GIRLS_SVU": 7531,
+        "SC_GEN_SVU": 2479,
+        "SC_GIRLS_SVU": 3990,
+        "SC_CAP_GEN_UR": 5783,
+        "OC_GIRLS_SVU": 3205,
+        "SC_GIRLS_UR": 636
+      }
+    }
+  },
+  "RGIT": {
+    "collegeCode": "RGIT",
+    "collegeName": "RAJIV GANDHI MEMORIAL COLLEGE OF ENGG. AND TECH.",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 2024,
+        "BC_A_PWD_GEN_SVU": 2215,
+        "OC_GIRLS_SVU": 873,
+        "BC_B_GEN_SVU": 3333,
+        "BC_B_GIRLS_SVU": 3021,
+        "BC_D_GIRLS_SVU": 3326,
+        "BC_D_GEN_SVU": 3304,
+        "BC_D_GIRLS_UR": 3579,
+        "OC_GEN_SVU": 936,
+        "BC_E_GEN_UR": 1662,
+        "BC_E_GIRLS_SVU": 1846,
+        "OC_CAP_GEN_UR": 682,
+        "OC_PWD_GEN_SVU": 1300,
+        "EWS_GEN_SVU": 1323,
+        "EWS_GIRLS_SVU": 1385,
+        "SC_GEN_SVU": 3339,
+        "ST_GIRLS_SVU": 4474,
+        "SC_GEN_UR": 1686,
+        "SC_GIRLS_SVU": 2369
+      },
+      "CSD": {
+        "BC_A_GEN_UR": 2248,
+        "BC_A_GEN_SVU": 4041,
+        "BC_B_GEN_UR": 2477,
+        "SC_GIRLS_SVU": 2467,
+        "BC_D_GEN_SVU": 5250,
+        "BC_E_GEN_SVU": 3785,
+        "BC_C_GEN_SVU": 4094,
+        "OC_GEN_SVU": 1578,
+        "ST_GEN_SVU": 2467,
+        "OC_GIRLS_SVU": 1453,
+        "SC_GEN_SVU": 5200
+      },
+      "CSM": {
+        "OC_GEN_SVU": 1008,
+        "OC_GIRLS_SVU": 1154,
+        "BC_B_GIRLS_SVU": 1850,
+        "SC_GEN_SVU": 2187,
+        "SC_PWD_GEN_SVU": 2779
+      },
+      "CSC": {
+        "BC_B_GEN_SVU": 3430,
+        "BC_B_PWD_GIRLS_SVU": 5760,
+        "OC_GEN_SVU": 1463,
+        "SC_GEN_SVU": 3162,
+        "ST_GEN_SVU": 3524,
+        "OC_GIRLS_SVU": 1678
+      },
+      "CSEB": {
+        "BC_A_GIRLS_SVU": 5520,
+        "OC_GEN_UR": 2721,
+        "OC_GEN_SVU": 4234,
+        "BC_B_GEN_SVU": 5502,
+        "OC_GIRLS_SVU": 4935,
+        "BC_D_GEN_SVU": 5823,
+        "EWS_GEN_SVU": 2014,
+        "ST_GEN_SVU": 5706
+      }
+    }
+  },
+  "SANK": {
+    "collegeCode": "SANK",
+    "collegeName": "AUDHISANKARA COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 3709,
+        "OC_GIRLS_SVU": 3116,
+        "OC_GEN_UR": 2156
+      },
+      "CAI": {
+        "OC_GEN_SVU": 906,
+        "OC_GIRLS_SVU": 4864
+      },
+      "AID": {
+        "OC_GEN_SVU": 3965
+      }
+    }
+  },
+  "SEAT": {
+    "collegeCode": "SEAT",
+    "collegeName": "SIDDARTHA EDNL ACADEMY GRP OF INSTNS",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 5912,
+        "OC_GIRLS_SVU": 6139,
+        "OC_GEN_UR": 5900,
+        "OC_GIRLS_UR": 2113
+      },
+      "CAI": {
+        "OC_GEN_UR": 2494,
+        "OC_GEN_SVU": 1649
+      }
+    }
+  },
+  "SIST": {
+    "collegeCode": "SIST",
+    "collegeName": "SIDDHARTHA INST OF SCI AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 3932,
+        "BC_A_GEN_UR": 5358,
+        "BC_A_GEN_SVU": 7291,
+        "SC_GEN_SVU": 781,
+        "ST_GEN_UR": 3721,
+        "BC_B_GIRLS_SVU": 7976,
+        "BC_B_GEN_SVU": 8064,
+        "BC_D_PWD_GEN_SVU": 3100,
+        "BC_E_GEN_SVU": 8486,
+        "BC_E_GIRLS_SVU": 6500,
+        "EWS_GEN_SVU": 4723,
+        "ST_GIRLS_SVU": 6903,
+        "SC_GIRLS_SVU": 6406
+      },
+      "CSM": {
+        "OC_GIRLS_UR": 5309,
+        "OC_GEN_SVU": 7362
+      },
+      "CIA": {
+        "OC_GEN_SVU": 6575
+      }
+    }
+  },
+  "SREC": {
+    "collegeCode": "SREC",
+    "collegeName": "SANTHIRAM ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 4469,
+        "BC_A_GEN_SVU": 5599,
+        "BC_A_GIRLS_SVU": 6705,
+        "BC_B_GEN_SVU": 2792,
+        "BC_B_GIRLS_UR": 6637,
+        "BC_D_GEN_SVU": 9037,
+        "SC_GIRLS_SVU": 4263,
+        "BC_E_GEN_SVU": 1427,
+        "BC_E_GEN_UR": 2677,
+        "ST_GEN_SVU": 1297,
+        "ST_GIRLS_SVU": 1955,
+        "OC_GEN_SVU": 4513,
+        "OC_GIRLS_SVU": 4620,
+        "SC_PWD_GEN_SVU": 7727
+      },
+      "CSD": {
+        "OC_GEN_SVU": 4302,
+        "OC_GIRLS_SVU": 9007,
+        "SC_GEN_SVU": 6144
+      },
+      "CSM": {
+        "OC_CAP_GIRLS_UR": 4471,
+        "SC_GEN_SVU": 4457,
+        "BC_B_GEN_SVU": 6040,
+        "BC_D_GIRLS_SVU": 5898
+      }
+    }
+  },
+  "SRET": {
+    "collegeCode": "SRET",
+    "collegeName": "SREE RAMA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 1539,
+        "OC_PWD_GEN_SVU": 7894,
+        "OC_GIRLS_SVU": 6182
+      },
+      "AID": {
+        "OC_GEN_SVU": 1617,
+        "OC_GIRLS_SVU": 964
+      }
+    }
+  },
+  "SRIT": {
+    "collegeCode": "SRIT",
+    "collegeName": "SRINIVASA RAMANUJAN INST OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 3632,
+        "BC_A_GIRLS_SVU": 4675,
+        "OC_GIRLS_UR": 1351,
+        "OC_SCG_GEN_SVU": 1843,
+        "OC_GEN_SVU": 1609,
+        "BC_B_GEN_SVU": 3181,
+        "BC_D_GEN_SVU": 4639,
+        "BC_E_GIRLS_SVU": 3242,
+        "OC_GEN_UR": 1246,
+        "EWS_GEN_SVU": 1854,
+        "OC_PWD_GIRLS_SVU": 1424,
+        "OC_GIRLS_SVU": 1488,
+        "EWS_GIRLS_SVU": 1904,
+        "SC_GEN_SVU": 3308,
+        "ST_GEN_SVU": 5699,
+        "SC_GIRLS_SVU": 6065
+      },
+      "CSM": {
+        "BC_A_GEN_SVU": 2258,
+        "OC_GEN_SVU": 4139,
+        "BC_B_GIRLS_SVU": 4342,
+        "BC_B_GEN_UR": 5504,
+        "BC_D_GIRLS_SVU": 2370,
+        "OC_GEN_UR": 921,
+        "BC_E_GEN_SVU": 4815,
+        "SC_CAP_GEN_UR": 383,
+        "SC_GEN_SVU": 2620,
+        "ST_GIRLS_SVU": 670,
+        "OC_GIRLS_SVU": 2948,
+        "ST_GEN_SVU": 3431
+      }
+    }
+  },
+  "SSSE": {
+    "collegeCode": "SSSE",
+    "collegeName": "SANSKRITHI SCHOOL OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_SVU": 3683,
+        "OC_GEN_SVU": 3482,
+        "BC_B_GEN_SVU": 4894,
+        "BC_D_GEN_SVU": 5727,
+        "OC_GIRLS_UR": 4912,
+        "SC_GIRLS_SVU": 5963,
+        "OC_GIRLS_SVU": 5827
+      }
+    }
+  },
+  "SVCE": {
+    "collegeCode": "SVCE",
+    "collegeName": "SRI VENKATESWARA COLL OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 303,
+        "BC_A_GEN_UR": 931,
+        "BC_A_GEN_SVU": 1294,
+        "BC_A_GIRLS_SVU": 1441,
+        "BC_B_GEN_UR": 1097,
+        "BC_B_GEN_SVU": 1117,
+        "BC_B_PWD_GEN_SVU": 1393,
+        "OC_PWD_GIRLS_SVU": 1024,
+        "BC_B_GIRLS_SVU": 1545,
+        "BC_D_GEN_SVU": 1226,
+        "OC_GIRLS_SVU": 701,
+        "BC_D_GIRLS_SVU": 2012,
+        "BC_E_GEN_SVU": 1480,
+        "BC_E_GIRLS_SVU": 3062,
+        "OC_GEN_UR": 209,
+        "OC_CAP_GEN_UR": 210,
+        "OC_PWD_GEN_SVU": 650,
+        "OC_GIRLS_UR": 430,
+        "SC_GEN_SVU": 2821,
+        "ST_GEN_SVU": 3713,
+        "SC_GIRLS_SVU": 2757,
+        "ST_GIRLS_SVU": 3149
+      },
+      "CSD": {
+        "BC_A_GEN_SVU": 1296,
+        "BC_B_GEN_SVU": 4466,
+        "BC_D_GIRLS_SVU": 5372,
+        "BC_E_PWD_GEN_SVU": 2569,
+        "OC_GEN_SVU": 1211,
+        "OC_GIRLS_SVU": 926,
+        "SC_GIRLS_SVU": 2552,
+        "BC_B_GIRLS_SVU": 2561,
+        "SC_GEN_UR": 5970
+      },
+      "CSM": {
+        "BC_A_GEN_SVU": 1713,
+        "BC_A_PWD_GIRLS_SVU": 5830,
+        "OC_GEN_UR": 455,
+        "OC_GEN_SVU": 1051,
+        "BC_B_GEN_SVU": 1363,
+        "BC_B_GIRLS_SVU": 1988,
+        "BC_D_GEN_SVU": 1721,
+        "BC_D_GIRLS_SVU": 1834,
+        "BC_E_GEN_SVU": 1595,
+        "OC_CAP_GEN_UR": 463,
+        "OC_GIRLS_UR": 1115,
+        "OC_GIRLS_SVU": 1796,
+        "SC_GEN_UR": 1794,
+        "SC_GEN_SVU": 5933,
+        "ST_GEN_UR": 4381,
+        "SC_GIRLS_SVU": 5051,
+        "ST_GIRLS_SVU": 5053
+      },
+      "CSC": {
+        "BC_A_GIRLS_SVU": 1132,
+        "OC_GEN_SVU": 586,
+        "BC_B_GIRLS_UR": 4838,
+        "OC_GIRLS_SVU": 658,
+        "BC_D_GEN_SVU": 3944,
+        "BC_C_GEN_SVU": 3445,
+        "SC_GEN_SVU": 1972,
+        "ST_GEN_SVU": 2831
+      },
+      "INF": {
+        "SC_GEN_SVU": 3762,
+        "OC_GIRLS_SVU": 5031,
+        "BC_A_GEN_SVU": 7526,
+        "BC_A_GIRLS_SVU": 3710,
+        "BC_B_GEN_SVU": 5465,
+        "BC_D_GEN_SVU": 1182,
+        "OC_GEN_UR": 849,
+        "OC_GEN_SVU": 3972,
+        "SC_GIRLS_SVU": 516,
+        "ST_PWD_GEN_SVU": 3424,
+        "SC_GEN_UR": 6172
+      }
+    }
+  },
+  "SVCK": {
+    "collegeCode": "SVCK",
+    "collegeName": "SRI VENKATESWARA COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 1312
+      }
+    }
+  },
+  "SVCS": {
+    "collegeCode": "SVCS",
+    "collegeName": "SREE VENKATESWARA COLLEGE OF SCIENCE AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 2349
+      }
+    }
+  },
+  "VISM": {
+    "collegeCode": "VISM",
+    "collegeName": "VISWAM ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 6086,
+        "OC_GIRLS_SVU": 5082,
+        "BC_B_GEN_SVU": 3543,
+        "SC_GIRLS_SVU": 2793,
+        "BC_D_GEN_SVU": 8585,
+        "ST_GIRLS_SVU": 2928,
+        "OC_CAP_GEN_UR": 5384,
+        "SC_GEN_SVU": 6133
+      },
+      "AID": {
+        "OC_GIRLS_SVU": 3272
+      }
+    }
+  },
+  "ASKW": {
+    "collegeCode": "ASKW",
+    "collegeName": "ASHOKA WOMENS ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_SVU": 4977,
+        "OC_CAP_GIRLS_UR": 4893,
+        "OC_GIRLS_UR": 3730,
+        "SC_GIRLS_SVU": 6128
+      }
+    }
+  },
+  "CVRT": {
+    "collegeCode": "CVRT",
+    "collegeName": "SIR C.V RAMAN INST OF TECHNOLOGY SCIENCES",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_SVU": 2445
+      },
+      "AIM": {
+        "OC_GEN_SVU": 5593,
+        "OC_GIRLS_UR": 5740
+      }
+    }
+  },
+  "GKCS": {
+    "collegeCode": "GKCS",
+    "collegeName": "GOKULA KRISHNA COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 1657,
+        "OC_CAP_GEN_UR": 1831,
+        "OC_GEN_SVU": 6003,
+        "OC_GEN_UR": 4279,
+        "OC_GIRLS_SVU": 4983
+      }
+    }
+  },
+  "JNTA": {
+    "collegeCode": "JNTA",
+    "collegeName": "JNTUA COLLEGE OF ENGG. ANANTAPURAMU",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_SVU": 72,
+        "BC_A_GIRLS_SVU": 537,
+        "OC_GEN_SVU": 57,
+        "OC_PWD_GEN_SVU": 3290,
+        "BC_D_GEN_SVU": 165,
+        "EWS_GEN_SVU": 182,
+        "SC_GEN_SVU": 716,
+        "ST_GEN_UR": 512
+      }
+    }
+  },
+  "KLMW": {
+    "collegeCode": "KLMW",
+    "collegeName": "KANDULA LAKSHUMMA MEMORIAL COLLEGE OF ENGG FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_SVU": 2889
+      },
+      "AIM": {
+        "OC_GIRLS_UR": 1924
+      },
+      "AID": {
+        "OC_GIRLS_UR": 3322
+      }
+    }
+  },
+  "PRIK": {
+    "collegeCode": "PRIK",
+    "collegeName": "PRIYADARSHINI COLL OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 3764,
+        "OC_GEN_UR": 3438
+      }
+    }
+  },
+  "RAVW": {
+    "collegeCode": "RAVW",
+    "collegeName": "RAVINDRA COLLEGE OF ENGG FOR WOMEN",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_SVU": 1519,
+        "OC_CAP_GIRLS_UR": 2334
+      }
+    }
+  },
+  "SGIT": {
+    "collegeCode": "SGIT",
+    "collegeName": "DR SAMUEL GEORGE INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 2536
+      }
+    }
+  },
+  "SRSR": {
+    "collegeCode": "SRSR",
+    "collegeName": "SRI SAI INSTITUTE OF TECHNOLOGY. AND SCI.",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_SVU": 7063,
+        "OC_GEN_UR": 2070,
+        "OC_GEN_SVU": 4276,
+        "OC_GIRLS_UR": 6054
+      }
+    }
+  },
+  "TECH": {
+    "collegeCode": "TECH",
+    "collegeName": "TADIPATRI ENGG COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 5334,
+        "OC_GIRLS_SVU": 4982,
+        "OC_CAP_GEN_UR": 6077
+      },
+      "CSD": {
+        "OC_GIRLS_UR": 4857,
+        "OC_GEN_UR": 3533
+      }
+    }
+  },
+  "VEMU": {
+    "collegeCode": "VEMU",
+    "collegeName": "VEMU INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_A_GEN_UR": 275,
+        "BC_A_GIRLS_SVU": 3129,
+        "BC_A_GEN_SVU": 3468,
+        "OC_GEN_SVU": 4338,
+        "BC_B_GEN_SVU": 2267,
+        "OC_CAP_GEN_UR": 3332,
+        "BC_D_GEN_SVU": 5336,
+        "BC_E_GIRLS_SVU": 6179,
+        "OC_GEN_UR": 3261,
+        "OC_GIRLS_SVU": 2969,
+        "OC_PWD_GIRLS_SVU": 3650,
+        "SC_GIRLS_SVU": 4510,
+        "ST_GEN_SVU": 4659,
+        "SC_GEN_SVU": 4709
+      },
+      "CAI": {
+        "OC_GEN_SVU": 2447,
+        "BC_D_GIRLS_SVU": 3433,
+        "OC_GIRLS_SVU": 2668,
+        "SC_GEN_SVU": 3211,
+        "BC_A_GEN_SVU": 3628
+      }
+    }
+  },
+  "BEMA": {
+    "collegeCode": "BEMA",
+    "collegeName": "BHEEMA INST OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3359
+      }
+    }
+  },
+  "GATE": {
+    "collegeCode": "GATE",
+    "collegeName": "GATES INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "SC_GEN_SVU": 3883,
+        "BC_B_GEN_SVU": 5877,
+        "BC_D_GIRLS_SVU": 1710,
+        "BC_E_GEN_SVU": 2393,
+        "BC_E_GIRLS_SVU": 2030,
+        "OC_PWD_GEN_SVU": 1947,
+        "OC_GIRLS_SVU": 4909,
+        "ST_GEN_SVU": 711,
+        "SC_GIRLS_SVU": 2957,
+        "ST_GEN_UR": 6234
+      },
+      "CSC": {
+        "OC_GEN_SVU": 4807
+      },
+      "CAI": {
+        "BC_B_GEN_SVU": 5464,
+        "BC_D_GEN_SVU": 4409,
+        "ST_GEN_SVU": 1656,
+        "SC_GEN_SVU": 3376,
+        "BC_E_PWD_GEN_SVU": 5006,
+        "OC_GIRLS_SVU": 6261,
+        "OC_GEN_SVU": 4489,
+        "BC_C_GIRLS_SVU": 5122,
+        "OC_GEN_UR": 4422
+      }
+    }
+  },
+  "JNTP": {
+    "collegeCode": "JNTP",
+    "collegeName": "JNTUA COLLEGE OF ENGG PULIVENDULA",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_SVU": 428,
+        "BC_E_GEN_SVU": 880,
+        "OC_GEN_SVU": 231,
+        "SC_GIRLS_SVU": 1838,
+        "OC_PWD_GIRLS_SVU": 5441,
+        "ST_GEN_SVU": 2396
+      }
+    }
+  },
+  "JONY": {
+    "collegeCode": "JONY",
+    "collegeName": "ST. JOHNS COLLEGE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 5008,
+        "OC_PWD_GIRLS_SVU": 5243
+      },
+      "CSD": {
+        "OC_GEN_SVU": 1806
+      },
+      "CAI": {
+        "OC_GEN_UR": 4231
+      }
+    }
+  },
+  "KVSR": {
+    "collegeCode": "KVSR",
+    "collegeName": "DR.K.V.SUBBA REDDY INST. OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "BC_B_GEN_UR": 4847,
+        "BC_D_GEN_UR": 2084,
+        "ST_GEN_SVU": 1345,
+        "OC_PWD_GIRLS_SVU": 4317,
+        "BC_A_GEN_SVU": 4422,
+        "BC_B_GEN_SVU": 8236,
+        "OC_GIRLS_SVU": 5202,
+        "SC_GEN_SVU": 6357,
+        "SC_GIRLS_SVU": 2076
+      },
+      "CSD": {
+        "OC_GEN_SVU": 6815,
+        "ST_GIRLS_UR": 8248
+      },
+      "CSM": {
+        "SC_GIRLS_SVU": 3659,
+        "OC_GIRLS_UR": 3571,
+        "ST_GEN_SVU": 2863
+      }
+    }
+  },
+  "MJRT": {
+    "collegeCode": "MJRT",
+    "collegeName": "MJR COLLEGE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 5237
+      },
+      "CAI": {
+        "OC_GIRLS_SVU": 6012
+      }
+    }
+  },
+  "SRIP": {
+    "collegeCode": "SRIP",
+    "collegeName": "SAI RAJESWARI INSTITUTE OF TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3759
+      }
+    }
+  },
+  "SSCC": {
+    "collegeCode": "SSCC",
+    "collegeName": "SRINIVASA INSTITUTE OF TECHNOLOGY AND MANG STUDIES",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GEN_SVU": 5040,
+        "SC_GEN_SVU": 6134,
+        "OC_GEN_SVU": 3590,
+        "OC_GIRLS_SVU": 4626
+      },
+      "CSD": {
+        "OC_GEN_UR": 5312,
+        "OC_GEN_SVU": 8167
+      },
+      "CSM": {
+        "OC_GIRLS_SVU": 3376,
+        "OC_CAP_GEN_UR": 4216
+      },
+      "CAI": {
+        "OC_GEN_UR": 2759
+      }
+    }
+  },
+  "YGVU": {
+    "collegeCode": "YGVU",
+    "collegeName": "YGVU YSR ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 479,
+        "BC_B_GEN_SVU": 744,
+        "EWS_GEN_SVU": 1061,
+        "OC_GIRLS_SVU": 431,
+        "SC_GIRLS_SVU": 5257,
+        "ST_GEN_SVU": 5336
+      }
+    }
+  },
+  "SATS": {
+    "collegeCode": "SATS",
+    "collegeName": "SRI ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCE",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 2231,
+        "OC_GEN_UR": 4948,
+        "OC_GEN_SVU": 6212,
+        "OC_GIRLS_SVU": 3798
+      }
+    }
+  },
+  "SVPP": {
+    "collegeCode": "SVPP",
+    "collegeName": "SRI VENKATESA PERUMAL COLLEGE OF ENGG. AND TECH",
+    "courses": {
+      "CSE": {
+        "OC_GIRLS_UR": 7379,
+        "OC_CAP_GEN_UR": 3088,
+        "OC_GEN_SVU": 2329,
+        "OC_PWD_GIRLS_SVU": 5927
+      },
+      "CSM": {
+        "OC_GEN_UR": 6979
+      },
+      "CAI": {
+        "OC_GEN_UR": 2753,
+        "OC_GEN_SVU": 5488
+      }
+    }
+  },
+  "UNIV": {
+    "collegeCode": "UNIV",
+    "collegeName": "UNIVERSAL COLLEGE OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_AU": 3131
+      },
+      "AIM": {
+        "OC_GEN_AU": 6186,
+        "OC_GEN_UR": 2716
+      }
+    }
+  },
+  "JNTC": {
+    "collegeCode": "JNTC",
+    "collegeName": "JNTUA COLLEGE OF ENGINEERING. KALIKIRI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 326,
+        "OC_GIRLS_SVU": 406,
+        "BC_E_GEN_SVU": 523,
+        "SC_GEN_SVU": 1361,
+        "ST_GIRLS_UR": 1223
+      }
+    }
+  },
+  "KMMT": {
+    "collegeCode": "KMMT",
+    "collegeName": "KMM INST OF TECHNOLOGY AND SCIENCE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_SVU": 8469,
+        "OC_GIRLS_SVU": 6055
+      },
+      "CAI": {
+        "OC_CAP_GEN_UR": 5951,
+        "OC_GEN_UR": 2497
+      }
+    }
+  },
+  "BRNK": {
+    "collegeCode": "BRNK",
+    "collegeName": "BRINDAVAN INST OF TECHNOLOGY AND SCI",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3442
+      }
+    }
+  },
+  "KORM": {
+    "collegeCode": "KORM",
+    "collegeName": "KANDULA OBUL REDDY MEMORIAL COLL. OF ENGG.",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 3505
+      }
+    }
+  },
+  "CECC": {
+    "collegeCode": "CECC",
+    "collegeName": "CHIRALA ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 2295
+      }
+    }
+  },
+  "CRIT": {
+    "collegeCode": "CRIT",
+    "collegeName": "CHIRANJIVI REDDY INST OF ENGG AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 524
+      }
+    }
+  },
+  "SVIK": {
+    "collegeCode": "SVIK",
+    "collegeName": "SRI VENKATESWARA INST. OF SCIENCE AND TECHNOLOGY",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 5527
+      }
+    }
+  },
+  "VITS": {
+    "collegeCode": "VITS",
+    "collegeName": "VAAGDEVI INSTITUTE OF TECHNOLOGY. AND SCI.",
+    "courses": {
+      "CSE": {
+        "OC_GEN_UR": 5399
+      }
+    }
+  },
+  "KUPM": {
+    "collegeCode": "KUPM",
+    "collegeName": "KUPPAM ENGINEERING COLLEGE",
+    "courses": {
+      "CSE": {
+        "OC_PWD_GEN_SVU": 2284,
+        "OC_GIRLS_SVU": 5546
+      },
+      "CSM": {
+        "OC_GEN_SVU": 5825
+      }
+    }
+  },
+  "PPDV": {
+    "collegeCode": "PPDV",
+    "collegeName": "PALADUGU PARVATHI DEVI COLLEGE OF ENGG AND TECH",
+    "courses": {
+      "CSD": {
+        "OC_GEN_UR": 478
+      }
+    }
+  },
+  "KIET": {
+    "collegeCode": "KIET",
+    "collegeName": "KAKINADA INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CSM": {
+        "OC_GIRLS_UR": 2400,
+        "OC_PWD_GEN_AU": 6164,
+        "BC_B_GEN_AU": 7149,
+        "BC_D_GEN_AU": 8583,
+        "OC_GEN_AU": 5580,
+        "OC_GEN_UR": 3256,
+        "SC_GEN_UR": 4294,
+        "OC_GIRLS_AU": 3539,
+        "SC_GEN_AU": 7990
+      },
+      "CSC": {
+        "OC_GEN_AU": 3198,
+        "SC_GEN_AU": 2996,
+        "SC_GEN_UR": 5580,
+        "OC_GIRLS_AU": 2325,
+        "OC_PWD_GIRLS_AU": 2954,
+        "OC_GEN_UR": 2366,
+        "EWS_GEN_AU": 3453
+      },
+      "CAI": {
+        "OC_GEN_AU": 4298,
+        "OC_GIRLS_UR": 3742,
+        "OC_CAP_GEN_UR": 176
+      },
+      "AID": {
+        "OC_GEN_UR": 551,
+        "BC_E_GIRLS_UR": 3058,
+        "OC_GIRLS_AU": 3841,
+        "BC_A_GIRLS_AU": 8499,
+        "BC_B_GEN_AU": 4200,
+        "OC_GEN_AU": 4172,
+        "BC_B_GIRLS_AU": 5115,
+        "BC_D_GEN_AU": 4579,
+        "EWS_GEN_AU": 7266,
+        "SC_GIRLS_AU": 5490,
+        "SC_GEN_AU": 4509,
+        "SC_PWD_GEN_AU": 5118,
+        "ST_PWD_GEN_AU": 6283
+      }
+    }
+  },
+  "JNTKSS": {
+    "collegeCode": "JNTKSS",
+    "collegeName": "JNTUK COLLEGE OF ENGG. KAKINADA-SELF SUPPORTING",
+    "courses": {
+      "CSM": {
+        "OC_GEN_AU": 195,
+        "BC_B_GEN_AU": 1256,
+        "BC_D_PWD_GEN_AU": 384,
+        "OC_GIRLS_AU": 819,
+        "ST_GIRLS_AU": 5227,
+        "SC_GEN_UR": 1820
+      }
+    }
+  },
+  "KIEW": {
+    "collegeCode": "KIEW",
+    "collegeName": "KAKINADA INST OF ENGG AND TECHNOLOGY FOR WOMEN",
+    "courses": {
+      "CSM": {
+        "OC_GIRLS_UR": 5478
+      },
+      "AID": {
+        "OC_GIRLS_UR": 3780,
+        "OC_CAP_GIRLS_UR": 4799
+      }
+    }
+  },
+  "ESWR": {
+    "collegeCode": "ESWR",
+    "collegeName": "ESWAR COLLEGE OF ENGINEERING",
+    "courses": {
+      "CSM": {
+        "OC_GEN_UR": 7638
+      },
+      "CAI": {
+        "OC_GEN_UR": 1458
+      }
+    }
+  },
+  "KCIT": {
+    "collegeCode": "KCIT",
+    "collegeName": "KRISHNA CHAITANYA INST OF TECHNOLOGY AND SCIENCES",
+    "courses": {
+      "AIM": {
+        "OC_GIRLS_UR": 970
+      }
+    }
+  },
+  "AECN": {
+    "collegeCode": "AECN",
+    "collegeName": "ANDHRA ENGINEERING COLLEGE",
+    "courses": {
+      "AIM": {
+        "OC_CAP_GIRLS_UR": 4566,
+        "OC_GEN_UR": 2923
+      }
+    }
+  },
+  "KIEK": {
+    "collegeCode": "KIEK",
+    "collegeName": "KAKINADA INSTITUTE OF ENGG. AND TECHNOLOGY",
+    "courses": {
+      "CAI": {
+        "OC_GEN_UR": 3313
+      },
+      "AID": {
+        "OC_GIRLS_UR": 4576,
+        "OC_GEN_UR": 7611
+      }
+    }
+  },
+  "PITT": {
+    "collegeCode": "PITT",
+    "collegeName": "PRIYADARSHINI INST. OF TECHNOLOGY AND SCIENCES",
+    "courses": {
+      "AID": {
+        "OC_GEN_UR": 3740
+      }
+    }
+  },
+  "VRIT": {
+    "collegeCode": "VRIT",
+    "collegeName": "VARAPRASAD REDDY INST OF TECHNOLOGY",
+    "courses": {
+      "AID": {
+        "OC_GEN_UR": 3350
+      }
+    }
+  },
+  "AUCESF": {
+    "collegeCode": "AUCESF",
+    "collegeName": "A U COLLEGE OF ENGG-SELF FINANCE VISAKHAPATNAM",
+    "courses": {
+      "INF": {
+        "BC_B_GIRLS_AU": 1004,
+        "OC_GIRLS_AU": 61,
+        "OC_GEN_AU": 117,
+        "SC_PWD_GEN_AU": 445,
+        "ST_GIRLS_AU": 2689
+      }
+    }
+  }
+}
