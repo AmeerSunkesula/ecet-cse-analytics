@@ -192,8 +192,8 @@ export default function Predictor() {
   const labelCls =
     'block text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)] mb-1.5';
 
-  /** Render the cutoff trend (2024 vs 2025) */
-  function CutoffTrend({ c25, c24 }) {
+  /** Render the cutoff trend inline (not a component to avoid reconciliation issues) */
+  function renderCutoffTrend(c25, c24) {
     if (c24 == null) return (
       <div className="text-right">
         <div className="text-[var(--text-primary)] font-semibold tabular-nums">{c25.toLocaleString()}</div>
@@ -236,6 +236,7 @@ export default function Predictor() {
   }
 
   return (
+    <>
     <div className="animate-fade-in-up">
       {/* ── Page title ────────────────────────────────────── */}
       <div className="mb-6">
@@ -414,7 +415,7 @@ export default function Predictor() {
 
                       {/* Cutoff with trend */}
                       <td className="px-4 py-3">
-                        <CutoffTrend c25={r.cutoff25} c24={r.cutoff24} />
+                        {renderCutoffTrend(r.cutoff25, r.cutoff24)}
                       </td>
 
                       {/* Fee */}
@@ -557,15 +558,17 @@ export default function Predictor() {
         </div>
       )}
 
-      {/* ── Seat Matrix Modal ──────────────────────────── */}
-      <SeatMatrixModal
-        isOpen={modalData !== null}
-        onClose={() => setModalData(null)}
-        collegeName={modalData?.collegeName || ''}
-        branchCode={modalData?.branchCode || ''}
-        branchName={modalData?.branchName || ''}
-        ecetIntake={modalData?.ecetIntake || 0}
-      />
     </div>
+
+    {/* ── Seat Matrix Modal (rendered outside main content div) ── */}
+    <SeatMatrixModal
+      isOpen={modalData !== null}
+      onClose={() => setModalData(null)}
+      collegeName={modalData?.collegeName || ''}
+      branchCode={modalData?.branchCode || ''}
+      branchName={modalData?.branchName || ''}
+      ecetIntake={modalData?.ecetIntake || 0}
+    />
+    </>
   );
 }
