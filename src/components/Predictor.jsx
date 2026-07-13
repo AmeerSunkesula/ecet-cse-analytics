@@ -79,10 +79,6 @@ function getApplicableCutoff(caste, gender, region, courseData, is2024 = false) 
   if (is2024 && (caste === 'SC_I' || caste === 'SC_II' || caste === 'SC_III')) {
     casteTokens = ['SC'];
   }
-  // Open Category (OC) seats are open to everyone regardless of caste
-  if (caste !== 'OC') {
-    casteTokens.push('OC');
-  }
 
   const regions = region === 'UR' ? ['UR'] : [region, 'UR'];
   let best = null;
@@ -147,8 +143,13 @@ export default function Predictor() {
         const courseData25 = college.courses[courseCode];
         if (!courseData25) continue;
 
-        const cutoff25 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, courseData25, false);
-        if (cutoff25 == null) continue;
+        const casteCutoff25 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, courseData25, false);
+        const ocCutoff25 = deferredFilter.caste !== 'OC' 
+          ? getApplicableCutoff('OC', deferredFilter.gender, deferredFilter.region, courseData25, false) 
+          : null;
+        
+        const cutoff25 = Math.max(casteCutoff25 || 0, ocCutoff25 || 0);
+        if (cutoff25 === 0) continue;
 
         const tier = getTier(userRank, cutoff25);
         if (!tier) continue;
@@ -157,7 +158,12 @@ export default function Predictor() {
         let cutoff24 = null;
         const college24 = cutoffs2024[code];
         if (college24 && college24.courses[courseCode]) {
-          cutoff24 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, college24.courses[courseCode], true);
+          const casteCutoff24 = getApplicableCutoff(deferredFilter.caste, deferredFilter.gender, deferredFilter.region, college24.courses[courseCode], true);
+          const ocCutoff24 = deferredFilter.caste !== 'OC'
+            ? getApplicableCutoff('OC', deferredFilter.gender, deferredFilter.region, college24.courses[courseCode], true)
+            : null;
+          const max24 = Math.max(casteCutoff24 || 0, ocCutoff24 || 0);
+          if (max24 > 0) cutoff24 = max24;
         }
 
         // Look up seat/fee data
@@ -171,6 +177,7 @@ export default function Predictor() {
           courseName: COURSE_NAMES[courseCode] || courseCode,
           cutoff25,
           cutoff24,
+          ocCutoff25,
           tier,
           gap: cutoff25 - userRank,
           // Enriched college data
@@ -202,11 +209,14 @@ export default function Predictor() {
     'block text-xs font-semibold uppercase tracking-wider text-[var(--text-muted)] mb-1.5';
 
   /** Render the cutoff trend inline (not a component to avoid reconciliation issues) */
-  function renderCutoffTrend(c25, c24) {
+  function renderCutoffTrend(c25, c24, oc25) {
     if (c24 == null) return (
-      <div className="text-right">
+      <div className="text-right flex flex-col items-end">
         <div className="text-[var(--text-primary)] font-semibold tabular-nums">{c25.toLocaleString()}</div>
         <div className="text-[10px] text-[var(--text-muted)]">2025 · no 2024 data</div>
+        {oc25 != null && (
+          <div className="text-[10px] text-sky-400 mt-0.5">OC '25: {oc25.toLocaleString()}</div>
+        )}
       </div>
     );
     const diff = c25 - c24;
@@ -230,6 +240,11 @@ export default function Predictor() {
             </span>
           )}
         </div>
+        {oc25 != null && (
+          <div className="text-[10px] text-sky-400 mt-0.5 bg-sky-500/10 px-1.5 py-0.5 rounded-sm inline-block">
+            OC '25: {oc25.toLocaleString()}
+          </div>
+        )}
       </div>
     );
   }
@@ -428,7 +443,7 @@ export default function Predictor() {
 
                       {/* Cutoff with trend */}
                       <td className="px-4 py-3">
-                        {renderCutoffTrend(r.cutoff25, r.cutoff24)}
+                        {renderCutoffTrend(r.cutoff25, r.cutoff24, r.ocCutoff25)}
                       </td>
 
                       {/* Fee */}
@@ -526,6 +541,11 @@ export default function Predictor() {
                         <div className="text-sm font-semibold text-[var(--text-primary)] tabular-nums">
                           {r.cutoff25.toLocaleString()}
                         </div>
+                        {r.ocCutoff25 != null && (
+                          <div className="text-[9px] text-sky-400 bg-sky-500/10 px-1 py-0.5 mt-0.5 rounded-sm">
+                            OC: {r.ocCutoff25.toLocaleString()}
+                          </div>
+                        )}
                       </div>
                       {r.cutoff24 != null && (
                         <div className="text-right">
